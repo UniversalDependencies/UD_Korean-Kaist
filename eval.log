@@ -1,0 +1,32 @@
+Sun Feb 11 20:45:45 CET 2018
+perl -I perllib/lib/perl5 -I tools tools/evaluate_treebank.pl --verbose UD_Korean-Kaist
+Running the following version of tools/evaluate_treebank.pl:
+commit c1cb17aec6a5505b56b885f578dc6b1093bb4b30
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sun Feb 11 20:27:50 2018 +0100
+Already on 'master'
+Your branch is up-to-date with 'origin/master'.
+Evaluating the following revision of UD_Korean-Kaist:
+commit 05dc3da1721542fd403f720ca13ed2175a951cb1
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed Jan 31 23:17:37 2018 +0100
+WARNING: No data found in './UD_Korean-Kaist'
+Size: counted 1 of 0 words (nodes).
+Size: min(0, log((N/1000)**2)) = 0.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Did not find at least 10000 test words.
+Lemmas: No lemmas found.
+Universal POS tags: 0 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.8.
+Features: 0 out of 0 total words have one or more features.
+Features: source of annotation (from README) factor is 0.8.
+Universal relations: 0 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 0.8.
+Genres: found 2 out of 14 known.
+Availability: No words found.
+STARS = 0
+UD_Korean-Kaist	0	0
+Switched to branch 'dev'
+Your branch is up-to-date with 'origin/dev'.
