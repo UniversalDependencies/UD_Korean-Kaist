@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>27363</sentences><tokens>350090</tokens><words>350090</words><fused>0</fused></total>
+  </size>
+  <lemmas unique="99298" /><!-- ., ,, 있+다, 수, 그, 것+이+다, 이, 있+는, 그러나, ', 것+은, (, ), 것+이, 하+ㄴ다 -->
+  <forms unique="97864" /><!-- ., ,, 있다, 수, 그, 것이다, 이, 있는, 그러나, ', (, ), 것은, 한, 것이 -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="17">
+    <tag name="ADJ">14223</tag><!-- 있+다, 있+는, 같+ㄴ, 다르+ㄴ, 없+다, 모든, 없+는, 새롭+ㄴ, 많+ㄴ, 크+ㄴ -->
+    <tag name="ADP">1498</tag><!-- 의, 에, 이+라는, 를, 을, 가, 이, 는, 은, 로 -->
+    <tag name="ADV">49204</tag><!-- 때문+에, 것+으로, 가장, 더, 바로, 다시, 특히, 잘, 물론, 함께 -->
+    <tag name="AUX">12906</tag><!-- 있+다, 있+는, 하+ㄴ다, 있+었+다, 되+었+다, 되+ㄴ다, 하+ㄹ, 하+었+다, 않+았+다, 하+는 -->
+    <tag name="CCONJ">19368</tag><!-- 그러나, 그리고, 따라서, 즉, 그런데, 또한, 및, 다음+과, 또는, 이+와 -->
+    <tag name="DET">4824</tag><!-- 그, 이, 어느, 이런, 어떤, 그런, 모든, 무슨, 저, 다른 -->
+    <tag name="INTJ">56</tag><!-- 말입니다, 말이다, 아니, 자, 아, 여보, 안녕, 어디, 젊은이+여, 검+이여 -->
+    <tag name="NOUN">105193</tag><!-- 수, 것+은, 것+이, 것+을, 때, 년, 가지, 것, 데, 등 -->
+    <tag name="NUM">4848</tag><!-- 한, 두, 1, 하나+의, 세, 2, 3, 10, 5, 하나+는 -->
+    <tag name="PART">268</tag><!-- 는, 무+의미+하+ㄴ, 유+의미+하+ㄴ, 제+2+차, 라는, 제+1+의, 제+2+의, 반+소모사, 제+1, 제+3+세계 -->
+    <tag name="PRON">7712</tag><!-- 그+는, 우리, 그+의, 그것+은, 우리+는, 나+는, 이, 이것+은, 그+들+은, 이+는 -->
+    <tag name="PROPN">12366</tag><!-- 일본, 일본+의, 한국+의, 한국, 중국, 중국+의, 흉노, 미국+의, 미국, 영국+의 -->
+    <tag name="PUNCT">38925</tag><!-- ., ,, ', (, ), ?, ", <, >, ! -->
+    <tag name="SCONJ">18466</tag><!-- 아니+라, 의하+어, 위하+어, 따르+아, 같+이, 통하+어, 크+게, 보+면, 대하+어, 있+어서 -->
+    <tag name="SYM">260</tag><!-- %, km, $, 1,500+m, 10+m, 20+ha, 200+m, 216+m, 30+m, 3000+m -->
+    <tag name="VERB">59273</tag><!-- 것+이+다, 이러하+ㄴ, 대하+ㄴ, 하+ㄹ, 하+는, 때문+이+다, 하+ㄴ다, 것+이+ㅂ니다, 하+었+다, 보+ㄹ -->
+    <tag name="X">700</tag><!-- EC, 프롤레타리아, TV, S, the, km, ATM, PCS, 에퀴티, ABC -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="0">
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="31">
+    <dep name="acl">21468</dep>
+    <dep name="advcl">20487</dep>
+    <dep name="advmod">19102</dep>
+    <dep name="amod">16584</dep>
+    <dep name="appos">1059</dep>
+    <dep name="aux">18935</dep>
+    <dep name="case">1343</dep>
+    <dep name="cc">5234</dep>
+    <dep name="ccomp">15655</dep>
+    <dep name="clf">1</dep>
+    <dep name="compound">24696</dep>
+    <dep name="conj">20774</dep>
+    <dep name="cop">303</dep>
+    <dep name="csubj">1202</dep>
+    <dep name="dep">3019</dep>
+    <dep name="det">4824</dep>
+    <dep name="discourse">47</dep>
+    <dep name="dislocated">20964</dep>
+    <dep name="fixed">3186</dep>
+    <dep name="flat">803</dep>
+    <dep name="iobj">967</dep>
+    <dep name="mark">799</dep>
+    <dep name="nmod">22045</dep>
+    <dep name="nsubj">17444</dep>
+    <dep name="nummod">3295</dep>
+    <dep name="obj">23605</dep>
+    <dep name="obl">11577</dep>
+    <dep name="punct">39016</dep>
+    <dep name="root">27363</dep>
+    <dep name="vocative">15</dep>
+    <dep name="xcomp">4278</dep>
+  </deps>
+</treebank>
