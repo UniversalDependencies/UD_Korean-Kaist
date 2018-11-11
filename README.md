@@ -31,7 +31,7 @@ The project repository: https://github.com/emorynlp/ud-korean
 Data available since: UD v2.2
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: news literature academic
+Genre: news fiction academic
 Lemmas: converted from manual
 UPOS: converted from manual
 XPOS: converted from manual
