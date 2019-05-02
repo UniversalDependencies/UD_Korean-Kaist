@@ -24342,13 +24342,13 @@
 8	.	.	PUNCT	sf	_	7	punct	_	_
 
 # sent_id = MH2_0180-s215
-# text = 그것은 소피스테스 편에서의 유 ( 類 ) 의 변증법에 관한 서술은 결국 여전히 ' 변증법적 ' 이라는 점이다 .
+# text = 그것은 소피스테스 편에서의 유 ( 類 ) 의 변증법에 관한 서술은 결국 여전히 ' 변증법적 ' 이라는 점이다 .
 1	그것은	그것+은	PRON	npd+jxt	_	18	dislocated	_	_
 2	소피스테스	소피스테스	PROPN	nq	_	3	compound	_	_
 3	편에서의	편+에서+의	NOUN	nbn+jca+jcm	_	11	nmod	_	_
 4	유	유	NOUN	ncn	_	9	nmod	_	_
 5	(	(	PUNCT	sl	_	6	punct	_	_
-6	類	類	PROPN	nq	_	4	appos	_	_
+6	類	類	PROPN	nq	_	4	appos	_	_
 7	)	)	PUNCT	sr	_	6	punct	_	_
 8	의	의	ADP	jcm	_	4	case	_	_
 9	변증법에	변증법+에	ADV	ncn+jca	_	10	obl	_	_
@@ -25524,13 +25524,13 @@
 21	.	.	PUNCT	sf	_	20	punct	_	_
 
 # sent_id = MH2_0180-s286
-# text = 명제의 형식은 변증법적 영유화 ( 領有化 ) 와 전개에 인도되어야 할 것을 자기 속에 보관한다 .
+# text = 명제의 형식은 변증법적 영유화 ( 領有化 ) 와 전개에 인도되어야 할 것을 자기 속에 보관한다 .
 1	명제의	명제+의	NOUN	ncn+jcm	_	2	nmod	_	_
 2	형식은	형식+은	NOUN	ncn+jxt	_	15	dislocated	_	_
 3	변증법적	변증법+적	NOUN	ncn+xsn	_	4	amod	_	_
 4	영유화	영유화	NOUN	ncn	_	15	obj	_	_
 5	(	(	PUNCT	sl	_	6	punct	_	_
-6	領有化	領有化	PROPN	nq	_	4	appos	_	_
+6	領有化	領有化	PROPN	nq	_	4	appos	_	_
 7	)	)	PUNCT	sr	_	6	punct	_	_
 8	와	와	CCONJ	jcj	_	4	case	_	_
 9	전개에	전개+에	ADV	ncpa+jca	_	10	obl	_	_
