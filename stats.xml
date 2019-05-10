@@ -6,9 +6,12 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>27363</sentences><tokens>350090</tokens><words>350090</words><fused>0</fused></total>
+    <train><sentences>23010</sentences><tokens>296446</tokens><words>296446</words><fused>0</fused></train>
+    <dev><sentences>2066</sentences><tokens>25278</tokens><words>25278</words><fused>0</fused></dev>
+    <test><sentences>2287</sentences><tokens>28366</tokens><words>28366</words><fused>0</fused></test>
   </size>
-  <lemmas unique="99298" /><!-- ., ,, 있+다, 수, 그, 것+이+다, 이, 있+는, 그러나, ', 것+은, (, ), 것+이, 하+ㄴ다 -->
-  <forms unique="97864" /><!-- ., ,, 있다, 수, 그, 것이다, 이, 있는, 그러나, ', (, ), 것은, 한, 것이 -->
+  <lemmas unique="99297" /><!-- ., ,, 있+다, 수, 그, 것+이+다, 이, 있+는, 그러나, ', 것+은, (, ), 것+이, 하+ㄴ다 -->
+  <forms unique="97863" /><!-- ., ,, 있다, 수, 그, 것이다, 이, 있는, 그러나, ', (, ), 것은, 한, 것이 -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
