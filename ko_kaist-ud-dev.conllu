@@ -16733,13 +16733,13 @@
 16	.	.	PUNCT	sf	_	15	punct	_	_
 
 # sent_id = MH2_0159-s239
-# text = 재현했던 이도 광기를 지녔던 시인 李白이었다 .
+# text = 재현했던 이도 광기를 지녔던 시인 李白이었다 .
 1	재현했던	재현+하+었+던	VERB	ncpa+xsv+ep+etm	_	2	acl	_	_
 2	이도	이+도	ADV	nbn+jxc	_	6	advcl	_	_
 3	광기를	광기+를	NOUN	ncn+jco	_	4	obj	_	_
 4	지녔던	지니+었+던	VERB	pvg+ep+etm	_	6	ccomp	_	_
 5	시인	시인	NOUN	ncn	_	6	compound	_	_
-6	李白이었다	李白+이+었+다	VERB	nq+jp+ep+ef	_	0	root	_	_
+6	李白이었다	李白+이+었+다	VERB	nq+jp+ep+ef	_	0	root	_	_
 7	.	.	PUNCT	sf	_	6	punct	_	_
 
 # sent_id = MH2_0159-s240
@@ -16772,7 +16772,7 @@
 8	.	.	PUNCT	sf	_	7	punct	_	_
 
 # sent_id = MH2_0159-s242
-# text = 方外의 기질이 농후했던 허균조차도 송나라 문장가들이 일상어를 語로 변화시킨 것을 쇠를 녹여 金으로 만든 것이라고 비유했다 .
+# text = 方外의 기질이 농후했던 허균조차도 송나라 문장가들이 일상어를 語로 변화시킨 것을 쇠를 녹여 金으로 만든 것이라고 비유했다 .
 1	方外의	方外+의	NOUN	ncn+jcm	_	2	nmod	_	_
 2	기질이	기질+이	NOUN	ncn+jcs	_	3	nsubj	_	_
 3	농후했던	농후+하+었+던	VERB	ncps+xsm+ep+etm	_	4	amod	_	_
@@ -16785,7 +16785,7 @@
 10	것을	것+을	NOUN	nbn+jco	_	16	obj	_	_
 11	쇠를	쇠+를	NOUN	ncn+jco	_	12	obj	_	_
 12	녹여	녹+이+어	SCONJ	ncn+jp+ecs	_	0	root	_	_
-13	金으로	金+으로	ADV	ncn+jca	_	14	advcl	_	_
+13	金으로	金+으로	ADV	ncn+jca	_	14	advcl	_	_
 14	만든	만들+ㄴ	VERB	pvg+etm	_	12	conj	_	_
 15	것이라고	것+이+라+고	VERB	nbn+jp+ef+jcr	_	14	aux	_	_
 16	비유했다	비유+하+었+다	VERB	ncpa+xsv+ep+ef	_	12	conj	_	_
@@ -17469,7 +17469,7 @@
 11	.	.	PUNCT	sf	_	10	punct	_	_
 
 # sent_id = MH2_0159-s287
-# text = 간과할 수 없는 사실을 시집을 펴내는 사사로운 감회 못지않게 시인의 문학관이나 詩論도 명시되어 있다는 점이다 .
+# text = 간과할 수 없는 사실을 시집을 펴내는 사사로운 감회 못지않게 시인의 문학관이나 詩論도 명시되어 있다는 점이다 .
 1	간과할	간과+하+ㄹ	VERB	ncpa+xsv+etm	_	4	acl	_	_
 2	수	수	NOUN	nbn	_	1	aux	_	_
 3	없는	없+는	ADJ	paa+etm	_	2	fixed	_	_
@@ -17481,7 +17481,7 @@
 9	못지않게	못지않+게	SCONJ	paa+ecs	_	13	xcomp	_	_
 10	시인의	시인+의	NOUN	ncn+jcm	_	12	nmod	_	_
 11	문학관이나	문학관+이나	CCONJ	ncn+jcj	_	13	advcl	_	_
-12	詩論도	詩論+도	ADV	ncn+jxc	_	11	conj	_	_
+12	詩論도	詩論+도	ADV	ncn+jxc	_	11	conj	_	_
 13	명시되어	명시+되+어	VERB	ncpa+xsv+ecx	_	15	ccomp	_	_
 14	있다는	있+다는	AUX	px+etm	_	13	aux	_	_
 15	점이다	점+이+다	VERB	nbu+jp+ef	_	0	root	_	_
@@ -18105,7 +18105,7 @@
 16	.	.	PUNCT	sf	_	15	punct	_	_
 
 # sent_id = MH2_0159-s331
-# text = 한편 , 이 시집의 발문은 고인의 아우 李源朝가 피를 토하는 심정으로 기술했다 .
+# text = 한편 , 이 시집의 발문은 고인의 아우 李源朝가 피를 토하는 심정으로 기술했다 .
 1	한편	한편	CCONJ	maj	_	12	cc	_	_
 2	,	,	PUNCT	sp	_	1	punct	_	_
 3	이	이	DET	mmd	_	4	det	_	_
@@ -18113,7 +18113,7 @@
 5	발문은	발문+은	NOUN	ncn+jxt	_	12	dislocated	_	_
 6	고인의	고인+의	NOUN	ncn+jcm	_	7	nmod	_	_
 7	아우	아우	NOUN	ncn	_	8	compound	_	_
-8	李源朝가	李源朝+가	PROPN	nq+jcs	_	12	nsubj	_	_
+8	李源朝가	李源朝+가	PROPN	nq+jcs	_	12	nsubj	_	_
 9	피를	피+를	NOUN	ncn+jco	_	10	obj	_	_
 10	토하는	토하+는	VERB	pvg+etm	_	11	acl	_	_
 11	심정으로	심정+으로	ADV	ncn+jca	_	12	advcl	_	_
