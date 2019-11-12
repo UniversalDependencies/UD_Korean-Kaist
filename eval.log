@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Korean-Kaist:
-commit 8a365911166ef936d57ebb47067c84d128c4f044
-Merge: 39e0187 11bddb3
+commit 83d732026699bb88aafcffbaf885e118670dfced
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri May 10 21:27:40 2019 +0200
 Size: counted 350090 of 350090 words (nodes).
 Size: min(0, log((N/1000)**2)) = 11.7163805285701.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -23,12 +23,48 @@ Udapi: found 83611 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 350090 words.
 Genres: found 3 out of 17 known.
 validate.py --lang ko --max-err=10 UD_Korean-Kaist/ko_kaist-ud-dev.conllu
-*** PASSED ***
+[Line 52 Sent M2TA_069-s5 Node 6]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 58 Sent M2TA_069-s5 Node 12]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'SCONJ'
+[Line 122 Sent M2TA_069-s9 Node 4]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'SCONJ'
+[Line 158 Sent M2TA_069-s11 Node 8]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 163 Sent M2TA_069-s11 Node 13]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'SCONJ'
+[Line 227 Sent M2TA_069-s16 Node 4]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 233 Sent M2TA_069-s17 Node 2]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 236 Sent M2TA_069-s17 Node 5]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'CCONJ'
+[Line 237 Sent M2TA_069-s17 Node 6]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+...suppressing further errors regarding Syntax
+Syntax errors: 1094
+*** FAILED *** with 1094 errors
+Exit code: 1
 validate.py --lang ko --max-err=10 UD_Korean-Kaist/ko_kaist-ud-test.conllu
-*** PASSED ***
+[Line 10 Sent M2TA_070-s1 Node 8]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'CCONJ'
+[Line 16 Sent M2TA_070-s1 Node 14]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'NOUN'
+[Line 42 Sent M2TA_070-s3 Node 2]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 51 Sent M2TA_070-s3 Node 11]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'CCONJ'
+[Line 99 Sent M2TA_070-s6 Node 8]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'ADV'
+[Line 150 Sent M2TA_070-s9 Node 4]: [L3 Syntax rel-upos-mark] 'mark' should not be 'NOUN'
+[Line 149 Sent M2TA_070-s9 Node 4]: [L3 Syntax leaf-mark-case] 'mark' not expected to have children (4:대로:mark --> 3:약해질:amod)
+[Line 158 Sent M2TA_070-s10 Node 3]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PROPN'
+[Line 178 Sent M2TA_070-s11 Node 6]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'NOUN'
+...suppressing further errors regarding Syntax
+Syntax errors: 1381
+*** FAILED *** with 1381 errors
+Exit code: 1
 validate.py --lang ko --max-err=10 UD_Korean-Kaist/ko_kaist-ud-train.conllu
-*** PASSED ***
-Validity: 1
+[Line 11 Sent M2TA_064-s1 Node 9]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'NOUN'
+[Line 68 Sent M2TA_064-s5 Node 11]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'SCONJ'
+[Line 74 Sent M2TA_064-s5 Node 17]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 143 Sent M2TA_064-s10 Node 5]: [L3 Syntax rel-upos-mark] 'mark' should not be 'NOUN'
+[Line 142 Sent M2TA_064-s10 Node 5]: [L3 Syntax leaf-mark-case] 'mark' not expected to have children (5:만큼:mark --> 4:어느:det)
+[Line 160 Sent M2TA_064-s11 Node 8]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 170 Sent M2TA_064-s12 Node 6]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'SCONJ'
+[Line 177 Sent M2TA_064-s12 Node 13]: [L3 Syntax rel-upos-mark] 'mark' should not be 'NOUN'
+[Line 176 Sent M2TA_064-s12 Node 13]: [L3 Syntax leaf-mark-case] 'mark' not expected to have children (13:줄:mark --> 12:살아갈:acl)
+...suppressing further errors regarding Syntax
+Syntax errors: 13751
+*** FAILED *** with 13751 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.01) = 0.000769230769230769
 (weight=0.0769230769230769) * (score{genres}=0.176470588235294) = 0.0135746606334842
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
@@ -37,6 +73,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.8) = 0.0615384615384615
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.67027027027027) = 0.0515592515592516
-(TOTAL score=0.460790297296868) * (availability=1) * (validity=1) = 0.460790297296868
-STARS = 2.5
-UD_Korean-Kaist	0.460790297296868	2.5
+(TOTAL score=0.460790297296868) * (availability=1) * (validity=0.01) = 0.00460790297296868
+STARS = 0
+UD_Korean-Kaist	0.00460790297296868	0
