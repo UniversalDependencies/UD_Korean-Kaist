@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Korean-Kaist:
-commit 8bd49781fd842eed8f52aa07a04bee2eaaa1665c
+commit 2d02ac6a69f3c1a7fe98bdabcce202dc3bc4e700
+Merge: d33e0e8 6df3c79
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 12 17:25:48 2019 +0100
 Size: counted 350090 of 350090 words (nodes).
 Size: min(0, log((N/1000)**2)) = 11.7163805285701.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -94,8 +94,8 @@ validate.py --lang ko --max-err=10 UD_Korean-Kaist/ko_kaist-ud-train.conllu
 ...suppressing further errors regarding Morpho
 ...suppressing further errors regarding Syntax
 Morpho errors: 10821
-Syntax errors: 13751
-*** FAILED *** with 24572 errors
+Syntax errors: 13752
+*** FAILED *** with 24573 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.01) = 0.000769230769230769
