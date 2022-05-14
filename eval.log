@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_Korean-Kaist:
-commit 45515fc149b4caab0bfecd3f272bc3bae1ecdf1b
+commit 4b0ee0b495ecdb1dd97c14afbd781c08e57f1b50
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 13 09:35:38 2021 +0200
+Date:   Wed Nov 3 16:40:54 2021 +0100
 Size: counted 350090 of 350090 words (nodes).
 Size: min(0, log((N/1000)**2)) = 11.7163805285701.
 Size: maximum value 13.815511 is for 1000000 words or more.
