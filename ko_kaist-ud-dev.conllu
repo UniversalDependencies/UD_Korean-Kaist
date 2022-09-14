@@ -277,7 +277,7 @@
 10	부족하니까	부족+하+니까	SCONJ	ncps+xsm+ecs	_	11	xcomp	_	Translit=.bu.jog.ha.ni.gga|LTranslit=.bu.jog+.ha+.ni.gga
 11	파묻고	파묻+고	CCONJ	pvg+ecc	_	7	conj	_	Translit=.pa.mud.go|LTranslit=.pa.mud+.go
 12	밟습니다	밟+습니다	VERB	pvg+ef	_	11	conj	_	SpaceAfter=No|Translit=.barb.seub.ni.da|LTranslit=.barb+.seub.ni.da
-13	.	.	PUNCT	sf	_	11	conj	_	Translit=.|LTranslit=.
+13	.	.	PUNCT	sf	_	11	punct	_	Translit=.|LTranslit=.
 
 # sent_id = M2TA_069-s20
 # text = 즉 부산 동래부를 거쳐서 언양으로, 울산으로 경주로 해서는 문경새재를 넘었답니다.
@@ -5787,7 +5787,7 @@
 2	정권은	정권+은	NOUN	ncn+jxt	_	17	dislocated	_	Translit=.jeong.gweon.eun|LTranslit=.jeong.gweon+.eun
 3	1972년	1972+년	NOUN	nno+nbu	_	4	compound	_	Translit=1972.nyeon|LTranslit=1972+.nyeon
 4	12월	12+월	NOUN	nno+nbu	_	14	advmod	_	Translit=12.weol|LTranslit=12+.weol
-5	'	'	PUNCT	sl	_	11	compound	_	SpaceAfter=No|Translit='|LTranslit='
+5	'	'	PUNCT	sl	_	11	punct	_	SpaceAfter=No|Translit='|LTranslit='
 6	출판사	출판사	NOUN	ncn	_	10	obl	_	Translit=.chul.pan.sa|LTranslit=.chul.pan.sa
 7	및	및	CCONJ	maj	_	8	cc	_	Translit=.mich|LTranslit=.mich
 8	인쇄사	인쇄사	NOUN	ncn	_	6	conj	_	Translit=.in.swae.sa|LTranslit=.in.swae.sa

@@ -27464,7 +27464,7 @@
 1	의식의	의식+의	NOUN	ncpa+jcm	_	2	nmod	_	Translit=.yi.sig.yi|LTranslit=.yi.sig+.yi
 2	현상학에	현상학+에	ADV	ncn+jca	_	3	obl	_	Translit=.hyeon.sang.hag.e|LTranslit=.hyeon.sang.hag+.e
 3	속하는	속하+는	VERB	pvg+etm	_	6	acl	_	Translit=.sog.ha.neun|LTranslit=.sog.ha+.neun
-4	'	'	PUNCT	sl	_	5	nmod	_	SpaceAfter=No|Translit='|LTranslit='
+4	'	'	PUNCT	sl	_	5	punct	_	SpaceAfter=No|Translit='|LTranslit='
 5	힘과	힘+과	CCONJ	ncn+jcj	_	14	dislocated	_	Translit=.him.gwa|LTranslit=.him+.gwa
 6	오성	오성	NOUN	ncn	_	5	conj	_	SpaceAfter=No|Translit=.o.seong|LTranslit=.o.seong
 7	'	'	PUNCT	sr	_	5	punct	_	Translit='|LTranslit='
@@ -27759,7 +27759,7 @@
 # sent_id = MH2_0180-s315
 # text = '힘과 오성' 에 관한 장에서야말로 거꾸로 된 세계에 관한 사색을 촉진하는 충격적인 전회가 씌어져 있다.
 # translit = '.him.gwa .o.seong' .e .gwan.han .jang.e.seo.ya.mal.ro .geo.ggu.ro .doen .se.gye.e .gwan.han .sa.saeg.eul .chog.jin.ha.neun .chung.gyeog.jeog.in .jeon.hoe.ga .ssyi.eo.jyeo .iss.da.
-1	'	'	PUNCT	sl	_	2	obl	_	SpaceAfter=No|Translit='|LTranslit='
+1	'	'	PUNCT	sl	_	2	punct	_	SpaceAfter=No|Translit='|LTranslit='
 2	힘과	힘+과	CCONJ	ncn+jcj	_	7	acl	_	Translit=.him.gwa|LTranslit=.him+.gwa
 3	오성	오성	NOUN	ncn	_	2	conj	_	SpaceAfter=No|Translit=.o.seong|LTranslit=.o.seong
 4	'	'	PUNCT	sr	_	3	punct	_	Translit='|LTranslit='
