@@ -242,7 +242,7 @@
 # text = 하며 소리치지요.
 1	하며	하+며	CCONJ	pvg+ecc	_	0	root	_	_
 2	소리치지요	소리치+지+요	VERB	pvg+ef+jxf	_	1	conj	_	SpaceAfter=No
-3	.	.	PUNCT	sf	_	1	conj	_	_
+3	.	.	PUNCT	sf	_	1	punct	_	_
 
 # sent_id = M2TA_069-s19
 # text = 이와 같이 콩을 볶고 나서는 잡아 먹고, 그것으로 부족하니까 파묻고 밟습니다.
@@ -253,9 +253,9 @@
 5	나서는	나+서+는	NOUN	px+ecs+jxt	_	4	aux	_	_
 6	잡아	잡+아	SCONJ	pvg+ecs	_	7	ccomp	_	_
 7	먹고	먹+고	CCONJ	pvg+ecc	_	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	11	punct	_	_
 9	그것으로	그것+으로	ADV	npd+jca	_	10	advcl	_	_
-10	부족하니까	부족+하+니까	SCONJ	ncps+xsm+ecs	_	13	xcomp	_	_
+10	부족하니까	부족+하+니까	SCONJ	ncps+xsm+ecs	_	11	xcomp	_	_
 11	파묻고	파묻+고	CCONJ	pvg+ecc	_	7	conj	_	_
 12	밟습니다	밟+습니다	VERB	pvg+ef	_	11	conj	_	SpaceAfter=No
 13	.	.	PUNCT	sf	_	11	conj	_	_
@@ -294,11 +294,11 @@
 2	다리를	다리+를	NOUN	ncn+jco	_	3	obj	_	_
 3	건너서	건너+서	SCONJ	pvg+ecs	_	11	ccomp	_	_
 4	증포리	증포리	PROPN	nq	_	11	advcl	_	SpaceAfter=No
-5	,	,	PUNCT	sp	_	4	punct	_	_
+5	,	,	PUNCT	sp	_	6	punct	_	_
 6	사근리	사근리	PROPN	nq	_	4	conj	_	SpaceAfter=No
 7	,	,	PUNCT	sp	_	6	punct	_	_
 8	왕십리	왕십리	PROPN	nq	_	4	conj	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	10	punct	_	_
 10	마장리로	마장리+로	ADV	nq+jca	_	4	conj	_	_
 11	쳐들어왔습니다	쳐들+어+오+았+습니다	AUX	pvg+ecx+px+ep+ef	_	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	sf	_	11	punct	_	_
@@ -318,14 +318,14 @@
 1	처음에는	처음+에+는	NOUN	ncn+jca+jxt	_	4	dislocated	_	_
 2	귀를	귀+를	NOUN	ncn+jco	_	4	obj	_	_
 3	소금에	소금+에	ADV	ncn+jca	_	4	obl	_	_
-4	절이다가	절이+다가	SCONJ	pvg+ecs	_	11	ccomp	_	_
+4	절이다가	절이+다가	SCONJ	pvg+ecs	_	8	ccomp	_	_
 5	결국은	결국+은	NOUN	ncn+jxt	_	8	dislocated	_	_
 6	코를	코+를	NOUN	ncn+jco	_	8	obj	_	_
 7	소금에	소금+에	ADV	ncn+jca	_	8	obl	_	_
 8	절여	절이+어	VERB	pvg+ecx	_	0	root	_	_
 9	가지고	가지+고	CCONJ	px+ecc	_	8	aux	_	_
 10	갔습니다	가+ㅆ+습니다	VERB	pvg+ep+ef	_	8	conj	_	SpaceAfter=No
-11	.	.	PUNCT	sf	_	8	conj	_	_
+11	.	.	PUNCT	sf	_	8	punct	_	_
 
 # sent_id = M2TA_069-s25
 # text = 너무 착하다보니 말입니다.
@@ -407,11 +407,11 @@
 # text = 한인은 성냥, 연필, 공책, 비누 같은 일용품도 만들지 못하도록 하고 토지를 빼앗아 간도로 밀려나가게 되었다.
 1	한인은	한인+은	NOUN	ncn+jxt	_	17	dislocated	_	_
 2	성냥	성냥	NOUN	ncn	_	9	dep	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	4	punct	_	_
 4	연필	연필	NOUN	ncn	_	2	conj	_	SpaceAfter=No
 5	,	,	PUNCT	sp	_	4	punct	_	_
 6	공책	공책	NOUN	ncn	_	2	conj	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	8	punct	_	_
 8	비누	비누	NOUN	ncn	_	2	conj	_	_
 9	같은	같+ㄴ	ADJ	paa+etm	_	10	amod	_	_
 10	일용품도	일용품+도	ADV	ncn+jxc	_	11	advcl	_	_
@@ -512,11 +512,11 @@
 1	초기의	초기+의	NOUN	ncn+jcm	_	2	nmod	_	_
 2	학생은	학생+은	NOUN	ncn+jxt	_	10	dislocated	_	_
 3	송순명	송순명	PROPN	nq	_	10	compound	_	SpaceAfter=No
-4	,	,	PUNCT	sp	_	3	punct	_	_
+4	,	,	PUNCT	sp	_	5	punct	_	_
 5	안창석	안창석	PROPN	nq	_	3	conj	_	SpaceAfter=No
 6	,	,	PUNCT	sp	_	5	punct	_	_
 7	김유순	김유순	PROPN	nq	_	3	conj	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	9	punct	_	_
 9	김규식	김규식	PROPN	nq	_	3	conj	_	_
 10	등이었다	등+이+었+다	VERB	nbn+jp+ep+ef	_	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	sf	_	10	punct	_	_
@@ -653,7 +653,7 @@
 4	오래도록	오래도록	ADV	mag	_	6	advmod	_	_
 5	배추밭이	배추밭+이	NOUN	ncn+jcs	_	6	nsubj	_	_
 6	많았고	많+았+고	CCONJ	paa+ep+ecc	_	0	root	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	14	punct	_	_
 8	연지동은	연지동+은	PROPN	nq+jxt	_	14	dislocated	_	_
 9	남북으로	남북+으로	ADV	ncn+jca	_	11	advcl	_	_
 10	깊게	깊+게	SCONJ	paa+ecs	_	11	xcomp	_	_
@@ -1018,12 +1018,12 @@
 # text = 마치 길들여진 노예나 하인처럼 이들은 기뻐하며 순종한다.
 1	마치	마치	ADV	mag	_	4	advmod	_	_
 2	길들여진	길들이+어+지+ㄴ	AUX	pvg+ecx+px+etm	_	4	acl	_	_
-3	노예나	노예+나	CCONJ	ncn+jcj	_	8	advcl	_	_
+3	노예나	노예+나	CCONJ	ncn+jcj	_	6	advcl	_	_
 4	하인처럼	하인+처럼	ADV	ncn+jca	_	3	conj	_	_
-5	이들은	이+들+은	PRON	npp+xsn+jxt	_	8	dislocated	_	_
+5	이들은	이+들+은	PRON	npp+xsn+jxt	_	6	dislocated	_	_
 6	기뻐하며	기뻐하+며	CCONJ	pvg+ecc	_	0	root	_	_
 7	순종한다	순종+하+ㄴ다	VERB	ncpa+xsv+ef	_	6	conj	_	SpaceAfter=No
-8	.	.	PUNCT	sf	_	6	conj	_	_
+8	.	.	PUNCT	sf	_	6	punct	_	_
 
 # sent_id = M2TA_089-s12
 # text = 힘 앞에 굴절된 약자의 잔인함은 더욱 잔혹하다.
@@ -1611,13 +1611,13 @@
 1	흑인병사들을	흑인병사+들+을	NOUN	ncn+xsn+jco	_	5	obj	_	_
 2	일단	일단	ADV	mag	_	5	advmod	_	_
 3	디스코테크로	디스코+테크+로	ADV	ncn+ncn+jca	_	5	advcl	_	_
-4	데리고	데리+고	CCONJ	pvg+ecc	_	10	ccomp	_	_
+4	데리고	데리+고	CCONJ	pvg+ecc	_	7	ccomp	_	_
 5	가서	가+서	SCONJ	pvg+ecs	_	4	conj	_	_
-6	신나게	신나+게	SCONJ	pvg+ecs	_	10	ccomp	_	_
+6	신나게	신나+게	SCONJ	pvg+ecs	_	7	ccomp	_	_
 7	춤추며	춤추+며	CCONJ	pvg+ecc	_	0	root	_	_
 8	마시고	마시+고	CCONJ	pvg+ecc	_	7	conj	_	_
 9	논다	놀+ㄴ다	VERB	pvg+ef	_	7	conj	_	SpaceAfter=No
-10	.	.	PUNCT	sf	_	7	conj	_	_
+10	.	.	PUNCT	sf	_	7	punct	_	_
 
 # sent_id = M2TA_089-s56
 # text = 그 다음에는 가까운 러브호텔로 간다.
@@ -1820,7 +1820,7 @@
 11	,	,	PUNCT	sp	_	10	punct	_	_
 12	인상비평식의	인상+비평식+의	NOUN	ncn+ncn+jcm	_	13	nmod	_	_
 13	서술	서술	NOUN	ncn	_	19	nmod	_	SpaceAfter=No
-14	,	,	PUNCT	sp	_	13	punct	_	_
+14	,	,	PUNCT	sp	_	17	punct	_	_
 15	현상에	현상+에	ADV	ncn+jca	_	16	obl	_	_
 16	대한	대하+ㄴ	VERB	pvg+etm	_	18	acl	_	_
 17	기술과	기술+과	CCONJ	ncpa+jcj	_	13	conj	_	_
@@ -2132,7 +2132,7 @@
 3	것은	것+은	NOUN	nbn+jxt	_	9	dislocated	_	_
 4	이데올로기나	이데올로기+나	CCONJ	ncn+jcj	_	9	obl	_	_
 5	정신적	정신+적	NOUN	ncn+xsn	_	7	dep	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	7	punct	_	_
+6	,	,	PUNCT	sp	_	5	punct	_	_
 7	예술적인	예술+적+이+ㄴ	VERB	ncn+xsn+jp+etm	_	8	acl	_	_
 8	영역에	영역+에	ADV	ncn+jca	_	4	conj	_	_
 9	속하는	속하+는	VERB	pvg+etm	_	0	root	_	_
@@ -2145,7 +2145,7 @@
 2	때문에	때문+에	ADV	nbn+jca	_	15	obl	_	_
 3	언론상품의	언론+상품+의	NOUN	ncpa+ncn+jcm	_	8	nmod	_	_
 4	이데올로기성	이데올로기성	NOUN	ncn	_	9	compound	_	SpaceAfter=No
-5	,	,	PUNCT	sp	_	4	punct	_	_
+5	,	,	PUNCT	sp	_	6	punct	_	_
 6	정신성	정신성	NOUN	ncn	_	4	conj	_	SpaceAfter=No
 7	,	,	PUNCT	sp	_	6	punct	_	_
 8	문화성	문화성	NOUN	ncn	_	4	conj	_	_
@@ -2183,7 +2183,7 @@
 4	책의	책+의	NOUN	ncn+jcm	_	9	nmod	_	_
 5	포장이나	포장+이나	CCONJ	ncpa+jcj	_	9	compound	_	_
 6	디자인	디자인	NOUN	ncpa	_	5	conj	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	8	punct	_	_
 8	레이아웃	레이아웃	NOUN	ncn	_	5	conj	_	_
 9	등에	등+에	ADV	nbn+jca	_	10	obl	_	_
 10	따라	따르+아	SCONJ	pvg+ecs	_	16	ccomp	_	_
@@ -2368,7 +2368,7 @@
 3	사용가치를	사용+가치+를	NOUN	ncpa+ncn+jco	_	4	obj	_	_
 4	보장해주는	보장+하+어+주+는	AUX	ncpa+xsv+ecx+px+etm	_	9	acl	_	_
 5	정보	정보	NOUN	ncn	_	8	compound	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	7	punct	_	_
 7	오락성	오락성	NOUN	ncn	_	5	conj	_	_
 8	등의	등+의	NOUN	nbn+jcm	_	9	nmod	_	_
 9	사용가치는	사용+가치+는	NOUN	ncpa+ncn+jxt	_	16	dislocated	_	_
@@ -2504,7 +2504,7 @@
 # text = 기념비는 무너지고, 국가는 사라지고, 문명은 쇠퇴하여 암흑기가 있은 다음 새로운 민족이 다른 문명을 세운다.
 1	기념비는	기념비+는	NOUN	ncn+jxt	_	2	dislocated	_	_
 2	무너지고	무너지+고	CCONJ	pvg+ecc	_	11	amod	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	5	punct	_	_
 4	국가는	국가+는	NOUN	ncn+jxt	_	5	dislocated	_	_
 5	사라지고	사라지+고	CCONJ	pvg+ecc	_	2	conj	_	SpaceAfter=No
 6	,	,	PUNCT	sp	_	5	punct	_	_
@@ -2529,7 +2529,7 @@
 5	매체에	매체+에	ADV	ncn+jca	_	6	obl	_	_
 6	비하여	비하+어	SCONJ	pvg+ecs	_	0	root	_	_
 7	전문성	전문성	NOUN	ncn	_	10	nsubj	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	9	punct	_	_
 9	단일성이	단일성+이	NOUN	ncn+jcs	_	7	conj	_	_
 10	강하다	강하+다	ADJ	paa+ef	_	6	conj	_	SpaceAfter=No
 11	.	.	PUNCT	sf	_	10	punct	_	_
@@ -2651,7 +2651,7 @@
 1	출판상품은	출판+상품+은	NOUN	ncpa+ncn+jxt	_	8	dislocated	_	_
 2	내용의	내용+의	NOUN	ncn+jcm	_	5	nmod	_	_
 3	전문성	전문성	NOUN	ncn	_	8	obj	_	SpaceAfter=No
-4	,	,	PUNCT	sp	_	3	punct	_	_
+4	,	,	PUNCT	sp	_	5	punct	_	_
 5	단일성을	단일성+을	NOUN	ncn+jco	_	3	conj	_	_
 6	중요한	중요+하+ㄴ	VERB	ncps+xsm+etm	_	7	amod	_	_
 7	사용가치로	사용+가치+로	ADV	ncpa+ncn+jca	_	8	advcl	_	_
@@ -2714,7 +2714,7 @@
 # sent_id = MH2_0069-s58
 # text = 신문, 방송, 잡지 등은 상품의 생명력이 신속성과 속보성에 의해서 좌우되는 성격이 강하나 단행본의 생명력은 신속성에서 나오지는 않는다.
 1	신문	신문	NOUN	ncn	_	6	compound	_	SpaceAfter=No
-2	,	,	PUNCT	sp	_	1	punct	_	_
+2	,	,	PUNCT	sp	_	3	punct	_	_
 3	방송	방송	NOUN	ncpa	_	1	conj	_	SpaceAfter=No
 4	,	,	PUNCT	sp	_	3	punct	_	_
 5	잡지	잡지	NOUN	ncn	_	1	conj	_	_
@@ -2775,7 +2775,7 @@
 # text = 출판상품의 문화성, 정보성 의식성 등을 출판의 특성으로 보는 견해가 있으나 이는 오히려 모든 언론상품이 지닌 일반성이지 출판상품만이 지닌 특성은 아니다.
 1	출판상품의	출판+상품+의	NOUN	ncpa+ncn+jcm	_	6	nmod	_	_
 2	문화성	문화성	NOUN	ncn	_	5	compound	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	4	punct	_	_
 4	정보성	정보성	NOUN	ncn	_	2	conj	_	_
 5	의식성	의식성	NOUN	ncn	_	6	compound	_	_
 6	등을	등+을	NOUN	nbn+jco	_	9	obj	_	_
@@ -2832,7 +2832,7 @@
 5	인간의	인간+의	NOUN	ncn+jcm	_	7	nmod	_	_
 6	합목적적인	합목적+적+이+ㄴ	VERB	ncn+xsn+jp+etm	_	7	acl	_	_
 7	행위	행위	NOUN	ncn	_	13	obj	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	12	punct	_	_
 9	즉	즉	CCONJ	maj	_	12	cc	_	_
 10	노동	노동	NOUN	ncpa	_	12	compound	_	_
 11	그	그	DET	mmd	_	12	det	_	_
@@ -2870,7 +2870,7 @@
 5	개조에	개조+에	ADV	ncpa+jca	_	6	obl	_	_
 6	사용하는	사용+하+는	VERB	ncpa+xsv+etm	_	7	acl	_	_
 7	것	것	NOUN	nbn	_	22	obj	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	17	punct	_	_
 9	즉	즉	CCONJ	maj	_	21	cc	_	_
 10	인간이	인간+이	NOUN	ncn+jcs	_	14	nsubj	_	_
 11	노동을	노동+을	NOUN	ncn+jco	_	12	obj	_	_
@@ -2880,7 +2880,7 @@
 15	수	수	NOUN	nbn	_	14	aux	_	_
 16	있는	있+는	ADJ	paa+etm	_	15	fixed	_	_
 17	연장이나	연장+이나	CCONJ	ncn+jcj	_	7	conj	_	SpaceAfter=No
-18	,	,	PUNCT	sp	_	17	punct	_	_
+18	,	,	PUNCT	sp	_	19	punct	_	_
 19	도구	도구	NOUN	ncn	_	17	conj	_	SpaceAfter=No
 20	,	,	PUNCT	sp	_	19	punct	_	_
 21	기술을	기술+을	NOUN	ncn+jco	_	17	conj	_	_
@@ -3251,7 +3251,7 @@
 9	수	수	NOUN	nbn	_	8	aux	_	_
 10	있는	있+는	ADJ	paa+etm	_	9	fixed	_	_
 11	부분이지만	부분+이+지만	SCONJ	ncn+jp+ecs	_	21	advcl	_	SpaceAfter=No
-12	,	,	PUNCT	sp	_	11	punct	_	_
+12	,	,	PUNCT	sp	_	20	punct	_	_
 13	출판자본가나	출판+자본가+나	CCONJ	ncpa+ncn+jcj	_	15	nmod	_	_
 14	기획자의	기획자+의	NOUN	ncn+jcm	_	13	conj	_	_
 15	입장에서	입장+에서	ADV	ncn+jca	_	16	advcl	_	_
@@ -3627,7 +3627,7 @@
 6	표현력	표현력	NOUN	ncn	_	8	compound	_	SpaceAfter=No
 7	,	,	PUNCT	sp	_	6	punct	_	_
 8	창의성	창의성	NOUN	ncn	_	11	compound	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	10	punct	_	_
 10	전문성	전문성	NOUN	ncn	_	8	conj	_	_
 11	등의	등+의	NOUN	nbn+jcm	_	14	nmod	_	_
 12	고도의	고도+의	NOUN	ncn+jcm	_	14	nmod	_	_
@@ -3967,7 +3967,7 @@
 9	해주는	하+어+주+는	AUX	pvg+ecx+px+etm	_	5	conj	_	_
 10	매개역할을	매개+역할+을	NOUN	ncpa+ncn+jco	_	11	obj	_	_
 11	하며	하+며	CCONJ	pvg+ecc	_	0	root	_	SpaceAfter=No
-12	,	,	PUNCT	sp	_	11	punct	_	_
+12	,	,	PUNCT	sp	_	18	punct	_	_
 13	자본의	자본+의	NOUN	ncn+jcm	_	15	nmod	_	_
 14	확대재생산에	확대	NOUN	ncpa	_	15	compound	_	_
 15	재생산에	재생산+에	ADV	ncpa+jca	_	18	obl	_	_
@@ -4129,11 +4129,11 @@
 # sent_id = MH2_0069-s140
 # text = 종교도서, 소설, 일화집, 기술편람, 요리책 같은 것이 출판자본가들의 주요 영업 품목이었다.
 1	종교도서	종교+도서	NOUN	ncn+ncn	_	10	dep	_	SpaceAfter=No
-2	,	,	PUNCT	sp	_	1	punct	_	_
+2	,	,	PUNCT	sp	_	3	punct	_	_
 3	소설	소설	NOUN	ncn	_	1	conj	_	SpaceAfter=No
 4	,	,	PUNCT	sp	_	3	punct	_	_
 5	일화집	일화집	NOUN	ncn	_	1	conj	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	7	punct	_	_
 7	기술편람	기술+편람	NOUN	ncn+ncn	_	1	conj	_	SpaceAfter=No
 8	,	,	PUNCT	sp	_	7	punct	_	_
 9	요리책	요리+책	NOUN	ncpa+ncn	_	1	conj	_	_
@@ -4174,16 +4174,16 @@
 1	이후	이후	NOUN	ncn	_	20	advmod	_	_
 2	영국의	영국+의	PROPN	nq+jcm	_	3	nmod	_	_
 3	골드스미스	골드스미스	PROPN	nq	_	16	compound	_	SpaceAfter=No
-4	,	,	PUNCT	sp	_	3	punct	_	_
+4	,	,	PUNCT	sp	_	5	punct	_	_
 5	포우	포우	PROPN	nq	_	3	flat	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	3	punct	_	_
+6	,	,	PUNCT	sp	_	7	punct	_	_
 7	스코트	스코트	PROPN	nq	_	3	flat	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	3	punct	_	_
+8	,	,	PUNCT	sp	_	9	punct	_	_
 9	디킨즈	디킨즈	PROPN	nq	_	3	flat	_	SpaceAfter=No
 10	,	,	PUNCT	sp	_	3	punct	_	_
 11	프랑스의	프랑스+의	PROPN	nq+jcm	_	16	nmod	_	_
 12	뒤마	뒤마	PROPN	nq	_	17	nmod	_	SpaceAfter=No
-13	,	,	PUNCT	sp	_	12	punct	_	_
+13	,	,	PUNCT	sp	_	14	punct	_	_
 14	으젠느슈	으젠느슈	PROPN	nq	_	12	conj	_	SpaceAfter=No
 15	,	,	PUNCT	sp	_	14	punct	_	_
 16	메리메의	메리메+의	NOUN	ncn+jcm	_	12	conj	_	_
@@ -4220,7 +4220,7 @@
 3	수공업	수공업	NOUN	ncn	_	4	compound	_	_
 4	단계에서는	단계+에서+는	NOUN	ncn+jca+jxt	_	12	dislocated	_	_
 5	생산	생산	NOUN	ncpa	_	10	nmod	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	7	punct	_	_
 7	분배	분배	NOUN	ncpa	_	5	conj	_	SpaceAfter=No
 8	,	,	PUNCT	sp	_	7	punct	_	_
 9	판매의	판매+의	NOUN	ncpa+jcm	_	5	conj	_	_
@@ -4308,7 +4308,7 @@
 # text = 따라서 생산, 분배, 판매의 개별적인 기능이 다시 이들 대규모 회사의 우산하에 재결합하기 시작한다.
 1	따라서	따라서	CCONJ	maj	_	15	cc	_	_
 2	생산	생산	NOUN	ncpa	_	8	nmod	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	4	punct	_	_
 4	분배	분배	NOUN	ncpa	_	2	conj	_	SpaceAfter=No
 5	,	,	PUNCT	sp	_	4	punct	_	_
 6	판매의	판매+의	NOUN	ncpa+jcm	_	2	conj	_	_
@@ -4444,7 +4444,7 @@
 4	있는데	있+는데	SCONJ	px+ecs	_	3	aux	_	_
 5	롱맨그룹은	롱맨그룹+은	PROPN	nq+jxt	_	21	dislocated	_	_
 6	롱맨출판사	롱맨출판사	PROPN	nq	_	14	compound	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	8	punct	_	_
 8	파이네셜타임즈	파이네셜타임즈	PROPN	nq	_	6	conj	_	SpaceAfter=No
 9	,	,	PUNCT	sp	_	8	punct	_	_
 10	몇	몇	ADJ	mma	_	11	amod	_	_
@@ -4452,7 +4452,7 @@
 12	지역신문	지역+신문	NOUN	ncn+ncn	_	6	conj	_	SpaceAfter=No
 13	,	,	PUNCT	sp	_	12	punct	_	_
 14	잡지회사	잡지+회사	NOUN	ncn+ncn	_	21	obj	_	SpaceAfter=No
-15	,	,	PUNCT	sp	_	14	punct	_	_
+15	,	,	PUNCT	sp	_	19	punct	_	_
 16	그리고	그리고	CCONJ	maj	_	19	cc	_	_
 17	몇	몇	ADJ	mma	_	18	amod	_	_
 18	개의	개+의	NOUN	nbu+jcm	_	19	nmod	_	_
@@ -4573,7 +4573,7 @@
 6	힘입어	힘입+어	SCONJ	pvg+ecs	_	11	ccomp	_	_
 7	출판의	출판+의	NOUN	ncpa+jcm	_	10	nmod	_	_
 8	기업화	기업화	NOUN	ncpa	_	11	nsubj	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	10	punct	_	_
 10	거대화가	거대화+가	NOUN	ncpa+jcs	_	8	conj	_	_
 11	이루어진다	이루+어+지+ㄴ다	AUX	pvg+ecx+px+ef	_	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	sf	_	11	punct	_	_
@@ -4584,7 +4584,7 @@
 2	거대화와	거대화+와	CCONJ	ncpa+jct	_	8	ccomp	_	_
 3	더불어	더불+어	SCONJ	pvg+ecs	_	2	conj	_	_
 4	집중화	집중화	NOUN	ncpa	_	7	advcl	_	SpaceAfter=No
-5	,	,	PUNCT	sp	_	4	punct	_	_
+5	,	,	PUNCT	sp	_	6	punct	_	_
 6	독점화현상도	독점화현상+도	ADV	ncn+jxc	_	4	conj	_	_
 7	심화되기	심화+되+기	VERB	ncpa+xsv+etn	_	8	nmod	_	_
 8	시작하였다	시작+하+었+다	VERB	ncpa+xsv+ep+ef	_	0	root	_	SpaceAfter=No
@@ -4596,7 +4596,7 @@
 2	1970년대에는	1970+년대+에+는	NUM	nno+nbu+jca+jxt	_	9	dislocated	_	_
 3	자본의	자본+의	NOUN	ncn+jcm	_	6	nmod	_	_
 4	집중화	집중화	NOUN	ncpa	_	7	compound	_	SpaceAfter=No
-5	,	,	PUNCT	sp	_	4	punct	_	_
+5	,	,	PUNCT	sp	_	6	punct	_	_
 6	독점화	독점화	NOUN	ncpa	_	4	conj	_	_
 7	현상이	현상+이	NOUN	ncn+jcs	_	9	nsubj	_	_
 8	더욱	더욱	ADV	mag	_	9	advmod	_	_
@@ -4711,7 +4711,7 @@
 1	즉	즉	CCONJ	maj	_	22	cc	_	_
 2	인간의	인간+의	NOUN	ncn+jcm	_	6	nmod	_	_
 3	관념	관념	NOUN	ncn	_	6	compound	_	SpaceAfter=No
-4	,	,	PUNCT	sp	_	3	punct	_	_
+4	,	,	PUNCT	sp	_	5	punct	_	_
 5	지식	지식	NOUN	ncn	_	3	conj	_	_
 6	등은	등+은	NOUN	nbn+jxt	_	13	dislocated	_	_
 7	인간의	인간+의	NOUN	ncn+jcm	_	8	nmod	_	_
@@ -4725,7 +4725,7 @@
 15	결과는	결과+는	NOUN	ncn+jxt	_	22	dislocated	_	_
 16	인간의	인간+의	NOUN	ncn+jcm	_	19	nmod	_	_
 17	의식	의식	NOUN	ncn	_	22	obj	_	SpaceAfter=No
-18	,	,	PUNCT	sp	_	17	punct	_	_
+18	,	,	PUNCT	sp	_	19	punct	_	_
 19	관념활동을	관념+활동+을	NOUN	ncn+ncpa+jco	_	17	conj	_	_
 20	그에	그+에	ADV	npd+jca	_	21	obl	_	_
 21	맞게	맞+게	SCONJ	pvg+ecs	_	22	ccomp	_	_
@@ -4757,11 +4757,11 @@
 # text = 즉 관념, 개념, 이념, 이데올로기 등의 지적이고 관념적인 것으로 만들었다.
 1	즉	즉	CCONJ	maj	_	13	cc	_	_
 2	관념	관념	NOUN	ncn	_	9	compound	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	4	punct	_	_
 4	개념	개념	NOUN	ncn	_	2	conj	_	SpaceAfter=No
 5	,	,	PUNCT	sp	_	4	punct	_	_
 6	이념	이념	NOUN	ncn	_	2	conj	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	8	punct	_	_
 8	이데올로기	이데올로기	NOUN	ncn	_	2	conj	_	_
 9	등의	등+의	NOUN	nbn+jcm	_	12	nmod	_	_
 10	지적이고	지+적+이+고	CCONJ	ncn+xsn+jp+ecc	_	12	acl	_	_
@@ -4802,11 +4802,11 @@
 # text = 문자화는 점토판, 파피루스, 양피지, 종이 등의 다양한 기록도구의 발전과 더불어 지적세계의 영역을 증대시켰다.
 1	문자화는	문자화+는	NOUN	ncpa+jxt	_	16	dislocated	_	_
 2	점토판	점토판	NOUN	ncn	_	9	compound	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	4	punct	_	_
 4	파피루스	파피루스	NOUN	ncn	_	2	conj	_	SpaceAfter=No
 5	,	,	PUNCT	sp	_	4	punct	_	_
 6	양피지	양피지	NOUN	ncn	_	2	conj	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	8	punct	_	_
 8	종이	종이	NOUN	ncn	_	2	conj	_	_
 9	등의	등+의	NOUN	nbn+jcm	_	11	nmod	_	_
 10	다양한	다양+하+ㄴ	VERB	ncps+xsm+etm	_	11	amod	_	_
@@ -4856,13 +4856,13 @@
 # text = 이들은 궁중관리인, 교사, 공중인, 인쇄, 출판소의 교정자로서 활동을 하면서 생계의 수단을 마련하지만, 문필활동을 천직으로 여기는 전문적인 지식의 생산자였다.
 1	이들은	이+들+은	PRON	npp+xsn+jxt	_	23	dislocated	_	_
 2	궁중관리인	궁중+관리인	NOUN	ncn+ncn	_	13	advcl	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	4	punct	_	_
 4	교사	교사	NOUN	ncn	_	2	conj	_	SpaceAfter=No
 5	,	,	PUNCT	sp	_	4	punct	_	_
 6	공중인	공중인	NOUN	ncn	_	2	conj	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	11	punct	_	_
 8	인쇄	인쇄	NOUN	ncpa	_	11	nmod	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	10	punct	_	_
 10	출판소의	출판소+의	NOUN	ncn+jcm	_	8	conj	_	_
 11	교정자로서	교정자+로서	ADV	ncn+jca	_	2	conj	_	_
 12	활동을	활동+을	NOUN	ncpa+jco	_	13	obj	_	_
@@ -4889,7 +4889,7 @@
 6	지니며	지니+며	CCONJ	pvg+ecc	_	18	acl	_	_
 7	인간의	인간+의	NOUN	ncn+jcm	_	14	nmod	_	_
 8	지적	지+적	NOUN	ncn+xsn	_	13	compound	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	10	punct	_	_
 10	사상적	사상+적	NOUN	ncn+xsn	_	8	conj	_	SpaceAfter=No
 11	,	,	PUNCT	sp	_	10	punct	_	_
 12	예술	예술	NOUN	ncn	_	8	conj	_	_
@@ -4971,7 +4971,7 @@
 2	통한	통하+ㄴ	VERB	pvg+etm	_	7	acl	_	_
 3	인간의	인간+의	NOUN	ncn+jcm	_	7	nmod	_	_
 4	지적	지+적	NOUN	ncn+xsn	_	7	amod	_	SpaceAfter=No
-5	,	,	PUNCT	sp	_	4	punct	_	_
+5	,	,	PUNCT	sp	_	6	punct	_	_
 6	이데올로기적	이데올로기+적	NOUN	ncn+xsn	_	4	conj	_	_
 7	행위를	행위+를	NOUN	ncn+jco	_	12	obj	_	_
 8	지배체계를	지배+체계+를	NOUN	ncpa+ncn+jco	_	9	obj	_	_
@@ -5028,7 +5028,7 @@
 5	의하여	의하+어	SCONJ	pvg+ecs	_	7	ccomp	_	_
 6	철저히	철저+히	ADV	ncps+xsa	_	7	advmod	_	_
 7	통제되고	통제+되+고	CCONJ	ncpa+xsv+ecc	_	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	13	punct	_	_
 9	독점된	독점+되+ㄴ	VERB	ncpa+xsv+etm	_	10	acl	_	_
 10	대출판사에	대출판사+에	ADV	ncn+jca	_	11	obl	_	_
 11	의하여	의하+어	SCONJ	pvg+ecs	_	13	ccomp	_	_
@@ -5203,7 +5203,7 @@
 2	검열을	검열+을	NOUN	ncpa+jco	_	3	obj	_	_
 3	어기는	어기+는	VERB	pvg+etm	_	10	acl	_	_
 4	발행인	발행인	NOUN	ncn	_	11	dislocated	_	SpaceAfter=No
-5	,	,	PUNCT	sp	_	4	punct	_	_
+5	,	,	PUNCT	sp	_	6	punct	_	_
 6	출판인	출판인	NOUN	ncn	_	4	conj	_	SpaceAfter=No
 7	,	,	PUNCT	sp	_	6	punct	_	_
 8	서점	서점	NOUN	ncn	_	4	conj	_	_
@@ -5243,7 +5243,7 @@
 3	국가는	국가+는	NOUN	ncn+jxt	_	14	dislocated	_	_
 4	출판의	출판+의	NOUN	ncpa+jcm	_	9	nmod	_	_
 5	소유	소유	NOUN	ncpa	_	10	obl	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	7	punct	_	_
 7	생산	생산	NOUN	ncpa	_	5	conj	_	SpaceAfter=No
 8	,	,	PUNCT	sp	_	7	punct	_	_
 9	분배에	분배+에	ADV	ncpa+jca	_	5	conj	_	_
@@ -5436,10 +5436,10 @@
 2	정권은	정권+은	NOUN	ncn+jxt	_	17	dislocated	_	_
 3	1972년	1972+년	NOUN	nno+nbu	_	4	compound	_	_
 4	12월	12+월	NOUN	nno+nbu	_	14	advmod	_	_
-5	'	'	PUNCT	sl	_	9	compound	_	SpaceAfter=No
-6	출판사	출판사	NOUN	ncn	_	5	conj	_	_
+5	'	'	PUNCT	sl	_	11	compound	_	SpaceAfter=No
+6	출판사	출판사	NOUN	ncn	_	9	conj	_	_
 7	및	및	CCONJ	maj	_	8	cc	_	_
-8	인쇄사	인쇄사	NOUN	ncn	_	5	conj	_	_
+8	인쇄사	인쇄사	NOUN	ncn	_	9	conj	_	_
 9	등록에	등록+에	ADV	ncpa+jca	_	10	obl	_	_
 10	관한	관하+ㄴ	VERB	pvg+etm	_	11	acl	_	_
 11	법률	법률	NOUN	ncn	_	14	obj	_	SpaceAfter=No
@@ -5462,7 +5462,7 @@
 7	출판통제	출판+통제	NOUN	ncpa+ncpa	_	8	compound	_	_
 8	정책을	정책+을	NOUN	ncn+jco	_	21	obj	_	_
 9	법적통제	법+적+통제	NOUN	ncn+xsn+ncpa	_	19	nmod	_	SpaceAfter=No
-10	,	,	PUNCT	sp	_	9	punct	_	_
+10	,	,	PUNCT	sp	_	12	punct	_	_
 11	물리적	물리+적	NOUN	ncn+xsn	_	12	amod	_	_
 12	탄압	탄압	NOUN	ncpa	_	9	conj	_	SpaceAfter=No
 13	,	,	PUNCT	sp	_	12	punct	_	_
@@ -5750,13 +5750,13 @@
 1	이미	이미	ADV	mag	_	19	advmod	_	_
 2	1950	1950	NUM	nno	_	19	nummod	_	_
 3	Longman	Longman	X	f	_	12	compound	_	SpaceAfter=No
-4	,	,	PUNCT	sp	_	3	punct	_	_
+4	,	,	PUNCT	sp	_	5	punct	_	_
 5	Oxford	Oxford	X	f	_	3	conj	_	_
 6	University	University	X	f	_	5	flat	_	_
 7	Press	Press	X	f	_	5	flat	_	SpaceAfter=No
 8	,	,	PUNCT	sp	_	5	punct	_	_
 9	Nelson	Nelson	X	f	_	3	conj	_	SpaceAfter=No
-10	,	,	PUNCT	sp	_	9	punct	_	_
+10	,	,	PUNCT	sp	_	11	punct	_	_
 11	Macmillan	Macmillan	X	f	_	3	conj	_	_
 12	등의	등+의	NOUN	nbn+jcm	_	13	nmod	_	_
 13	출판사들은	출판사+들+은	NOUN	ncn+xsn+jxt	_	18	dislocated	_	_
@@ -5799,15 +5799,15 @@
 6	하면서	하+면서	CCONJ	pvg+ecc	_	0	root	_	_
 7	롱맨은	롱맨+은	PROPN	nq+jxt	_	23	dislocated	_	_
 8	케냐	케냐	PROPN	nq	_	21	compound	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	10	punct	_	_
 10	잠비아	잠비아	PROPN	nq	_	8	conj	_	SpaceAfter=No
 11	,	,	PUNCT	sp	_	10	punct	_	_
 12	탄자니아	탄자니아	PROPN	nq	_	8	conj	_	SpaceAfter=No
-13	,	,	PUNCT	sp	_	12	punct	_	_
+13	,	,	PUNCT	sp	_	14	punct	_	_
 14	말라위	말라위	PROPN	nq	_	8	conj	_	SpaceAfter=No
 15	,	,	PUNCT	sp	_	14	punct	_	_
 16	우간다	우간다	PROPN	nq	_	8	conj	_	SpaceAfter=No
-17	,	,	PUNCT	sp	_	16	punct	_	_
+17	,	,	PUNCT	sp	_	18	punct	_	_
 18	로데지아	로데지아	PROPN	nq	_	8	conj	_	SpaceAfter=No
 19	,	,	PUNCT	sp	_	18	punct	_	_
 20	남아공화국	남아공화국	PROPN	nq	_	8	conj	_	_
@@ -5821,7 +5821,7 @@
 # text = 또한 홍콩, 말레이시아, 트리리데드 등 아시아에도 광범위한 독자를 확보하고 있었다.
 1	또한	또한	CCONJ	maj	_	11	cc	_	_
 2	홍콩	홍콩	PROPN	nq	_	7	compound	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	4	punct	_	_
 4	말레이시아	말레이시아	PROPN	nq	_	2	conj	_	SpaceAfter=No
 5	,	,	PUNCT	sp	_	4	punct	_	_
 6	트리리데드	트리리데드	PROPN	nq	_	2	conj	_	_
@@ -5851,9 +5851,9 @@
 # sent_id = MH2_0069-s238
 # text = 프랑스, 독일, 네덜란드, 등도 식민지 유산을 매개로 하여 해외에서 광범위한 출판행위를 벌이고 있다.
 1	프랑스	프랑스	PROPN	nq	_	7	compound	_	SpaceAfter=No
-2	,	,	PUNCT	sp	_	1	punct	_	_
+2	,	,	PUNCT	sp	_	3	punct	_	_
 3	독일	독일	PROPN	nq	_	1	flat	_	SpaceAfter=No
-4	,	,	PUNCT	sp	_	1	punct	_	_
+4	,	,	PUNCT	sp	_	5	punct	_	_
 5	네덜란드	네덜란드	PROPN	nq	_	1	flat	_	SpaceAfter=No
 6	,	,	PUNCT	sp	_	1	punct	_	_
 7	등도	등+도	ADV	nbn+jxc	_	15	advcl	_	_
@@ -5872,7 +5872,7 @@
 # text = 미국도 남미, 아시아, 아프리카 등에서 책을 통해서 미국의 이데올로기나 관습, 제도, 생활방식 등을 유포하고 있다.
 1	미국도	미국+도	ADV	nq+jxc	_	18	advcl	_	_
 2	남미	남미	PROPN	nq	_	7	compound	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	4	punct	_	_
 4	아시아	아시아	PROPN	nq	_	2	conj	_	SpaceAfter=No
 5	,	,	PUNCT	sp	_	4	punct	_	_
 6	아프리카	아프리카	PROPN	nq	_	2	conj	_	_
@@ -5882,7 +5882,7 @@
 10	미국의	미국+의	PROPN	nq+jcm	_	17	nmod	_	_
 11	이데올로기나	이데올로기+나	CCONJ	ncn+jcj	_	17	compound	_	_
 12	관습	관습	NOUN	ncn	_	11	conj	_	SpaceAfter=No
-13	,	,	PUNCT	sp	_	12	punct	_	_
+13	,	,	PUNCT	sp	_	14	punct	_	_
 14	제도	제도	NOUN	ncn	_	11	conj	_	SpaceAfter=No
 15	,	,	PUNCT	sp	_	14	punct	_	_
 16	생활방식	생활+방식	NOUN	ncpa+ncn	_	11	conj	_	_
@@ -6042,7 +6042,7 @@
 # text = 이런 면에서 '출판을 통한 사회변혁' 의 필요성이 더욱 강조되는 것이다.
 1	이런	이런	DET	mmd	_	2	det	_	_
 2	면에서	면+에서	ADV	ncn+jca	_	11	advcl	_	_
-3	'	'	PUNCT	sl	_	4	punct	_	SpaceAfter=No
+3	'	'	PUNCT	sl	_	6	punct	_	SpaceAfter=No
 4	출판을	출판+을	NOUN	ncpa+jco	_	5	obj	_	_
 5	통한	통하+ㄴ	VERB	pvg+etm	_	6	acl	_	_
 6	사회변혁	사회+변혁	NOUN	ncn+ncpa	_	9	nmod	_	SpaceAfter=No
@@ -6102,7 +6102,7 @@
 
 # sent_id = MH2_0069-s251
 # text = '한 권의 책' 은 단순한 양적 수치를 나타내는 것이 아닌 인류문화의 소산이자 역사발전의 결과물이다.
-1	'	'	PUNCT	sl	_	2	punct	_	SpaceAfter=No
+1	'	'	PUNCT	sl	_	4	punct	_	SpaceAfter=No
 2	한	한	NUM	nnc	_	3	nummod	_	_
 3	권의	권+의	NOUN	nbu+jcm	_	4	nmod	_	_
 4	책	책	NOUN	ncn	_	16	dislocated	_	SpaceAfter=No
@@ -6144,29 +6144,29 @@
 3	활동했던	활동+하+었+던	VERB	ncpa+xsv+ep+etm	_	4	acl	_	_
 4	출판사로는	출판사+로+는	NOUN	ncn+jca+jxt	_	32	dislocated	_	_
 5	창작과비평사	창작과비평사	PROPN	nq	_	31	compound	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	7	punct	_	_
 7	문학과지성사	문학과지성사	PROPN	nq	_	5	flat	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	5	punct	_	_
+8	,	,	PUNCT	sp	_	9	punct	_	_
 9	한길사	한길사	PROPN	nq	_	5	flat	_	SpaceAfter=No
-10	,	,	PUNCT	sp	_	5	punct	_	_
+10	,	,	PUNCT	sp	_	11	punct	_	_
 11	지식산업사	지식산업사	PROPN	nq	_	5	flat	_	SpaceAfter=No
-12	,	,	PUNCT	sp	_	5	punct	_	_
+12	,	,	PUNCT	sp	_	13	punct	_	_
 13	열화당	열화당	PROPN	nq	_	5	flat	_	SpaceAfter=No
-14	,	,	PUNCT	sp	_	5	punct	_	_
+14	,	,	PUNCT	sp	_	15	punct	_	_
 15	홍성사	홍성사	PROPN	nq	_	5	flat	_	SpaceAfter=No
-16	,	,	PUNCT	sp	_	5	punct	_	_
+16	,	,	PUNCT	sp	_	17	punct	_	_
 17	평민사	평민사	PROPN	nq	_	5	flat	_	SpaceAfter=No
-18	,	,	PUNCT	sp	_	5	punct	_	_
+18	,	,	PUNCT	sp	_	19	punct	_	_
 19	까치	까치	PROPN	nq	_	5	flat	_	SpaceAfter=No
-20	,	,	PUNCT	sp	_	5	punct	_	_
+20	,	,	PUNCT	sp	_	21	punct	_	_
 21	전예원	전예원	PROPN	nq	_	5	flat	_	SpaceAfter=No
-22	,	,	PUNCT	sp	_	5	punct	_	_
+22	,	,	PUNCT	sp	_	23	punct	_	_
 23	전망사	전망사	PROPN	nq	_	5	flat	_	SpaceAfter=No
-24	,	,	PUNCT	sp	_	5	punct	_	_
+24	,	,	PUNCT	sp	_	25	punct	_	_
 25	청함	청함	PROPN	nq	_	5	flat	_	SpaceAfter=No
-26	,	,	PUNCT	sp	_	5	punct	_	_
+26	,	,	PUNCT	sp	_	27	punct	_	_
 27	정우사	정우사	PROPN	nq	_	5	flat	_	SpaceAfter=No
-28	,	,	PUNCT	sp	_	5	punct	_	_
+28	,	,	PUNCT	sp	_	29	punct	_	_
 29	종로서적	종로서적	PROPN	nq	_	5	flat	_	SpaceAfter=No
 30	,	,	PUNCT	sp	_	5	punct	_	_
 31	등이	등+이	NOUN	nbn+jcs	_	32	nsubj	_	_
@@ -6223,7 +6223,7 @@
 6	중심의	중심+의	NOUN	ncn+jcm	_	7	nmod	_	_
 7	축으로	축+으로	ADV	ncn+jca	_	8	advcl	_	_
 8	자리잡으며	자리잡+으며	CCONJ	pvg+ecc	_	0	root	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	17	punct	_	_
 10	변혁의	변혁+의	NOUN	ncpa+jcm	_	11	nmod	_	_
 11	논리를	논리+를	NOUN	ncn+jco	_	12	obj	_	_
 12	전파하는데	전파+하+는데	SCONJ	ncpa+xsv+ecs	_	17	xcomp	_	_
@@ -6573,7 +6573,7 @@
 2	자본축적은	자본+축적+은	NOUN	ncn+ncpa+jxt	_	9	dislocated	_	_
 3	자본의	자본+의	NOUN	ncn+jcm	_	6	nmod	_	_
 4	집중	집중	NOUN	ncpa	_	7	obj	_	SpaceAfter=No
-5	,	,	PUNCT	sp	_	4	punct	_	_
+5	,	,	PUNCT	sp	_	6	punct	_	_
 6	독점화를	독점화+를	NOUN	ncn+jco	_	4	conj	_	_
 7	거치며	거치+며	CCONJ	pvg+ecc	_	0	root	_	_
 8	더욱	더욱	ADV	mag	_	9	advmod	_	_
@@ -6655,7 +6655,7 @@
 11	통한	통하+ㄴ	VERB	pvg+etm	_	15	acl	_	_
 12	사회의	사회+의	NOUN	ncn+jcm	_	15	nmod	_	_
 13	변혁	변혁	NOUN	ncpa	_	16	dislocated	_	SpaceAfter=No
-14	,	,	PUNCT	sp	_	13	punct	_	_
+14	,	,	PUNCT	sp	_	15	punct	_	_
 15	개혁은	개혁+은	NOUN	ncpa+jxt	_	13	conj	_	_
 16	중단될	중단+되+ㄹ	VERB	ncpa+xsv+etm	_	0	root	_	_
 17	수	수	NOUN	nbn	_	16	aux	_	_
@@ -6813,7 +6813,7 @@
 1	이중에서도	이+중+에서+도	ADV	npd+ncn+jca+jxc	_	8	advcl	_	_
 2	특히	특히	ADV	mag	_	8	advmod	_	_
 3	서적	서적	NOUN	ncn	_	6	compound	_	SpaceAfter=No
-4	,	,	PUNCT	sp	_	3	punct	_	_
+4	,	,	PUNCT	sp	_	5	punct	_	_
 5	신문	신문	NOUN	ncn	_	3	conj	_	_
 6	등을	등+을	NOUN	nbn+jco	_	8	obj	_	_
 7	인쇄매체라고	인쇄+매체+이+라+고	VERB	ncpa+ncn+jp+ef+jcr	_	0	root	_	_
@@ -6921,7 +6921,7 @@
 7	요구에	요구+에	ADV	ncpa+jca	_	8	obl	_	_
 8	따라	따르+아	SCONJ	pvg+ecs	_	9	ccomp	_	_
 9	선별하고	선별+하+고	CCONJ	ncpa+xsv+ecc	_	0	root	_	SpaceAfter=No
-10	,	,	PUNCT	sp	_	9	punct	_	_
+10	,	,	PUNCT	sp	_	15	punct	_	_
 11	이를	이+를	PRON	npd+jco	_	12	obj	_	_
 12	통해	통하+어	SCONJ	pvg+ecs	_	15	ccomp	_	_
 13	올바른	올바르+ㄴ	ADJ	paa+etm	_	14	amod	_	_
@@ -6963,7 +6963,7 @@
 8	출판사의	출판사+의	NOUN	ncn+jcm	_	9	nmod	_	_
 9	특성을	특성+을	NOUN	ncn+jco	_	10	obj	_	_
 10	살리고	살리+고	CCONJ	pvg+ecc	_	0	root	_	SpaceAfter=No
-11	,	,	PUNCT	sp	_	10	punct	_	_
+11	,	,	PUNCT	sp	_	20	punct	_	_
 12	출판사	출판사	NOUN	ncn	_	13	compound	_	_
 13	고유의	고유+의	NOUN	ncps+jcm	_	14	nmod	_	_
 14	프로그램을	프로그램+을	NOUN	ncn+jco	_	15	obj	_	_
@@ -7017,7 +7017,7 @@
 # text = 이것은 바로 '세계최초의 금속활자 발명국' 이라는 점이다.
 1	이것은	이것+은	PRON	npd+jxt	_	9	dislocated	_	_
 2	바로	바로	ADV	mag	_	9	advmod	_	_
-3	'	'	PUNCT	sl	_	4	punct	_	SpaceAfter=No
+3	'	'	PUNCT	sl	_	6	punct	_	SpaceAfter=No
 4	세계최초의	세계+최초+의	NOUN	ncn+ncn+jcm	_	6	nmod	_	_
 5	금속활자	금속+활자	NOUN	ncn+ncn	_	6	compound	_	_
 6	발명국	발명국	NOUN	ncn	_	9	ccomp	_	SpaceAfter=No
@@ -7066,7 +7066,7 @@
 7	단호한	단호+하+ㄴ	VERB	ncps+xsm+etm	_	8	amod	_	_
 8	입장을	입장+을	NOUN	ncn+jco	_	9	obj	_	_
 9	표명하면서	표명+하+면서	CCONJ	ncpa+xsv+ecc	_	0	root	_	SpaceAfter=No
-10	,	,	PUNCT	sp	_	9	punct	_	_
+10	,	,	PUNCT	sp	_	17	punct	_	_
 11	스스로의	스스로+의	NOUN	ncn+jcm	_	12	nmod	_	_
 12	역사왜곡에는	역사+왜곡+에+는	NOUN	ncn+ncpa+jca+jxt	_	14	dislocated	_	_
 13	관용을	관용+을	NOUN	ncpa+jco	_	14	obj	_	_
@@ -7260,7 +7260,7 @@
 6	상업성을	상업성+을	NOUN	ncn+jco	_	7	obj	_	_
 7	띠게	띠+게	VERB	pvg+ecx	_	0	root	_	_
 8	되었고	되+었+고	CCONJ	px+ep+ecc	_	7	aux	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	16	punct	_	_
 10	또	또	ADV	mag	_	16	advmod	_	_
 11	이들	이+들	NOUN	npd+xsn	_	12	compound	_	_
 12	서적은	서적+은	NOUN	ncn+jxt	_	15	dislocated	_	_
@@ -7277,7 +7277,7 @@
 3	기록하는	기록+하+는	VERB	ncpa+xsv+etm	_	4	acl	_	_
 4	방법을	방법+을	NOUN	ncn+jco	_	5	obj	_	_
 5	배우며	배우+며	CCONJ	pvg+ecc	_	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	9	punct	_	_
 7	복사수단과	복사+수단+과	CCONJ	ncpa+ncn+jcj	_	9	advcl	_	_
 8	홍보도	홍보+도	ADV	ncpa+jxc	_	7	conj	_	_
 9	알게	알+게	VERB	pvg+ecx	_	5	conj	_	_
@@ -7508,7 +7508,7 @@
 2	이집트인들은	이집트인+들+은	NOUN	ncn+xsn+jxt	_	4	dislocated	_	_
 3	내세를	내세+를	NOUN	ncn+jco	_	4	obj	_	_
 4	믿었고	믿+었+고	CCONJ	pvg+ep+ecc	_	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	sp	_	4	punct	_	_
+5	,	,	PUNCT	sp	_	13	punct	_	_
 6	그들의	그+들+의	PRON	npp+xsn+jcm	_	7	nmod	_	_
 7	신앙은	신앙+은	NOUN	ncpa+jxt	_	10	dislocated	_	_
 8	피라미드를	피라미드+를	NOUN	ncn+jco	_	9	obj	_	_
@@ -7580,7 +7580,7 @@
 5	야생	야생	NOUN	ncpa	_	6	compound	_	_
 6	파피루스는	파피루스+는	NOUN	ncn+jxt	_	10	dislocated	_	_
 7	그리스	그리스	PROPN	nq	_	10	advcl	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	9	punct	_	_
 9	로마에까지	로마+에+까지	ADV	nq+jca+jxc	_	7	conj	_	_
 10	수출되었다	수출+되+었+다	VERB	ncpa+xsv+ep+ef	_	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	sf	_	10	punct	_	_
@@ -7593,7 +7593,7 @@
 4	것은	것+은	NOUN	nbn+jxt	_	6	dislocated	_	_
 5	7	7	NUM	nno	_	6	nummod	_	_
 6	세기경이고	세기+경+이+고	CCONJ	ncn+xsn+jp+ecc	_	0	root	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	10	punct	_	_
 8	로마엔	로마+에+는	PROPN	nq+jca+jxt	_	10	dislocated	_	_
 9	3	3	NUM	nno	_	10	nummod	_	_
 10	세기경이다	세기+경+이+다	VERB	ncn+xsn+jp+ef	_	6	conj	_	SpaceAfter=No
@@ -7608,7 +7608,7 @@
 5	거쳐	거치+어	SCONJ	pvg+ecs	_	7	ccomp	_	_
 6	갈리아에	갈리아+에	ADV	nq+jca	_	7	obl	_	_
 7	수입되었고	수입+되+었+고	CCONJ	ncpa+xsv+ep+ecc	_	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	13	punct	_	_
 9	로마교황청엔	로마+교황청+에+는	PROPN	nq+ncn+jca+jxt	_	13	dislocated	_	_
 10	11	11	NUM	nno	_	11	nummod	_	_
 11	세기	세기	NOUN	ncn	_	12	compound	_	_
@@ -7638,7 +7638,7 @@
 6	연안의	연안+의	NOUN	ncn+jcm	_	7	nmod	_	_
 7	문화중심지로서	문화+중심지+로서	ADV	ncn+ncn+jca	_	16	advcl	_	_
 8	도서관	도서관	NOUN	ncn	_	13	compound	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	10	punct	_	_
 10	박물관	박물관	NOUN	ncn	_	8	conj	_	SpaceAfter=No
 11	,	,	PUNCT	sp	_	10	punct	_	_
 12	천문대	천문대	NOUN	ncn	_	8	conj	_	_
@@ -7656,7 +7656,7 @@
 3	각처에서	각처+에서	ADV	ncn+jca	_	4	advcl	_	_
 4	몰려든	몰려들+ㄴ	VERB	pvg+etm	_	9	acl	_	_
 5	학자	학자	NOUN	ncn	_	11	nsubj	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	7	punct	_	_
 7	문인	문인	NOUN	ncn	_	5	conj	_	_
 8	그리고	그리고	CCONJ	maj	_	9	cc	_	_
 9	예술인들이	예술인+들+이	NOUN	ncn+xsn+jcs	_	5	conj	_	_
@@ -7741,7 +7741,7 @@
 3	파피루스	파피루스	NOUN	ncn	_	4	compound	_	_
 4	두루마리가	두루마리+가	NOUN	ncn+jcs	_	5	nsubj	_	_
 5	발견되었고	발견+되+었+고	CCONJ	ncpa+xsv+ep+ecc	_	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	12	punct	_	_
 7	그리스에서는	그리스+에서+는	PROPN	nq+jca+jxt	_	12	dislocated	_	_
 8	6	6	NUM	nno	_	9	nummod	_	_
 9	세기부터	세기+부터	ADV	ncn+jxc	_	10	advcl	_	_
@@ -7805,7 +7805,7 @@
 3	사용된	사용+되+ㄴ	VERB	ncpa+xsv+etm	_	4	acl	_	_
 4	양피지는	양피지+는	NOUN	ncn+jxt	_	14	dislocated	_	_
 5	송아지	송아지	NOUN	ncn	_	10	nmod	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	7	punct	_	_
 7	양	양	NOUN	ncn	_	5	conj	_	SpaceAfter=No
 8	,	,	PUNCT	sp	_	7	punct	_	_
 9	염소의	염소+의	NOUN	ncn+jcm	_	5	conj	_	_
@@ -7835,7 +7835,7 @@
 4	칼리코스강	칼리코스강	PROPN	nq	_	3	flat	_	_
 5	유역	유역	NOUN	ncn	_	6	compound	_	_
 6	페르가몬	페르가몬	PROPN	nq	_	12	advcl	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	11	punct	_	_
 8	즉	즉	CCONJ	maj	_	11	cc	_	_
 9	오늘의	오늘+의	NOUN	ncn+jcm	_	10	nmod	_	_
 10	베르가마	베르가마	PROPN	nq	_	11	compound	_	_
@@ -7999,7 +7999,7 @@
 5	낡은	낡+ㄴ	ADJ	paa+etm	_	7	amod	_	_
 6	전통과	전통+과	CCONJ	ncn+jcj	_	13	obl	_	_
 7	억압	억압	NOUN	ncpa	_	6	conj	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	12	punct	_	_
 9	즉	즉	CCONJ	maj	_	12	cc	_	_
 10	중세의	중세+의	NOUN	ncn+jcm	_	12	nmod	_	_
 11	낡은	낡+ㄴ	ADJ	paa+etm	_	12	amod	_	_
@@ -8103,7 +8103,7 @@
 
 # sent_id = MH2_0069-s370
 # text = '영주 대 농민' 이란 봉건적 사회구조 이외엔 그 무엇도 허용되지 않았던 당시, 정신적으로는 로마 카톨릭에 얽매어 있었다.
-1	'	'	PUNCT	sl	_	2	punct	_	SpaceAfter=No
+1	'	'	PUNCT	sl	_	4	punct	_	SpaceAfter=No
 2	영주	영주	NOUN	ncn	_	3	compound	_	_
 3	대	대	NOUN	nbn	_	4	mark	_	_
 4	농민	농민	NOUN	ncn	_	8	acl	_	SpaceAfter=No
@@ -8136,7 +8136,7 @@
 7	점점	점점	ADV	mag	_	8	advmod	_	_
 8	몰락하기	몰락+하+기	VERB	ncpa+xsv+etn	_	9	nmod	_	_
 9	시작했고	시작+하+었+고	CCONJ	ncpa+xsv+ep+ecc	_	0	root	_	SpaceAfter=No
-10	,	,	PUNCT	sp	_	9	punct	_	_
+10	,	,	PUNCT	sp	_	15	punct	_	_
 11	이와는	이+와+는	PRON	npd+jct+jxt	_	12	dislocated	_	_
 12	반대로	반대+로	ADV	ncpa+jca	_	15	advcl	_	_
 13	농민들의	농민+들+의	NOUN	ncn+xsn+jcm	_	14	nmod	_	_
@@ -8177,7 +8177,7 @@
 10	학문과	학문+과	CCONJ	ncpa+jcj	_	12	nmod	_	_
 11	예술의	예술+의	NOUN	ncn+jcm	_	10	conj	_	_
 12	부흥운동	부흥+운동	NOUN	ncpa+ncpa	_	20	dislocated	_	SpaceAfter=No
-13	,	,	PUNCT	sp	_	12	punct	_	_
+13	,	,	PUNCT	sp	_	15	punct	_	_
 14	즉	즉	CCONJ	maj	_	15	cc	_	_
 15	르네상스는	르네상스+는	PROPN	nq+jxt	_	12	conj	_	_
 16	유럽근대사의	유럽+근대사+의	PROPN	nq+ncn+jcm	_	17	nmod	_	_
@@ -8198,7 +8198,7 @@
 6	정신으로	정신+으로	ADV	ncn+jca	_	7	advcl	_	_
 7	충만되어	충만+되+어	VERB	ncpa+xsv+ecx	_	0	root	_	_
 8	있었고	있+었+고	CCONJ	px+ep+ecc	_	7	aux	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	15	punct	_	_
 10	또	또	ADV	mag	_	15	advmod	_	_
 11	교회와	교회+와	CCONJ	ncn+jcj	_	15	obj	_	_
 12	신앙을	신앙+을	NOUN	ncpa+jco	_	11	conj	_	_
@@ -8243,7 +8243,7 @@
 5	의지가	의지+가	NOUN	ncn+jcs	_	4	conj	_	_
 6	높이	높이	ADV	mag	_	7	advmod	_	_
 7	평가되었고	평가+되+었+고	CCONJ	ncpa+xsv+ep+ecc	_	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	15	punct	_	_
 9	또	또	ADV	mag	_	15	advmod	_	_
 10	신앙에	신앙+에	ADV	ncpa+jca	_	11	obl	_	_
 11	있어서도	있+어서+도	ADV	paa+ecs+jxc	_	15	amod	_	_
@@ -8310,7 +8310,7 @@
 1	그들의	그+들+의	PRON	npp+xsn+jcm	_	2	nmod	_	_
 2	약탈행위는	약탈+행위+는	NOUN	ncpa+ncn+jxt	_	8	dislocated	_	_
 3	소아시아	소아시아	PROPN	nq	_	8	advcl	_	SpaceAfter=No
-4	,	,	PUNCT	sp	_	3	punct	_	_
+4	,	,	PUNCT	sp	_	5	punct	_	_
 5	이집트	이집트	PROPN	nq	_	3	conj	_	SpaceAfter=No
 6	,	,	PUNCT	sp	_	5	punct	_	_
 7	스페인까지	스페인+까지	ADV	nq+jxc	_	3	conj	_	_
@@ -8331,11 +8331,11 @@
 10	아니라	아니+라	SCONJ	paa+ecs	_	22	xcomp	_	SpaceAfter=No
 11	,	,	PUNCT	sp	_	10	punct	_	_
 12	학문	학문	NOUN	ncpa	_	22	advcl	_	SpaceAfter=No
-13	,	,	PUNCT	sp	_	12	punct	_	_
+13	,	,	PUNCT	sp	_	14	punct	_	_
 14	예술	예술	NOUN	ncn	_	12	conj	_	SpaceAfter=No
 15	,	,	PUNCT	sp	_	14	punct	_	_
 16	사상	사상	NOUN	ncn	_	12	conj	_	SpaceAfter=No
-17	,	,	PUNCT	sp	_	16	punct	_	_
+17	,	,	PUNCT	sp	_	18	punct	_	_
 18	기술	기술	NOUN	ncn	_	12	conj	_	SpaceAfter=No
 19	,	,	PUNCT	sp	_	18	punct	_	_
 20	심지어는	심지어+는	NOUN	mag+jxt	_	21	advmod	_	_
@@ -8389,11 +8389,11 @@
 5	통치방법에서탈피해	통치+방법+에서	ADV	ncpa+ncn+jca	_	6	advcl	_	_
 6	탈피해	탈피+하+어	SCONJ	ncpa+xsv+ecs	_	21	ccomp	_	_
 7	이교	이교	NOUN	ncn	_	14	compound	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	9	punct	_	_
 9	사법	사법	NOUN	ncn	_	7	conj	_	SpaceAfter=No
 10	,	,	PUNCT	sp	_	9	punct	_	_
 11	전쟁	전쟁	NOUN	ncpa	_	7	conj	_	SpaceAfter=No
-12	,	,	PUNCT	sp	_	11	punct	_	_
+12	,	,	PUNCT	sp	_	13	punct	_	_
 13	종교	종교	NOUN	ncn	_	7	conj	_	_
 14	등	등	NOUN	nbn	_	16	mark	_	_
 15	모든	모든	ADJ	mma	_	16	amod	_	_
@@ -8643,7 +8643,7 @@
 8	이탤릭체의	이탤릭체+의	NOUN	ncn+jcm	_	9	nmod	_	_
 9	문고판으로	문고판+으로	ADV	ncn+jca	_	10	advcl	_	_
 10	찍어냈고	찍+어+내+ㅆ+고	CCONJ	pvg+ecx+px+ep+ecc	_	0	root	_	SpaceAfter=No
-11	,	,	PUNCT	sp	_	10	punct	_	_
+11	,	,	PUNCT	sp	_	17	punct	_	_
 12	이를	이+를	PRON	npd+jco	_	13	obj	_	_
 13	통해	통하+어	SCONJ	pvg+ecs	_	17	ccomp	_	_
 14	이탤릭체의	이탤릭체+의	NOUN	ncn+jcm	_	16	nmod	_	_
@@ -8685,7 +8685,7 @@
 7	갖고	갖+고	VERB	pvg+ecx	_	11	acl	_	_
 8	있는	있+는	AUX	px+etm	_	7	aux	_	_
 9	요한아메르바흐	요한아메르바흐	PROPN	nq	_	18	ccomp	_	SpaceAfter=No
-10	,	,	PUNCT	sp	_	9	punct	_	_
+10	,	,	PUNCT	sp	_	11	punct	_	_
 11	요한페트리와	요한페트리+와	CCONJ	nq+jct	_	9	conj	_	_
 12	동업해	동업+하+어	SCONJ	ncpa+xsv+ecs	_	9	conj	_	_
 13	신학	신학	NOUN	ncn	_	16	compound	_	_
@@ -8791,7 +8791,7 @@
 7	제작한	제작+하+ㄴ	VERB	ncpa+xsv+etm	_	8	acl	_	_
 8	것도	것+도	ADV	nbn+jxc	_	9	advcl	_	_
 9	알두스마느티우스이고	알두스마느티우스+이+고	CCONJ	nq+jp+ecc	_	0	root	_	SpaceAfter=No
-10	,	,	PUNCT	sp	_	9	punct	_	_
+10	,	,	PUNCT	sp	_	14	punct	_	_
 11	에라스누스도	에라스누스+도	ADV	nq+jxc	_	19	advcl	_	_
 12	그런	그런	DET	mmd	_	13	det	_	_
 13	이유로	이유+로	ADV	ncn+jca	_	16	advcl	_	_
@@ -9032,7 +9032,7 @@
 4	부당성을	부당성+을	NOUN	ncn+jco	_	5	obj	_	_
 5	항의하고자	항의+하+고자	SCONJ	ncpa+xsv+ecs	_	6	ccomp	_	_
 6	발표한	발표+하+ㄴ	VERB	ncpa+xsv+etm	_	10	acl	_	_
-7	'	'	PUNCT	sl	_	8	punct	_	SpaceAfter=No
+7	'	'	PUNCT	sl	_	10	punct	_	SpaceAfter=No
 8	95	95	NUM	nnc	_	9	nummod	_	_
 9	개조의	개조+의	NOUN	ncn+jcm	_	10	nmod	_	_
 10	반박문	반박+문	NOUN	ncpa+ncn	_	19	nsubj	_	SpaceAfter=No
@@ -9142,7 +9142,7 @@
 9	많은	많+ㄴ	ADJ	paa+etm	_	10	amod	_	_
 10	민중들에게	민중+들+에게	ADV	ncn+xsn+jca	_	11	iobj	_	_
 11	배포했고	배포+하+었+고	CCONJ	ncpa+xsv+ep+ecc	_	0	root	_	SpaceAfter=No
-12	,	,	PUNCT	sp	_	11	punct	_	_
+12	,	,	PUNCT	sp	_	17	punct	_	_
 13	이들은	이+들+은	PRON	npd+xsn+jxt	_	17	dislocated	_	_
 14	이	이	DET	mmd	_	15	det	_	_
 15	팸플릿을	팸플릿+을	NOUN	ncn+jco	_	17	obj	_	_
@@ -9161,7 +9161,7 @@
 6	뒤로	뒤+로	ADV	ncn+jca	_	7	advcl	_	_
 7	물러선	물러서+ㄴ	VERB	pvg+etm	_	8	ccomp	_	_
 8	상태였고	상태+이+었+고	CCONJ	ncn+jp+ep+ecc	_	0	root	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	14	punct	_	_
 10	시민들은	시민+들+은	NOUN	ncn+xsn+jxt	_	14	dislocated	_	_
 11	당대의	당대+의	NOUN	ncn+jcm	_	12	nmod	_	_
 12	문학작품들도	문학+작품+들+도	ADV	ncpa+ncn+xsn+jxc	_	14	advcl	_	_
@@ -9448,7 +9448,7 @@
 # sent_id = MH2_0069-s453
 # text = 영국, 프랑스, 스페인 등 나라에서는 왕권이 강화되고 교황은 아비뇽에서 유폐되었다.
 1	영국	영국	PROPN	nq	_	6	compound	_	SpaceAfter=No
-2	,	,	PUNCT	sp	_	1	punct	_	_
+2	,	,	PUNCT	sp	_	3	punct	_	_
 3	프랑스	프랑스	PROPN	nq	_	1	conj	_	SpaceAfter=No
 4	,	,	PUNCT	sp	_	3	punct	_	_
 5	스페인	스페인	PROPN	nq	_	1	conj	_	_
@@ -9528,7 +9528,7 @@
 6	계속된	계속+되+ㄴ	VERB	ncpa+xsv+etm	_	8	ccomp	_	_
 7	지리상의	지리+상+의	NOUN	ncn+xsn+jcm	_	8	nmod	_	_
 8	발견이고	발견+이+고	CCONJ	ncpa+jp+ecc	_	0	root	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	14	punct	_	_
 10	다음으로는	다음+으로+는	NOUN	ncn+jca+jxt	_	14	dislocated	_	_
 11	새로운	새롭+ㄴ	ADJ	paa+etm	_	12	amod	_	_
 12	인쇄술의	인쇄술+의	NOUN	ncn+jcm	_	13	nmod	_	_
@@ -9548,7 +9548,7 @@
 6	상인이	상인+이	NOUN	ncn+jcc	_	7	csubj	_	_
 7	아니라	아니+라	SCONJ	paa+ecs	_	21	xcomp	_	_
 8	가위	가위	ADV	mag	_	14	advmod	_	_
-9	'	'	PUNCT	sl	_	10	punct	_	SpaceAfter=No
+9	'	'	PUNCT	sl	_	11	punct	_	SpaceAfter=No
 10	만능의	만능+의	NOUN	ncps+jcm	_	11	nmod	_	_
 11	지배자	지배자	NOUN	ncn	_	14	dep	_	SpaceAfter=No
 12	'	'	PUNCT	sr	_	11	punct	_	_
@@ -9574,7 +9574,7 @@
 6	제한된	제한+되+ㄴ	VERB	ncpa+xsv+etm	_	7	acl	_	_
 7	세계관을	세계관+을	NOUN	ncn+jco	_	5	conj	_	_
 8	넓혀주었고	넓히+어+주+었+고	CCONJ	pvg+ecx+px+ep+ecc	_	0	root	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	16	punct	_	_
 10	또	또	ADV	mag	_	16	advmod	_	_
 11	학교를	학교+를	NOUN	ncn+jco	_	12	obj	_	_
 12	세우는	세우+는	VERB	pvg+etm	_	13	acl	_	_
@@ -9633,7 +9633,7 @@
 3	출판업자들은	출판+업자+들+은	NOUN	ncpa+ncn+xsn+jxt	_	9	dislocated	_	_
 4	대학인이자	대학인+이+자	CCONJ	ncn+jp+ecc	_	0	root	_	_
 5	출판업자였고	출판+업자+이+었+고	CCONJ	ncpa+ncn+jp+ep+ecc	_	4	conj	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	9	punct	_	_
 7	인문주의를	인문주의+를	NOUN	ncn+jco	_	8	obj	_	_
 8	이해하는	이해+하+는	VERB	ncpa+xsv+etm	_	9	ccomp	_	_
 9	문화인이었다	문화인+이+었+다	VERB	ncn+jp+ep+ef	_	4	conj	_	SpaceAfter=No
@@ -9775,7 +9775,7 @@
 8	있었던	있+었+던	ADJ	paa+ep+etm	_	7	fixed	_	_
 9	이	이	DET	mmd	_	10	det	_	_
 10	발전단계는	발전+단계+는	NOUN	ncpa+ncn+jxt	_	16	dislocated	_	_
-11	'	'	PUNCT	sl	_	12	punct	_	SpaceAfter=No
+11	'	'	PUNCT	sl	_	13	punct	_	SpaceAfter=No
 12	고판본의	고판본+의	NOUN	ncn+jcm	_	13	nmod	_	_
 13	걸음마단계	걸음마+단계	NOUN	ncn+ncn	_	16	dep	_	SpaceAfter=No
 14	'	'	PUNCT	sr	_	13	punct	_	_
@@ -9917,7 +9917,7 @@
 3	새로운	새롭+ㄴ	ADJ	paa+etm	_	4	amod	_	_
 4	활동영역을	활동+영역+을	NOUN	ncpa+ncn+jco	_	5	obj	_	_
 5	찾았고	찾+았+고	CCONJ	pvg+ep+ecc	_	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	17	punct	_	_
 7	다른	다르+ㄴ	ADJ	paa+etm	_	8	amod	_	_
 8	한편으로는	한편+으로+는	NOUN	ncn+jca+jxt	_	17	dislocated	_	_
 9	자신이	자신+이	NOUN	ncn+jcs	_	10	nsubj	_	_
@@ -10037,7 +10037,7 @@
 5	손	손	NOUN	ncn	_	6	compound	_	_
 6	안에	안+에	ADV	ncn+jca	_	7	obl	_	_
 7	있었고	있+었+고	CCONJ	paa+ep+ecc	_	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	12	punct	_	_
 9	인쇄업자들	인쇄업자+들	NOUN	ncn+xsn	_	10	compound	_	_
 10	대부분이	대부분+이	NOUN	ncn+jcs	_	12	nsubj	_	_
 11	도시	도시	NOUN	ncn	_	12	compound	_	_
@@ -10077,7 +10077,7 @@
 4	업자들은	업자+들+은	NOUN	ncn+xsn+jxt	_	11	dislocated	_	_
 5	자본과	자본+과	CCONJ	ncn+jcj	_	11	advcl	_	_
 6	상거래	상거래	NOUN	ncn	_	5	conj	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	9	punct	_	_
 8	그리고	그리고	CCONJ	maj	_	9	cc	_	_
 9	판로부족으로	판로+부족+으로	ADV	ncn+ncps+jca	_	5	conj	_	_
 10	실패를	실패+를	NOUN	ncpa+jco	_	11	obj	_	_
@@ -10206,7 +10206,7 @@
 6	정리하는	정리+하+는	VERB	ncpa+xsv+etm	_	7	acl	_	_
 7	것이	것+이	NOUN	nbn+jcc	_	8	csubj	_	_
 8	아니요	아니+요	CCONJ	paa+ecc	_	0	root	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	14	punct	_	_
 10	우리	우리	PRON	npp	_	11	compound	_	_
 11	민족이	민족+이	NOUN	ncn+jcc	_	12	csubj	_	_
 12	형성된	형성+되+ㄴ	VERB	ncpa+xsv+etm	_	13	acl	_	_
@@ -10224,7 +10224,7 @@
 4	단일민족은	단일+민족+은	NOUN	ncps+ncn+jxt	_	5	dislocated	_	_
 5	이루어지지	이루+어+지+지	AUX	pvg+ecx+px+ecx	_	0	root	_	_
 6	않았고	않+았+고	CCONJ	px+ep+ecc	_	5	aux	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	13	punct	_	_
 8	따라서	따라서	ADV	mag	_	13	advmod	_	_
 9	하나의	하나+의	NOUN	ncn+jcm	_	10	nmod	_	_
 10	민족이라는	민족+이+라는	VERB	ncn+jp+etm	_	11	ccomp	_	_
@@ -10254,7 +10254,7 @@
 3	삼국은	삼국+은	NOUN	ncn+jxt	_	8	dislocated	_	_
 4	제가끔	제가끔	ADV	mag	_	8	advmod	_	_
 5	고구려민족	고구려+민족	NOUN	nq+ncn	_	8	obj	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	7	punct	_	_
 7	신라민족을	신라+민족+을	PROPN	nq+ncn+jco	_	5	conj	_	_
 8	이루려는	이루+려는	VERB	pvg+etm	_	10	acl	_	_
 9	별개의	별개+의	NOUN	ncn+jcm	_	10	nmod	_	_
@@ -10439,7 +10439,7 @@
 # text = 그러므로 선조, 광해군, 인조조를 걸친 시대를 근대적 여명의 제 1기로 볼 수 있다.
 1	그러므로	그러므로	CCONJ	maj	_	13	cc	_	_
 2	선조	선조	PROPN	nq	_	7	obj	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	4	punct	_	_
 4	광해군	광해군	PROPN	nq	_	2	conj	_	SpaceAfter=No
 5	,	,	PUNCT	sp	_	4	punct	_	_
 6	인조조를	인조조+를	PROPN	nq+jco	_	2	conj	_	_
@@ -10462,7 +10462,7 @@
 4	위대한	위대+하+ㄴ	VERB	ncps+xsm+etm	_	5	amod	_	_
 5	꿈을	꿈+을	NOUN	ncn+jco	_	6	obj	_	_
 6	쫓아가고	쫓+아+가+고	CCONJ	pvg+ecx+px+ecc	_	14	acl	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	12	punct	_	_
 8	그러기에	그러+기+에	ADV	pvd+etn+jca	_	12	obl	_	_
 9	우리를	우리+를	PRON	npp+jco	_	12	obj	_	_
 10	하도	하도	ADV	mag	_	11	advmod	_	_
@@ -10477,7 +10477,7 @@
 1	꿈을	꿈+을	NOUN	ncn+jco	_	2	obj	_	_
 2	지니고	지니+고	SCONJ	pvg+ecs	_	3	ccomp	_	_
 3	싸우며	싸우+며	CCONJ	pvg+ecc	_	12	acl	_	SpaceAfter=No
-4	,	,	PUNCT	sp	_	3	punct	_	_
+4	,	,	PUNCT	sp	_	6	punct	_	_
 5	싸우다가	싸우+다가	SCONJ	pvg+ecs	_	6	ccomp	_	_
 6	패배하고	패배+하+고	CCONJ	ncpa+xsv+ecc	_	3	conj	_	_
 7	마침내	마침내	ADV	mag	_	11	advmod	_	_
@@ -10518,7 +10518,7 @@
 # text = 꿈을 키우고, 꿈을 이루려 몸부림치고, 꿈을 이루지 못해 아파하는 당신 앞에 돌을 던질 수 있는 사람은 없을 터이다.
 1	꿈을	꿈+을	NOUN	ncn+jco	_	2	obj	_	_
 2	키우고	키우+고	CCONJ	pvg+ecc	_	12	acl	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	6	punct	_	_
 4	꿈을	꿈+을	NOUN	ncn+jco	_	5	obj	_	_
 5	이루려	이루+려	SCONJ	pvg+ecs	_	6	ccomp	_	_
 6	몸부림치고	몸부림치+고	CCONJ	pvg+ecc	_	2	conj	_	SpaceAfter=No
@@ -11404,7 +11404,7 @@
 # sent_id = MH2_0149-s73
 # text = 노동자, 농민과 그 아이들은 완전히 자유롭게 교육받을 수 있게 되었다.
 1	노동자	노동자	NOUN	ncn	_	10	dislocated	_	SpaceAfter=No
-2	,	,	PUNCT	sp	_	1	punct	_	_
+2	,	,	PUNCT	sp	_	3	punct	_	_
 3	농민과	농민+과	CCONJ	ncn+jcj	_	1	conj	_	_
 4	그	그	DET	mmd	_	5	det	_	_
 5	아이들은	아이+들+은	NOUN	ncn+xsn+jxt	_	1	conj	_	_
@@ -11438,7 +11438,7 @@
 9	장소나	장소+나	CCONJ	ncn+jcj	_	14	advcl	_	_
 10	결핵	결핵	NOUN	ncn	_	11	compound	_	_
 11	요양소	요양소	NOUN	ncn	_	9	conj	_	SpaceAfter=No
-12	,	,	PUNCT	sp	_	11	punct	_	_
+12	,	,	PUNCT	sp	_	13	punct	_	_
 13	박물관으로	박물관+으로	ADV	ncn+jca	_	9	conj	_	_
 14	이용되었다	이용+되+었+다	VERB	ncpa+xsv+ep+ef	_	0	root	_	SpaceAfter=No
 15	.	.	PUNCT	sf	_	14	punct	_	_
@@ -11482,7 +11482,7 @@
 4	토지를	토지+를	NOUN	ncn+jco	_	5	obj	_	_
 5	분배받았고	분배받+았+고	CCONJ	pvg+ep+ecc	_	0	root	_	_
 6	지주	지주	NOUN	ncn	_	9	nmod	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	8	punct	_	_
 8	자본가의	자본가+의	NOUN	ncn+jcm	_	6	conj	_	_
 9	억압에서	억압+에서	ADV	ncpa+jca	_	10	advcl	_	_
 10	해방되었다	해방+되+었+다	VERB	ncpa+xsv+ep+ef	_	5	conj	_	SpaceAfter=No
@@ -11595,15 +11595,15 @@
 2	년	년	NOUN	nbu	_	3	compound	_	_
 3	봄에는	봄+에+는	NOUN	ncn+jca+jxt	_	25	dislocated	_	_
 4	석탄	석탄	NOUN	ncn	_	17	compound	_	SpaceAfter=No
-5	,	,	PUNCT	sp	_	4	punct	_	_
+5	,	,	PUNCT	sp	_	6	punct	_	_
 6	야금	야금	NOUN	ncn	_	4	conj	_	SpaceAfter=No
 7	,	,	PUNCT	sp	_	6	punct	_	_
 8	석유	석유	NOUN	ncn	_	4	conj	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	10	punct	_	_
 10	화학	화학	NOUN	ncn	_	4	conj	_	SpaceAfter=No
 11	,	,	PUNCT	sp	_	10	punct	_	_
 12	기계	기계	NOUN	ncn	_	4	conj	_	SpaceAfter=No
-13	,	,	PUNCT	sp	_	12	punct	_	_
+13	,	,	PUNCT	sp	_	14	punct	_	_
 14	제조	제조	NOUN	ncn	_	4	conj	_	SpaceAfter=No
 15	,	,	PUNCT	sp	_	14	punct	_	_
 16	섬유	섬유	NOUN	ncn	_	4	conj	_	_
@@ -11621,7 +11621,7 @@
 # sent_id = MH2_0149-s88
 # text = 수송, 체신, 외국 무역도 국유화되었다.
 1	수송	수송	NOUN	ncpa	_	7	advcl	_	SpaceAfter=No
-2	,	,	PUNCT	sp	_	1	punct	_	_
+2	,	,	PUNCT	sp	_	3	punct	_	_
 3	체신	체신	NOUN	ncn	_	1	conj	_	SpaceAfter=No
 4	,	,	PUNCT	sp	_	3	punct	_	_
 5	외국	외국	NOUN	ncn	_	6	compound	_	_
@@ -12010,7 +12010,7 @@
 # sent_id = MH2_0149-s115
 # text = 베를린, 빈, 바르샤바에 노동자 소비에트가 등장하였다.
 1	베를린	베를린	PROPN	nq	_	8	obl	_	SpaceAfter=No
-2	,	,	PUNCT	sp	_	1	punct	_	_
+2	,	,	PUNCT	sp	_	3	punct	_	_
 3	빈	빈	PROPN	nq	_	1	conj	_	SpaceAfter=No
 4	,	,	PUNCT	sp	_	3	punct	_	_
 5	바르샤바에	바르샤바+에	ADV	nq+jca	_	1	conj	_	_
@@ -12284,11 +12284,11 @@
 4	돈과	돈+과	CCONJ	nq+jcj	_	3	flat	_	_
 5	사라토프의	사라토프+의	PROPN	nq+jcm	_	6	nmod	_	_
 6	남동쪽	남동쪽	NOUN	ncn	_	3	conj	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	8	punct	_	_
 8	오렌부르크와	오렌부르크+와	CCONJ	nq+jcj	_	3	conj	_	_
 9	옴스크의	옴스크+의	PROPN	nq+jcm	_	10	nmod	_	_
 10	남쪽	남쪽	NOUN	ncn	_	3	conj	_	SpaceAfter=No
-11	,	,	PUNCT	sp	_	10	punct	_	_
+11	,	,	PUNCT	sp	_	14	punct	_	_
 12	그리고	그리고	CCONJ	maj	_	14	cc	_	_
 13	톰스크의	톰스크+의	PROPN	nq+jcm	_	14	nmod	_	_
 14	북쪽에는	북쪽+에+는	NOUN	ncn+jca+jxt	_	3	conj	_	_
@@ -12477,7 +12477,7 @@
 4	프롤레타리아트의	프롤레타리아트+의	NOUN	ncn+jcm	_	5	nmod	_	_
 5	비중이	비중+이	NOUN	ncn+jcs	_	6	nsubj	_	_
 6	작았으며	작+았+으며	CCONJ	paa+ep+ecc	_	15	obj	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	14	punct	_	_
 8	그만큼	그+만큼	ADV	npd+jca	_	14	advcl	_	_
 9	볼셰비키	볼셰비키	PROPN	nq	_	10	compound	_	_
 10	당의	당+의	NOUN	ncn+jcm	_	13	nmod	_	_
@@ -12599,7 +12599,7 @@
 10	가지고	가지+고	SCONJ	pvg+ecs	_	17	ccomp	_	_
 11	그것의	그것+의	PRON	npd+jcm	_	14	nmod	_	_
 12	성장	성장	NOUN	ncpa	_	17	obl	_	SpaceAfter=No
-13	,	,	PUNCT	sp	_	12	punct	_	_
+13	,	,	PUNCT	sp	_	14	punct	_	_
 14	발육에	발육+에	ADV	ncpa+jca	_	12	conj	_	_
 15	온	온	ADJ	mma	_	16	amod	_	_
 16	힘을	힘+을	NOUN	ncn+jco	_	17	obj	_	_
@@ -12777,7 +12777,7 @@
 5	식견을	식견+을	NOUN	ncn+jco	_	11	obj	_	_
 6	흔히	흔히	ADV	mag	_	11	advmod	_	_
 7	문학비평	문학+비평	NOUN	ncn+ncpa	_	10	compound	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	9	punct	_	_
 9	문학연구	문학+연구	NOUN	ncn+ncpa	_	7	conj	_	_
 10	등으로	등+으로	ADV	nbn+jca	_	11	advcl	_	_
 11	이름하고	이름+하+고	VERB	ncpa+xsv+ecx	_	0	root	_	_
@@ -12818,7 +12818,7 @@
 5	다채로운	다채+롭+ㄴ	VERB	ncn+xsm+etm	_	6	amod	_	_
 6	감수성을	감수성+을	NOUN	ncn+jco	_	7	obj	_	_
 7	제공하며	제공+하+며	CCONJ	ncpa+xsv+ecc	_	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	12	punct	_	_
 9	문학연구는	문학+연구+는	NOUN	ncn+ncpa+jxt	_	12	dislocated	_	_
 10	객관적인	객관+적+이+ㄴ	VERB	ncn+xsn+jp+etm	_	11	acl	_	_
 11	신뢰감을	신뢰감+을	NOUN	ncn+jco	_	12	obj	_	_
@@ -12913,7 +12913,7 @@
 10	가치를	가치+를	NOUN	ncn+jco	_	11	obj	_	_
 11	평가하는	평가+하+는	VERB	ncpa+xsv+etm	_	12	ccomp	_	_
 12	일이고	일+이+고	CCONJ	ncpa+jp+ecc	_	0	root	_	SpaceAfter=No
-13	,	,	PUNCT	sp	_	12	punct	_	_
+13	,	,	PUNCT	sp	_	22	punct	_	_
 14	문학연구는	문학+연구+는	NOUN	ncn+ncpa+jxt	_	22	dislocated	_	_
 15	이와	이+와	CCONJ	npd+jct	_	20	acl	_	_
 16	상관된	상관+되+ㄴ	VERB	ncpa+xsv+etm	_	15	conj	_	_
@@ -13011,7 +13011,7 @@
 3	검토를	검토+를	NOUN	ncpa+jco	_	5	obj	_	_
 4	쉽게	쉽+게	SCONJ	paa+ecs	_	5	xcomp	_	_
 5	경시한다든가	경시+하+ㄴ다든가	CCONJ	ncpa+xsv+ecc	_	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	11	punct	_	_
 7	강단에서는	강단+에서+는	NOUN	ncn+jca+jxt	_	11	dislocated	_	_
 8	비평적	비평+적	NOUN	ncpa+xsn	_	9	amod	_	_
 9	특성을	특성+을	NOUN	ncn+jco	_	11	obj	_	_
@@ -13223,7 +13223,7 @@
 5	구체적인	구체+적+이+ㄴ	VERB	ncn+xsn+jp+etm	_	6	acl	_	_
 6	작품에	작품+에	ADV	ncn+jca	_	7	obl	_	_
 7	접근하거나	접근+하+거나	CCONJ	ncpa+xsv+ecc	_	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	14	punct	_	_
 9	세련되고	세련되+고	CCONJ	paa+ecc	_	11	amod	_	_
 10	정치한	정치하+ㄴ	ADJ	paa+etm	_	9	conj	_	_
 11	잣대로써	잣대+로써	ADV	ncn+jca	_	14	advcl	_	_
@@ -13265,7 +13265,7 @@
 7	내재적	내재+적	NOUN	ncpa+xsn	_	8	amod	_	_
 8	품격을	품격+을	NOUN	ncn+jco	_	9	obj	_	_
 9	확정하거나	확정+하+거나	CCONJ	ncpa+xsv+ecc	_	0	root	_	SpaceAfter=No
-10	,	,	PUNCT	sp	_	9	punct	_	_
+10	,	,	PUNCT	sp	_	18	punct	_	_
 11	동시대의	동시대+의	NOUN	ncn+jcm	_	14	nmod	_	_
 12	고유한	고유+하+ㄴ	VERB	ncpa+xsv+etm	_	14	acl	_	_
 13	지적	지+적	NOUN	ncn+xsn	_	14	amod	_	_
@@ -13291,7 +13291,7 @@
 10	인식을	인식+을	NOUN	ncpa+jco	_	11	obj	_	_
 11	확인하기도	확인+하+기+도	ADV	ncpa+xsv+etn+jxc	_	0	root	_	_
 12	하고	하+고	CCONJ	px+ecc	_	11	aux	_	SpaceAfter=No
-13	,	,	PUNCT	sp	_	12	punct	_	_
+13	,	,	PUNCT	sp	_	24	punct	_	_
 14	이와	이+와	CCONJ	npd+jct	_	24	xcomp	_	_
 15	달리	다르+이	SCONJ	paa+ecs	_	14	conj	_	_
 16	언어의	언어+의	NOUN	ncn+jcm	_	18	nmod	_	_
@@ -13554,7 +13554,7 @@
 # text = 말을 바꾸면, 독일의 문학학을 영어로 번역하기는 거의 불가능하다.
 1	말을	말+을	NOUN	ncpa+jco	_	2	obj	_	_
 2	바꾸면	바꾸+면	SCONJ	pvg+ecs	_	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	9	punct	_	_
 4	독일의	독일+의	PROPN	nq+jcm	_	5	nmod	_	_
 5	문학학을	문학학+을	NOUN	ncn+jco	_	7	obj	_	_
 6	영어로	영어+로	ADV	ncn+jca	_	7	advcl	_	_
@@ -13854,7 +13854,7 @@
 8	별개의	별개+의	NOUN	ncn+jcm	_	9	nmod	_	_
 9	것으로	것+으로	ADV	nbn+jca	_	10	advcl	_	_
 10	구분했고	구분+하+었+고	CCONJ	ncpa+xsv+ep+ecc	_	0	root	_	SpaceAfter=No
-11	,	,	PUNCT	sp	_	10	punct	_	_
+11	,	,	PUNCT	sp	_	22	punct	_	_
 12	르네	르네	PROPN	nq	_	22	dislocated	_	_
 13	웰렉은	웰렉+은	PROPN	nq+jxt	_	12	flat	_	_
 14	문학연구라는	문학+연구+이+라는	VERB	ncn+ncpa+jp+etm	_	15	acl	_	_
@@ -13930,7 +13930,7 @@
 6	비과학적인	비과학+적+이+ㄴ	VERB	ncn+xsn+jp+etm	_	7	acl	_	_
 7	것은	것+은	NOUN	nbn+jxt	_	8	dislocated	_	_
 8	아니며	아니+며	CCONJ	paa+ecc	_	0	root	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	17	punct	_	_
 10	문학연구가	문학+연구+가	NOUN	ncn+ncpa+jcs	_	12	nsubj	_	_
 11	더	더	ADV	mag	_	12	advmod	_	_
 12	진보적이라고	진보+적+이+라+고	VERB	ncpa+xsn+jp+ef+jcr	_	15	ccomp	_	_
@@ -14260,7 +14260,7 @@
 2	,	,	PUNCT	sp	_	1	punct	_	_
 3	지동설이	지동설+이	NOUN	ncn+jcs	_	4	nsubj	_	_
 4	그랬고	그렇+었+고	CCONJ	pad+ep+ecc	_	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	sp	_	4	punct	_	_
+5	,	,	PUNCT	sp	_	7	punct	_	_
 6	진화론이	진화론+이	NOUN	ncn+jcs	_	7	nsubj	_	_
 7	그랬고	그렇+었+고	CCONJ	pad+ep+ecc	_	4	conj	_	SpaceAfter=No
 8	,	,	PUNCT	sp	_	7	punct	_	_
@@ -14432,7 +14432,7 @@
 12	갖고	갖+고	VERB	pvg+ecx	_	16	acl	_	_
 13	있는	있+는	AUX	px+etm	_	12	aux	_	_
 14	세계인식	세계+인식	NOUN	ncn+ncn	_	17	nmod	_	SpaceAfter=No
-15	,	,	PUNCT	sp	_	14	punct	_	_
+15	,	,	PUNCT	sp	_	16	punct	_	_
 16	세계해석의	세계+해석+의	NOUN	ncn+ncpa+jcm	_	14	conj	_	_
 17	자유로움이	자유+롭+ㅁ+이	NOUN	ncn+xsm+etn+jcc	_	18	csubj	_	_
 18	아니면	아니+면	SCONJ	paa+ecs	_	20	xcomp	_	_
@@ -14491,7 +14491,7 @@
 # text = 감히 말하건대, 오늘날의 비평은 때묻지도 녹슬지도 않는 실용적인 스테인레스와도 같다.
 1	감히	감히	ADV	mag	_	2	advmod	_	_
 2	말하건대	말하+건대	SCONJ	pvg+ecs	_	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	11	punct	_	_
 4	오늘날의	오늘날+의	NOUN	ncn+jcm	_	5	nmod	_	_
 5	비평은	비평+은	NOUN	ncpa+jxt	_	11	dislocated	_	_
 6	때묻지도	때묻+지+도	ADV	pvg+ecs+jxc	_	7	ccomp	_	_
@@ -14717,7 +14717,7 @@
 11	위한	위하+ㄴ	VERB	pvg+etm	_	12	ccomp	_	_
 12	종교여야	종교+이+어야	VERB	ncn+jp+ecx	_	20	ccomp	_	_
 13	하고	하+고	CCONJ	px+ecc	_	12	aux	_	SpaceAfter=No
-14	,	,	PUNCT	sp	_	13	punct	_	_
+14	,	,	PUNCT	sp	_	18	punct	_	_
 15	과학도	과학+도	ADV	ncn+jxc	_	18	advcl	_	_
 16	인간을	인간+을	NOUN	ncn+jco	_	17	obj	_	_
 17	위한	위하+ㄴ	VERB	pvg+etm	_	18	ccomp	_	_
@@ -15072,11 +15072,11 @@
 8	인종분쟁	인종+분쟁	NOUN	ncn+ncpa	_	9	compound	_	_
 9	환경오염	환경+오염	NOUN	ncn+ncpa	_	10	compound	_	_
 10	핵문제	핵+문제	NOUN	ncn+ncn	_	18	compound	_	SpaceAfter=No
-11	,	,	PUNCT	sp	_	10	punct	_	_
+11	,	,	PUNCT	sp	_	13	punct	_	_
 12	그리고	그리고	CCONJ	maj	_	13	cc	_	_
 13	마약과	마약+과	CCONJ	ncn+jcj	_	10	conj	_	_
 14	에이즈	에이즈	NOUN	ncn	_	10	conj	_	SpaceAfter=No
-15	,	,	PUNCT	sp	_	14	punct	_	_
+15	,	,	PUNCT	sp	_	17	punct	_	_
 16	노인의	노인+의	NOUN	ncn+jcm	_	17	nmod	_	_
 17	고독	고독	NOUN	ncn	_	10	conj	_	_
 18	등이	등+이	NOUN	nbn+jcs	_	22	nsubj	_	_
@@ -15236,7 +15236,7 @@
 2	뜻하는	뜻+하+는	VERB	ncpa+xsv+etm	_	3	acl	_	_
 3	바도	바+도	ADV	nbn+jxc	_	11	advcl	_	_
 4	물리학	물리학	NOUN	ncn	_	7	compound	_	SpaceAfter=No
-5	,	,	PUNCT	sp	_	4	punct	_	_
+5	,	,	PUNCT	sp	_	6	punct	_	_
 6	생물학	생물학	NOUN	ncn	_	4	conj	_	_
 7	등이	등+이	NOUN	nbn+jcs	_	8	nsubj	_	_
 8	뜻하는	뜻+하+는	VERB	ncpa+xsv+etm	_	9	acl	_	_
@@ -15445,7 +15445,7 @@
 3	문학연구는	문학+연구+는	NOUN	ncn+ncpa+jxt	_	17	dislocated	_	_
 4	인간다움과	인간다움+과	CCONJ	ncn+jcj	_	10	compound	_	_
 5	아름다움	아름다움	NOUN	ncn	_	4	conj	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	8	punct	_	_
 7	혹은	혹은	CCONJ	maj	_	9	cc	_	_
 8	자유로움과	자유로움+과	CCONJ	ncn+jcj	_	4	conj	_	_
 9	정의로움	정의로움	NOUN	ncn	_	8	conj	_	_
@@ -15594,7 +15594,7 @@
 13	심지어는	심지어+는	NOUN	mag+jxt	_	19	advmod	_	_
 14	실용적	실용+적	NOUN	ncpa+xsn	_	17	amod	_	_
 15	문자행위	문자+행위	NOUN	ncn+ncn	_	19	advcl	_	SpaceAfter=No
-16	,	,	PUNCT	sp	_	15	punct	_	_
+16	,	,	PUNCT	sp	_	17	punct	_	_
 17	문서작성도	문서+작성+도	ADV	ncn+ncpa+jxc	_	15	conj	_	_
 18	운문에	운문+에	ADV	ncn+jca	_	19	obl	_	_
 19	의존했습니다	의존+하+었+습니다	VERB	ncpa+xsv+ep+ef	_	0	root	_	SpaceAfter=No
@@ -15608,7 +15608,7 @@
 4	바로	바로	ADV	mag	_	5	advmod	_	_
 5	위대한	위대+하+ㄴ	VERB	ncps+xsm+etm	_	6	amod	_	_
 6	역사였고	역사+이+었+고	CCONJ	ncn+jp+ep+ecc	_	0	root	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	14	punct	_	_
 8	아우렐리우스의	아우렐리우스+의	PROPN	nq+jcm	_	10	nmod	_	_
 9	우미한	우미+하+ㄴ	VERB	ncps+xsm+etm	_	10	amod	_	_
 10	산문은	산문+은	NOUN	ncn+jxt	_	14	dislocated	_	_
@@ -15643,7 +15643,7 @@
 4	멀리	멀리	ADV	mag	_	6	advmod	_	_
 5	고대에서도	고대+에서+도	ADV	ncn+jca+jxc	_	6	advcl	_	_
 6	발견되며	발견+되+며	CCONJ	ncpa+xsv+ecc	_	0	root	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	16	punct	_	_
 8	근대	근대	NOUN	ncn	_	9	compound	_	_
 9	인문주의자들도	인문주의자+들+도	ADV	ncn+xsn+jxc	_	16	advcl	_	_
 10	너나없이	너나없+이	SCONJ	paa+ecs	_	16	xcomp	_	_
@@ -15683,7 +15683,7 @@
 3	유럽에서는	유럽+에서+는	PROPN	nq+jca+jxt	_	10	dislocated	_	_
 4	호머와	호머+와	CCONJ	nq+jcj	_	10	advcl	_	_
 5	투키디데스	투키디데스	PROPN	nq	_	4	conj	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	7	punct	_	_
 7	베르길리우스와	베르길리우스+와	CCONJ	nq+jcj	_	4	conj	_	_
 8	키케로에게서	키케로+에게서	ADV	nq+jca	_	4	conj	_	_
 9	인간성을	인간성+을	NOUN	ncn+jco	_	10	obj	_	_
@@ -15764,7 +15764,7 @@
 7	소질을	소질+을	NOUN	ncn+jco	_	8	obj	_	_
 8	계발해야	계발+하+어야	VERB	ncpa+xsv+ecx	_	0	root	_	_
 9	하며	하+며	CCONJ	px+ecc	_	8	aux	_	SpaceAfter=No
-10	,	,	PUNCT	sp	_	9	punct	_	_
+10	,	,	PUNCT	sp	_	23	punct	_	_
 11	따라서	따라서	ADV	mag	_	23	advmod	_	_
 12	인간의	인간+의	NOUN	ncn+jcm	_	14	nmod	_	_
 13	내면적	내면+적	NOUN	ncn+xsn	_	14	amod	_	_
@@ -16263,13 +16263,13 @@
 3	우리는	우리+는	PRON	npp+jxt	_	14	dislocated	_	_
 4	인생을	인생+을	NOUN	ncn+jco	_	5	obj	_	_
 5	관조하고	관조+하+고	CCONJ	ncpa+xsv+ecc	_	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	8	punct	_	_
 7	현실을	현실+을	NOUN	ncn+jco	_	8	obj	_	_
 8	비판하고	비판+하+고	CCONJ	ncpa+xsv+ecc	_	5	conj	_	SpaceAfter=No
 9	,	,	PUNCT	sp	_	8	punct	_	_
 10	세계를	세계+를	NOUN	ncn+jco	_	11	obj	_	_
 11	인식하고	인식+하+고	CCONJ	ncpa+xsv+ecc	_	5	conj	_	SpaceAfter=No
-12	,	,	PUNCT	sp	_	11	punct	_	_
+12	,	,	PUNCT	sp	_	14	punct	_	_
 13	역사를	역사+를	NOUN	ncn+jco	_	14	obj	_	_
 14	통찰하는	통찰+하+는	VERB	ncpa+xsv+etm	_	5	conj	_	_
 15	겁니다	것+이+ㅂ니다	VERB	nbn+jp+ef	_	14	aux	_	SpaceAfter=No
@@ -16468,13 +16468,13 @@
 8	,	,	PUNCT	sp	_	7	punct	_	_
 9	최초의	최초+의	NOUN	ncn+jcm	_	10	nmod	_	_
 10	통치자였고	통치자+이+었+고	CCONJ	ncn+jp+ep+ecc	_	0	root	_	SpaceAfter=No
-11	,	,	PUNCT	sp	_	10	punct	_	_
+11	,	,	PUNCT	sp	_	13	punct	_	_
 12	최초의	최초+의	NOUN	ncn+jcm	_	13	nmod	_	_
 13	교사였고	교사+이+었+고	CCONJ	ncn+jp+ep+ecc	_	10	conj	_	SpaceAfter=No
 14	,	,	PUNCT	sp	_	13	punct	_	_
 15	최초의	최초+의	NOUN	ncn+jcm	_	16	nmod	_	_
 16	의사였고	의사+이+었+고	CCONJ	ncn+jp+ep+ecc	_	10	conj	_	SpaceAfter=No
-17	,	,	PUNCT	sp	_	16	punct	_	_
+17	,	,	PUNCT	sp	_	19	punct	_	_
 18	최초의	최초+의	NOUN	ncn+jcm	_	19	nmod	_	_
 19	광대였다	광대+이+었+다	VERB	ncn+jp+ep+ef	_	10	conj	_	SpaceAfter=No
 20	.	.	PUNCT	sf	_	19	punct	_	_
@@ -16718,7 +16718,7 @@
 1	뮤즈의	뮤즈+의	PROPN	nq+jcm	_	2	nmod	_	_
 2	영감을	영감+을	NOUN	ncn+jco	_	3	obj	_	_
 3	부여받자	부여받+자	SCONJ	pvg+ecs	_	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	sp	_	3	punct	_	_
+4	,	,	PUNCT	sp	_	15	punct	_	_
 5	디오니소스적	디오니소스+적	NOUN	nq+xsn	_	6	amod	_	_
 6	열기와	열기+와	CCONJ	ncn+jcj	_	8	obl	_	_
 7	광기에	광기+에	ADV	ncn+jca	_	6	conj	_	_
@@ -16986,7 +16986,7 @@
 # text = 김소월이 사용했고, 또 이상화와 이육사가 사용했다.
 1	김소월이	김소월+이	PROPN	nq+jcs	_	2	nsubj	_	_
 2	사용했고	사용+하+었+고	CCONJ	ncpa+xsv+ep+ecc	_	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	4	punct	_	_
 4	또	또	CCONJ	maj	_	2	conj	_	_
 5	이상화와	이상화+와	CCONJ	nq+jcj	_	7	nsubj	_	_
 6	이육사가	이육사+가	PROPN	nq+jcs	_	5	conj	_	_
@@ -17174,19 +17174,19 @@
 
 # sent_id = MH2_0159-s268
 # text = 때문에, 인간은 언어를 통해, 언어라는 형상적 사유를 통해 세계를 인식하고 창조한다.
-1	때문에,	때문에	CCONJ	maj	_	13	cc	_	_
-2	인간은	인간+은	NOUN	ncn+jxt	_	13	dislocated	_	_
+1	때문에,	때문에	CCONJ	maj	_	11	cc	_	_
+2	인간은	인간+은	NOUN	ncn+jxt	_	11	dislocated	_	_
 3	언어를	언어+를	NOUN	ncn+jco	_	4	obj	_	_
-4	통해	통하+어	SCONJ	pvg+ecs	_	13	ccomp	_	SpaceAfter=No
+4	통해	통하+어	SCONJ	pvg+ecs	_	11	ccomp	_	SpaceAfter=No
 5	,	,	PUNCT	sp	_	4	punct	_	_
 6	언어라는	언어+이+라는	VERB	ncn+jp+etm	_	8	acl	_	_
 7	형상적	형상+적	NOUN	ncpa+xsn	_	8	amod	_	_
 8	사유를	사유+를	NOUN	ncn+jco	_	9	obj	_	_
-9	통해	통하+어	SCONJ	pvg+ecs	_	13	ccomp	_	_
+9	통해	통하+어	SCONJ	pvg+ecs	_	11	ccomp	_	_
 10	세계를	세계+를	NOUN	ncn+jco	_	11	obj	_	_
 11	인식하고	인식+하+고	CCONJ	ncpa+xsv+ecc	_	0	root	_	_
 12	창조한다	창조+하+ㄴ다	VERB	ncpa+xsv+ef	_	11	conj	_	SpaceAfter=No
-13	.	.	PUNCT	sf	_	11	conj	_	_
+13	.	.	PUNCT	sf	_	11	punct	_	_
 
 # sent_id = MH2_0159-s269
 # text = 개체의 사고와 인격을 형성하고, 공동체의 문화적 경험도 축적한다.
@@ -17194,7 +17194,7 @@
 2	사고와	사고+와	CCONJ	ncpa+jcj	_	4	obj	_	_
 3	인격을	인격+을	NOUN	ncn+jco	_	2	conj	_	_
 4	형성하고	형성+하+고	CCONJ	ncpa+xsv+ecc	_	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	sp	_	4	punct	_	_
+5	,	,	PUNCT	sp	_	9	punct	_	_
 6	공동체의	공동체+의	NOUN	ncn+jcm	_	8	nmod	_	_
 7	문화적	문화+적	NOUN	ncn+xsn	_	8	amod	_	_
 8	경험도	경험+도	ADV	ncpa+jxc	_	9	advcl	_	_
@@ -17326,7 +17326,7 @@
 8	일정한	일정+하+ㄴ	VERB	ncps+xsm+etm	_	9	amod	_	_
 9	거리를	거리+를	NOUN	ncn+jco	_	10	obj	_	_
 10	유지하면서	유지+하+면서	CCONJ	ncpa+xsv+ecc	_	0	root	_	SpaceAfter=No
-11	,	,	PUNCT	sp	_	10	punct	_	_
+11	,	,	PUNCT	sp	_	18	punct	_	_
 12	비극적인	비극+적+이+ㄴ	VERB	ncn+xsn+jp+etm	_	14	acl	_	_
 13	역사의	역사+의	NOUN	ncn+jcm	_	14	nmod	_	_
 14	무대는	무대+는	NOUN	ncn+jxt	_	18	dislocated	_	_
@@ -17841,7 +17841,7 @@
 5	헤매는	헤매+는	VERB	pvg+etm	_	7	acl	_	_
 6	어린	어리+ㄴ	ADJ	paa+etm	_	7	amod	_	_
 7	양	양	NOUN	ncn	_	15	obj	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	14	punct	_	_
 9	즉	즉	CCONJ	maj	_	14	cc	_	_
 10	역사감각을	역사+감각+을	NOUN	ncn+ncpa+jco	_	11	obj	_	_
 11	상실한	상실+하+ㄴ	VERB	ncpa+xsv+etm	_	14	acl	_	_
@@ -18189,7 +18189,7 @@
 7	그것은	그것+은	PRON	npd+jxt	_	19	dislocated	_	_
 8	일종의	일종+의	NOUN	ncn+jcm	_	9	nmod	_	_
 9	애호가비평이며	애호가+비평+이+며	CCONJ	ncn+ncpa+jp+ecc	_	0	root	_	SpaceAfter=No
-10	,	,	PUNCT	sp	_	9	punct	_	_
+10	,	,	PUNCT	sp	_	11	punct	_	_
 11	또는	또는	CCONJ	maj	_	9	conj	_	_
 12	비평적	비평+적	NOUN	ncpa+xsn	_	13	amod	_	_
 13	주체의	주체+의	NOUN	ncn+jcm	_	15	nmod	_	_
@@ -18388,7 +18388,7 @@
 9	다지는	다지+는	VERB	pvg+etm	_	7	conj	_	_
 10	의식을	의식+을	NOUN	ncpa+jco	_	11	obj	_	_
 11	말하며	말하+며	CCONJ	pvg+ecc	_	0	root	_	SpaceAfter=No
-12	,	,	PUNCT	sp	_	11	punct	_	_
+12	,	,	PUNCT	sp	_	18	punct	_	_
 13	여기에는	여기+에+는	PRON	npd+jca+jxt	_	18	dislocated	_	_
 14	공동의	공동+의	NOUN	ncn+jcm	_	17	nmod	_	_
 15	유대	유대	NOUN	ncn	_	18	nsubj	_	_
@@ -18709,7 +18709,7 @@
 3	불러서	부르+어서	SCONJ	pvg+ecs	_	4	ccomp	_	_
 4	헤어지는	헤어지+는	VERB	pvg+etm	_	5	ccomp	_	_
 5	경우이고	경우+이+고	CCONJ	ncn+jp+ecc	_	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	12	punct	_	_
 7	다른	다르+ㄴ	ADJ	paa+etm	_	8	amod	_	_
 8	하나는	하나+는	NUM	nnc+jxt	_	12	dislocated	_	_
 9	배가	배+가	NOUN	ncn+jcs	_	10	nsubj	_	_
@@ -18728,7 +18728,7 @@
 6	전자의	전자+의	NOUN	ncn+jcm	_	7	nmod	_	_
 7	경우일	경우+이+ㄹ	VERB	ncn+jp+etm	_	8	ccomp	_	_
 8	터이지만	터+이+지만	SCONJ	nbn+jp+ecs	_	0	root	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	20	punct	_	_
 10	가난한	가난+하+ㄴ	VERB	ncpa+xsv+etm	_	11	acl	_	_
 11	남녀에게는	남녀+에게+는	NOUN	ncn+jca+jxt	_	20	dislocated	_	_
 12	애증의	애증+의	NOUN	ncn+jcm	_	13	nmod	_	_
@@ -18804,7 +18804,7 @@
 8	때문만도	때문+만+도	ADV	nbn+jxc+jxc	_	9	advcl	_	_
 9	아닐	아니+ㄹ	ADJ	paa+etm	_	0	root	_	_
 10	것이며	것+이+며	CCONJ	nbn+jp+ecc	_	9	aux	_	SpaceAfter=No
-11	,	,	PUNCT	sp	_	10	punct	_	_
+11	,	,	PUNCT	sp	_	16	punct	_	_
 12	교역을	교역+을	NOUN	ncpa+jco	_	13	obj	_	_
 13	위해	위하+어	SCONJ	pvg+ecs	_	15	ccomp	_	_
 14	서울로	서울+로	ADV	nq+jca	_	15	advcl	_	_
@@ -18840,7 +18840,7 @@
 6	김부식에게	김부식+에게	ADV	nq+jca	_	8	iobj	_	_
 7	죽임을	죽이+ㅁ+을	NOUN	pvg+etn+jco	_	8	obj	_	_
 8	당했고	당하+었+고	CCONJ	pvg+ep+ecc	_	15	acl	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	13	punct	_	_
 10	서경파의	서경파+의	NOUN	ncn+jcm	_	12	nmod	_	_
 11	자주적	자주+적	NOUN	ncn+xsn	_	12	amod	_	_
 12	노선이	노선+이	NOUN	ncn+jcs	_	13	nsubj	_	_
@@ -18861,7 +18861,7 @@
 5	지역으로	지역+으로	ADV	ncn+jca	_	7	advcl	_	_
 6	낙인이	낙인+이	NOUN	ncn+jcs	_	7	nsubj	_	_
 7	찍혔고	찍히+었+고	CCONJ	pvg+ep+ecc	_	14	ccomp	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	13	punct	_	_
 9	다른	다르+ㄴ	ADJ	paa+etm	_	10	amod	_	_
 10	지역보다도	지역+보다+도	ADV	ncn+jca+jxc	_	13	advcl	_	_
 11	유민의	유민+의	NOUN	ncn+jcm	_	12	nmod	_	_
@@ -18991,7 +18991,7 @@
 6	개인적으로	개인+적+으로	ADV	ncn+xsn+jca	_	14	advcl	_	_
 7	오랜	오랜	ADJ	mma	_	13	amod	_	_
 8	감옥생활	감옥+생활	NOUN	ncn+ncpa	_	14	obj	_	SpaceAfter=No
-9	,	,	PUNCT	sp	_	8	punct	_	_
+9	,	,	PUNCT	sp	_	10	punct	_	_
 10	연금생활	연금+생활	NOUN	ncpa+ncpa	_	8	conj	_	SpaceAfter=No
 11	,	,	PUNCT	sp	_	10	punct	_	_
 12	해외	해외	NOUN	ncn	_	13	compound	_	_
@@ -19069,7 +19069,7 @@
 # sent_id = MH2_0169-s13
 # text = 박정희, 전두환, 노태우 체제가 좋다고 생각하는 사람들하고는 아예 생각이 다르니까 할 말이 없다.
 1	박정희	박정희	PROPN	nq	_	6	compound	_	SpaceAfter=No
-2	,	,	PUNCT	sp	_	1	punct	_	_
+2	,	,	PUNCT	sp	_	3	punct	_	_
 3	전두환	전두환	PROPN	nq	_	1	conj	_	SpaceAfter=No
 4	,	,	PUNCT	sp	_	3	punct	_	_
 5	노태우	노태우	PROPN	nq	_	1	conj	_	_
@@ -19089,7 +19089,7 @@
 # text = 그러나 박정희, 전두환, 노태우 체제는 역사적인 평가를 받은 체제다.
 1	그러나	그러나	CCONJ	maj	_	11	cc	_	_
 2	박정희	박정희	PROPN	nq	_	7	compound	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	4	punct	_	_
 4	전두환	전두환	PROPN	nq	_	2	conj	_	SpaceAfter=No
 5	,	,	PUNCT	sp	_	4	punct	_	_
 6	노태우	노태우	PROPN	nq	_	2	conj	_	_
@@ -19203,7 +19203,7 @@
 3	사회주의운동은	사회주의운동+은	NOUN	ncpa+jxt	_	12	dislocated	_	_
 4	박정희와	박정희+와	CCONJ	nq+jcj	_	9	compound	_	_
 5	전두환	전두환	PROPN	nq	_	4	conj	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	8	punct	_	_
 7	그리고	그리고	CCONJ	maj	_	8	cc	_	_
 8	노태우	노태우	PROPN	nq	_	4	conj	_	_
 9	정권시대의	정권+시대+의	NOUN	ncn+ncn+jcm	_	10	nmod	_	_
@@ -19481,7 +19481,7 @@
 13	직장을	직장+을	NOUN	ncn+jco	_	14	obj	_	_
 14	구하게	구하+게	VERB	pvg+ecx	_	10	conj	_	_
 15	되었고	되+었+고	CCONJ	px+ep+ecc	_	14	aux	_	SpaceAfter=No
-16	,	,	PUNCT	sp	_	15	punct	_	_
+16	,	,	PUNCT	sp	_	20	punct	_	_
 17	당	당	NOUN	ncn	_	19	compound	_	_
 18	건설	건설	NOUN	ncpa	_	19	compound	_	_
 19	사업이	사업+이	NOUN	ncn+jcs	_	20	nsubj	_	_
@@ -19513,7 +19513,7 @@
 3	사회주의자라고	사회주의자+라고	VERB	ncn+jcr	_	5	acl	_	_
 4	자처했던	자처+하+었+던	VERB	ncpa+xsv+ep+etm	_	3	conj	_	_
 5	사람들까지도	사람+들+까지+도	ADV	ncn+xsn+jxc+jxc	_	13	advcl	_	_
-6	[	[	PUNCT	sl	_	7	punct	_	SpaceAfter=No
+6	[	[	PUNCT	sl	_	8	punct	_	SpaceAfter=No
 7	경제정의	경제+정의	NOUN	ncn+ncn	_	8	compound	_	_
 8	실천시민연합	실천시민연합	NOUN	ncn	_	10	compound	_	SpaceAfter=No
 9	]	]	PUNCT	sr	_	8	punct	_	_
@@ -19866,7 +19866,7 @@
 4	선거운동에	선거운동+에	ADV	ncpa+jca	_	5	obl	_	_
 5	참여했던	참여+하+었+던	VERB	ncpa+xsv+ep+etm	_	12	acl	_	_
 6	진보정당추진위원회	진보+정당+추진+위원회	NOUN	ncpa+ncn+ncpa+ncn	_	11	compound	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	8	punct	_	_
 8	사회당추진위원회	사회당+추진+위원회	NOUN	ncn+ncpa+ncn	_	6	conj	_	SpaceAfter=No
 9	,	,	PUNCT	sp	_	8	punct	_	_
 10	민중회의	민중+회의	NOUN	ncn+ncn	_	6	conj	_	_
@@ -20030,7 +20030,7 @@
 2	반대만	반대+만	ADV	ncpa+jxc	_	3	advcl	_	_
 3	해가지고는	하+어+가+아+지+고+는	NOUN	pvg+ecx+px+ecx+px+ecc+jxt	_	12	ccomp	_	_
 4	견제세력	견제+세력	NOUN	ncpa+ncn	_	7	dislocated	_	SpaceAfter=No
-5	,	,	PUNCT	sp	_	4	punct	_	_
+5	,	,	PUNCT	sp	_	6	punct	_	_
 6	비판세력은	비판세력+은	NOUN	ncn+jxt	_	4	conj	_	_
 7	될	되+ㄹ	VERB	pvg+etm	_	12	ccomp	_	_
 8	수	수	NOUN	nbn	_	7	aux	_	_
@@ -20411,7 +20411,7 @@
 # sent_id = MH2_0169-s106
 # text = 5, 6공 청산에 동의한다고 해도 그것이 우리를 지지하는 게 아니라 소부르주아정책을 지지하는 것으로 나타날 수 있다.
 1	5	5	NUM	nnc	_	4	compound	_	SpaceAfter=No
-2	,	,	PUNCT	sp	_	1	punct	_	_
+2	,	,	PUNCT	sp	_	3	punct	_	_
 3	6공	6+공	NOUN	nnc+ncn	_	1	conj	_	_
 4	청산에	청산+에	ADV	ncn+jca	_	5	obl	_	_
 5	동의한다고	동의+하+ㄴ다+고	VERB	ncpa+xsv+ef+jcr	_	15	ccomp	_	_
@@ -21134,7 +21134,7 @@
 9	우리를	우리+를	PRON	npp+jco	_	17	obj	_	_
 10	소련이나	소련+이나	CCONJ	nq+jcj	_	14	nmod	_	_
 11	중국	중국	PROPN	nq	_	10	conj	_	SpaceAfter=No
-12	,	,	PUNCT	sp	_	11	punct	_	_
+12	,	,	PUNCT	sp	_	13	punct	_	_
 13	북한의	북한+의	PROPN	nq+jcm	_	10	conj	_	_
 14	사회주의와	사회주의+와	CCONJ	ncn+jct	_	16	amod	_	_
 15	같은	같+ㄴ	ADJ	paa+etm	_	14	conj	_	_
@@ -21656,7 +21656,7 @@
 4	보장해	보장+하+어	VERB	ncpa+xsv+ecx	_	0	root	_	_
 5	나가면서	나가+면서	CCONJ	px+ecc	_	4	aux	_	_
 6	경제민주화	경제민주화	NOUN	ncn	_	10	obj	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	8	punct	_	_
 8	정치민주화를	정치민주화+를	NOUN	ncn+jco	_	6	conj	_	_
 9	차례로	차례+로	ADV	ncn+jca	_	10	advcl	_	_
 10	이루어	이루+어	VERB	pvg+ecx	_	4	conj	_	_
@@ -21784,7 +21784,7 @@
 # text = 노동자들이 저임금, 장시간노동, 열악한 노동환경에 처해 있다는 것은 맞다.
 1	노동자들이	노동자+들+이	NOUN	ncn+xsn+jcs	_	8	nsubj	_	_
 2	저임금	저임금	NOUN	ncn	_	8	obl	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	4	punct	_	_
 4	장시간노동	장시간노동	NOUN	ncn	_	2	conj	_	SpaceAfter=No
 5	,	,	PUNCT	sp	_	4	punct	_	_
 6	열악한	열악+하+ㄴ	VERB	ncps+xsm+etm	_	7	amod	_	_
@@ -21905,8 +21905,8 @@
 
 # sent_id = MH2_0169-s211
 # text = 그런데도 민중진영은 모든 사람이 집도 없고 먹고 살기도 힘들거라고 생각하고 주장한다.
-1	그런데도	그렇+ㄴ데도	SCONJ	pad+ecs	_	12	xcomp	_	_
-2	민중진영은	민중+진영+은	NOUN	ncn+ncn+jxt	_	12	dislocated	_	_
+1	그런데도	그렇+ㄴ데도	SCONJ	pad+ecs	_	10	xcomp	_	_
+2	민중진영은	민중+진영+은	NOUN	ncn+ncn+jxt	_	10	dislocated	_	_
 3	모든	모든	ADJ	mma	_	4	amod	_	_
 4	사람이	사람+이	NOUN	ncn+jcs	_	9	nsubj	_	_
 5	집도	집+도	ADV	ncn+jxc	_	6	advcl	_	_
@@ -21916,7 +21916,7 @@
 9	힘들거라고	힘들+거라+고	VERB	paa+ef+jcr	_	6	conj	_	_
 10	생각하고	생각+하+고	CCONJ	ncpa+xsv+ecc	_	6	conj	_	_
 11	주장한다	주장+하+ㄴ다	VERB	ncpa+xsv+ef	_	10	conj	_	SpaceAfter=No
-12	.	.	PUNCT	sf	_	10	conj	_	_
+12	.	.	PUNCT	sf	_	10	punct	_	_
 
 # sent_id = MH2_0169-s212
 # text = 살기가 힘들지요 하는 말로 연설을 시작하는 게 습관이 되어 버렸다.
@@ -22242,11 +22242,11 @@
 4	수	수	NOUN	nbn	_	3	aux	_	_
 5	없고	없+고	CCONJ	paa+ecc	_	4	fixed	_	_
 6	러시아	러시아	PROPN	nq	_	13	dep	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	8	punct	_	_
 8	중국	중국	PROPN	nq	_	6	conj	_	SpaceAfter=No
 9	,	,	PUNCT	sp	_	8	punct	_	_
 10	베트남	베트남	PROPN	nq	_	6	conj	_	SpaceAfter=No
-11	,	,	PUNCT	sp	_	10	punct	_	_
+11	,	,	PUNCT	sp	_	12	punct	_	_
 12	쿠바	쿠바	PROPN	nq	_	6	conj	_	_
 13	같은	같+ㄴ	ADJ	paa+etm	_	14	amod	_	_
 14	나라에서만	나라+에서+만	ADV	ncn+jca+jxc	_	16	advcl	_	_
@@ -22406,7 +22406,7 @@
 8	중심에	중심+에	ADV	ncn+jca	_	9	obl	_	_
 9	놓게	놓+게	VERB	pvg+ecx	_	0	root	_	_
 10	되고	되+고	CCONJ	px+ecc	_	9	aux	_	SpaceAfter=No
-11	,	,	PUNCT	sp	_	10	punct	_	_
+11	,	,	PUNCT	sp	_	20	punct	_	_
 12	비밀	비밀	NOUN	ncn	_	13	compound	_	_
 13	지하조직을	지하+조직+을	NOUN	ncn+ncpa+jco	_	15	obj	_	_
 14	중심에	중심+에	ADV	ncn+jca	_	15	obl	_	_
@@ -22509,7 +22509,7 @@
 9	않은	않+ㄴ	AUX	px+etm	_	8	aux	_	_
 10	것은	것+은	NOUN	nbn+jxt	_	14	dislocated	_	_
 11	개량주의	개량주의	NOUN	ncn	_	14	ccomp	_	SpaceAfter=No
-12	,	,	PUNCT	sp	_	11	punct	_	_
+12	,	,	PUNCT	sp	_	13	punct	_	_
 13	타협주의라	타협주의+이+라	VERB	ncn+jp+ef	_	11	conj	_	_
 14	생각한다	생각+하+ㄴ다	VERB	ncpa+xsv+ef	_	7	conj	_	SpaceAfter=No
 15	.	.	PUNCT	sf	_	14	punct	_	_
@@ -22624,7 +22624,7 @@
 1	준비	준비	NOUN	ncpa	_	2	dep	_	_
 2	없이	없+이	SCONJ	paa+ecs	_	3	xcomp	_	_
 3	시위하고	시위+하+고	CCONJ	ncpa+xsv+ecc	_	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	sp	_	3	punct	_	_
+4	,	,	PUNCT	sp	_	6	punct	_	_
 5	차도를	차도+를	NOUN	ncn+jco	_	6	obj	_	_
 6	막았다	막+았+다	VERB	pvg+ep+ef	_	3	conj	_	SpaceAfter=No
 7	.	.	PUNCT	sf	_	6	punct	_	_
@@ -22733,7 +22733,7 @@
 4	소리지르는	소리지르+는	VERB	pvg+etm	_	5	acl	_	_
 5	것이	것+이	NOUN	nbn+jcs	_	6	nsubj	_	_
 6	당연하고	당연+하+고	CCONJ	ncps+xsm+ecc	_	2	conj	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	12	punct	_	_
 8	공공건물에	공공+건물+에	ADV	ncn+ncn+jca	_	10	obl	_	_
 9	스티커를	스티커+를	NOUN	ncn+jco	_	10	obj	_	_
 10	붙이고도	붙이+고+도	ADV	pvg+ecc+jxc	_	12	ccomp	_	_
@@ -22964,7 +22964,7 @@
 # text = 운동은 능동적이고, 뚜렷한 목적을 가져야 한다.
 1	운동은	운동+은	NOUN	ncpa+jxt	_	6	dislocated	_	_
 2	능동적이고	능동+적+이+고	CCONJ	ncn+xsn+jp+ecc	_	5	amod	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	4	punct	_	_
 4	뚜렷한	뚜렷+하+ㄴ	VERB	ncps+xsm+etm	_	2	conj	_	_
 5	목적을	목적+을	NOUN	ncpa+jco	_	6	obj	_	_
 6	가져야	가지+어야	VERB	pvg+ecx	_	0	root	_	_
@@ -23051,7 +23051,7 @@
 2	대비하는	대비+하+는	VERB	ncpa+xsv+etm	_	3	acl	_	_
 3	활동은	활동+은	NOUN	ncpa+jxt	_	8	dislocated	_	_
 4	합법주의	합법+주의	NOUN	ncn+ncn	_	7	advcl	_	SpaceAfter=No
-5	,	,	PUNCT	sp	_	4	punct	_	_
+5	,	,	PUNCT	sp	_	6	punct	_	_
 6	개량주의로	개량주의+로	ADV	ncn+jca	_	4	conj	_	_
 7	비판받기	비판받+기	VERB	pvg+etn	_	8	nmod	_	_
 8	일쑤다	일쑤+이+다	VERB	ncn+jp+ef	_	0	root	_	SpaceAfter=No
@@ -23355,7 +23355,7 @@
 1	그러다	그러+다	SCONJ	pvg+ecs	_	2	ccomp	_	_
 2	보니	보+니	SCONJ	pvg+ecs	_	19	ccomp	_	_
 3	2	2	NUM	nnc	_	9	advcl	_	SpaceAfter=No
-4	,	,	PUNCT	sp	_	3	punct	_	_
+4	,	,	PUNCT	sp	_	5	punct	_	_
 5	3년전부터	3+년+전+부터	ADV	nnc+nbu+ncn+jxc	_	3	conj	_	_
 6	선거를	선거+를	NOUN	ncpa+jco	_	7	obj	_	_
 7	대비하면서	대비+하+면서	CCONJ	ncpa+xsv+ecc	_	10	acl	_	_
@@ -23392,7 +23392,7 @@
 # text = 선거대비를 경시하고, 개인을 경시하는 운동 모습은 우리 운동의 능동성을 해치기까지 했다.
 1	선거대비를	선거+대비+를	NOUN	ncpa+ncn+jco	_	2	obj	_	_
 2	경시하고	경시+하+고	CCONJ	ncpa+xsv+ecc	_	7	acl	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	5	punct	_	_
 4	개인을	개인+을	NOUN	ncn+jco	_	5	obj	_	_
 5	경시하는	경시+하+는	VERB	ncpa+xsv+etm	_	2	conj	_	_
 6	운동	운동	NOUN	ncn	_	7	compound	_	_
@@ -23837,7 +23837,7 @@
 # sent_id = MH2_0169-s355
 # text = 소비자보호운동, 환경운동, 교통문제해결 등도 생산자인 노동자가 아니라 소비자인 노동자, 시민인 노동자의 생활에는 중요한 문제다.
 1	소비자보호운동	소비자+보호+운동	NOUN	ncn+ncpa+ncn	_	6	compound	_	SpaceAfter=No
-2	,	,	PUNCT	sp	_	1	punct	_	_
+2	,	,	PUNCT	sp	_	3	punct	_	_
 3	환경운동	환경+운동	NOUN	ncn+ncn	_	1	conj	_	SpaceAfter=No
 4	,	,	PUNCT	sp	_	3	punct	_	_
 5	교통문제해결	교통문제해결	NOUN	ncn	_	1	conj	_	_
@@ -23953,7 +23953,7 @@
 5	운동은	운동+은	NOUN	ncpa+jxt	_	7	dislocated	_	_
 6	노동조합운동에만	노동조합운동+에+만	ADV	ncn+jca+jxc	_	7	advcl	_	_
 7	매몰됐고	매몰+되+었+고	CCONJ	ncpa+xsv+ep+ecc	_	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	14	punct	_	_
 9	노동조합운동	노동조합운동	NOUN	ncn	_	10	compound	_	_
 10	밖의	밖+의	NOUN	ncn+jcm	_	11	nmod	_	_
 11	운동에서는	운동+에서+는	NOUN	ncpa+jca+jxt	_	14	dislocated	_	_
@@ -24003,15 +24003,15 @@
 5	공산당원들이	공산당원+들+이	NOUN	ncn+xsn+jcs	_	7	nsubj	_	_
 6	혁명가답게	혁명가답+게	SCONJ	paa+ecs	_	7	xcomp	_	_
 7	활동하도록	활동+하+도록	SCONJ	ncpa+xsv+ecs	_	4	conj	_	_
-8	<	<	PUNCT	sl	_	9	punct	_	SpaceAfter=No
+8	<	<	PUNCT	sl	_	4	punct	_	SpaceAfter=No
 9	3대	3+대	NOUN	nnc+nbu	_	10	compound	_	_
 10	규율	규율	NOUN	ncn	_	18	obj	_	SpaceAfter=No
-11	>	>	PUNCT	sr	_	10	punct	_	_
+11	>	>	PUNCT	sr	_	12	punct	_	_
 12	과	과	CCONJ	jcj	_	10	case	_	_
 13	<	<	PUNCT	sl	_	14	punct	_	SpaceAfter=No
 14	8항	8+항	NOUN	nnc+ncn	_	15	compound	_	_
 15	주의	주의	NOUN	ncn	_	10	conj	_	SpaceAfter=No
-16	>	>	PUNCT	sr	_	15	punct	_	_
+16	>	>	PUNCT	sr	_	17	punct	_	_
 17	를	를	ADP	jco	_	15	case	_	_
 18	만들었다	만들+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
 19	.	.	PUNCT	sf	_	18	punct	_	_
@@ -24203,11 +24203,11 @@
 1	50대	50+대	NOUN	nnc+nbu	_	2	compound	_	_
 2	후반의	후반+의	NOUN	ncn+jcm	_	4	nmod	_	_
 3	이	이	DET	mmd	_	4	det	_	_
-4	아주머니는	아주머니+는	NOUN	ncn+jxt	_	8	dislocated	_	_
-5	성격도	성격+도	ADV	ncn+jxc	_	8	advcl	_	_
+4	아주머니는	아주머니+는	NOUN	ncn+jxt	_	6	dislocated	_	_
+5	성격도	성격+도	ADV	ncn+jxc	_	6	advcl	_	_
 6	괄괄하고	괄괄하+고	CCONJ	paa+ecc	_	0	root	_	_
 7	드세다	드세+다	ADJ	paa+ef	_	6	conj	_	SpaceAfter=No
-8	.	.	PUNCT	sf	_	6	conj	_	_
+8	.	.	PUNCT	sf	_	6	punct	_	_
 
 # sent_id = MH2_0169-s386
 # text = 물이 안나오면 시청에까지 쫓아가서 몇 시간이라도 일찍 나오게 만들어 놓는다.
@@ -24594,7 +24594,7 @@
 4	노동조합운동에	노동조합운동+에	ADV	ncn+jca	_	5	obl	_	_
 5	쏟은	쏟+ㄴ	VERB	pvg+etm	_	9	acl	_	_
 6	인적	인+적	NOUN	ncn+xsn	_	9	amod	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	8	punct	_	_
 8	물적	물+적	NOUN	ncn+xsn	_	6	conj	_	_
 9	자원은	자원+은	NOUN	ncn+jxt	_	10	dislocated	_	_
 10	엄청나다	엄청나+다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No
@@ -24700,7 +24700,7 @@
 5	주력	주력	NOUN	ncn	_	6	compound	_	_
 6	부대는	부대+는	NOUN	ncn+jxt	_	10	dislocated	_	_
 7	재벌회사	재벌회사	NOUN	ncn	_	10	nmod	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	9	punct	_	_
 9	대기업의	대기업+의	NOUN	ncn+jcm	_	7	conj	_	_
 10	노동자들이다	노동자+들+이+다	VERB	ncn+xsn+jp+ef	_	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	sf	_	10	punct	_	_
@@ -24748,7 +24748,7 @@
 8	셋방	셋방	NOUN	ncn	_	10	compound	_	SpaceAfter=No
 9	,	,	PUNCT	sp	_	8	punct	_	_
 10	벌집	벌집	NOUN	ncn	_	15	compound	_	SpaceAfter=No
-11	,	,	PUNCT	sp	_	10	punct	_	_
+11	,	,	PUNCT	sp	_	12	punct	_	_
 12	노점상	노점상	NOUN	ncn	_	10	conj	_	SpaceAfter=No
 13	,	,	PUNCT	sp	_	12	punct	_	_
 14	철거민	철거민	NOUN	ncn	_	10	conj	_	_
@@ -24871,7 +24871,7 @@
 3	구성의	구성+의	NOUN	ncpa+jcm	_	4	nmod	_	_
 4	한계가	한계+가	NOUN	ncn+jcs	_	10	nsubj	_	_
 5	선전	선전	NOUN	ncn	_	10	advcl	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	7	punct	_	_
 7	선동	선동	NOUN	ncn	_	5	conj	_	SpaceAfter=No
 8	,	,	PUNCT	sp	_	7	punct	_	_
 9	활동에서도	활동+에서+도	ADV	ncpa+jca+jxc	_	5	conj	_	_
@@ -24892,7 +24892,7 @@
 # text = 즉 사무, 서비스직에 종사하는 노동자들이 조직활동에 별로 참여하지 못하고 있다.
 1	즉	즉	CCONJ	maj	_	9	cc	_	_
 2	사무	사무	NOUN	ncn	_	5	obl	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	4	punct	_	_
 4	서비스직에	서비스+직+에	ADV	ncn+ncn+jca	_	2	conj	_	_
 5	종사하는	종사+하+는	VERB	ncpa+xsv+etm	_	6	acl	_	_
 6	노동자들이	노동자+들+이	NOUN	ncn+xsn+jcs	_	9	nsubj	_	_
@@ -25418,7 +25418,7 @@
 3	국가보다	국가+보다	ADV	ncn+jca	_	5	advcl	_	_
 4	더	더	ADV	mag	_	5	advmod	_	_
 5	민주적이고	민주+적+이+고	CCONJ	ncn+xsn+jp+ecc	_	10	acl	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	9	punct	_	_
 7	경제에서도	경제+에서+도	ADV	ncn+jca+jxc	_	9	advcl	_	_
 8	근본적으로	근본+적+으로	ADV	ncn+xsn+jca	_	9	advcl	_	_
 9	민주적인	민주+적+이+ㄴ	VERB	ncn+xsn+jp+etm	_	5	conj	_	_
@@ -26292,13 +26292,13 @@
 2	대기업들과	대기업+들+과	CCONJ	ncn+xsn+jcj	_	5	dislocated	_	_
 3	하청	하청	NOUN	ncn	_	4	compound	_	_
 4	자회사는	자회사+는	NOUN	ncn+jxt	_	2	conj	_	_
-5	계열화되어	계열화+되+어	VERB	ncpa+xsv+ecx	_	11	ccomp	_	_
+5	계열화되어	계열화+되+어	VERB	ncpa+xsv+ecx	_	8	ccomp	_	_
 6	있어	있+어	SCONJ	px+ecs	_	5	aux	_	_
 7	서로	서로	ADV	mag	_	8	advmod	_	_
 8	믿고	믿+고	CCONJ	pvg+ecc	_	0	root	_	_
 9	납품하고	납품+하+고	CCONJ	ncpa+xsv+ecc	_	8	conj	_	_
 10	공급한다	공급+하+ㄴ다	VERB	ncpa+xsv+ef	_	8	conj	_	SpaceAfter=No
-11	.	.	PUNCT	sf	_	8	conj	_	_
+11	.	.	PUNCT	sf	_	8	punct	_	_
 
 # sent_id = MH2_0169-s541
 # text = 아무리 중소기업이라도 신용을 생명처럼 여기기 때문에 품질은 물론 납품 기일이나 수량까지도 정확하게 지킨다.
@@ -26328,14 +26328,14 @@
 7	거래가	거래+가	NOUN	ncpa+jcs	_	8	nsubj	_	_
 8	끊기고	끊기+고	CCONJ	pvg+ecc	_	0	root	_	_
 9	망한다	망하+ㄴ다	VERB	pvg+ef	_	8	conj	_	SpaceAfter=No
-10	.	.	PUNCT	sf	_	8	conj	_	_
+10	.	.	PUNCT	sf	_	8	punct	_	_
 
 # sent_id = MH2_0169-s543
 # text = 대기업인 모 회사도 [하청 대금 지불 지연 방지법] 이라는 것이 있어 중소기업이 납품한 물건값 지불을 연기하는 일이 없다.
 1	대기업인	대기업+이+ㄴ	VERB	ncn+jp+etm	_	3	acl	_	_
 2	모	모	NOUN	ncn	_	3	compound	_	_
 3	회사도	회사+도	ADV	ncn+jxc	_	13	advcl	_	_
-4	[	[	PUNCT	sl	_	5	punct	_	SpaceAfter=No
+4	[	[	PUNCT	sl	_	9	punct	_	SpaceAfter=No
 5	하청	하청	PROPN	nq	_	6	compound	_	_
 6	대금	대금	NOUN	ncn	_	7	compound	_	_
 7	지불	지불	NOUN	ncpa	_	8	compound	_	_
@@ -26800,7 +26800,7 @@
 7	기업에	기업+에	ADV	ncn+jca	_	9	obl	_	_
 8	돈이	돈+이	NOUN	ncn+jcs	_	9	nsubj	_	_
 9	흘러들어가고	흘러들+어+가+고	CCONJ	pvg+ecx+px+ecc	_	0	root	_	SpaceAfter=No
-10	,	,	PUNCT	sp	_	9	punct	_	_
+10	,	,	PUNCT	sp	_	16	punct	_	_
 11	기술개발에	기술+개발+에	ADV	ncn+ncn+jca	_	13	obl	_	_
 12	열심히	열심히	ADV	mag	_	13	advmod	_	_
 13	투자한	투자+하+ㄴ	VERB	ncpa+xsv+etm	_	14	acl	_	_
@@ -27010,7 +27010,7 @@
 1	건전한	건전+하+ㄴ	VERB	ncps+xsm+etm	_	2	amod	_	_
 2	자본주의는	자본주의+는	NOUN	ncn+jxt	_	9	dislocated	_	_
 3	일본	일본	PROPN	nq	_	8	dep	_	SpaceAfter=No
-4	,	,	PUNCT	sp	_	3	punct	_	_
+4	,	,	PUNCT	sp	_	5	punct	_	_
 5	독일	독일	PROPN	nq	_	3	conj	_	SpaceAfter=No
 6	,	,	PUNCT	sp	_	5	punct	_	_
 7	스웨덴	스웨덴	PROPN	nq	_	3	conj	_	_
@@ -27064,7 +27064,7 @@
 3	모범인	모범+이+ㄴ	VERB	ncn+jp+etm	_	7	acl	_	_
 4	독일의	독일+의	PROPN	nq+jcm	_	7	nmod	_	_
 5	정치	정치	NOUN	ncn	_	12	dislocated	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	7	punct	_	_
 7	사회체제는	사회+체제+는	NOUN	ncn+ncn+jxt	_	5	conj	_	_
 8	경제적	경제+적	NOUN	ncn+xsn	_	9	amod	_	_
 9	도전에	도전+에	ADV	ncn+jca	_	12	obl	_	_
@@ -27080,7 +27080,7 @@
 # text = 즉 분배, 정의 및 복지실현을 골자로 하는 독일 특유의 사회시장경제가 독일 경제의 대외경쟁력에 최대 자산이 되고 있다는 것이다.
 1	즉	즉	CCONJ	maj	_	17	cc	_	_
 2	분배	분배	NOUN	ncpa	_	8	obj	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	4	punct	_	_
 4	정의	정의	NOUN	ncn	_	2	conj	_	_
 5	및	및	CCONJ	maj	_	6	cc	_	_
 6	복지실현을	복지+실현+을	NOUN	ncn+ncpa+jco	_	2	conj	_	_
@@ -27304,7 +27304,7 @@
 7	붙었으면서도	붙+었+으면서+도	ADV	pvg+ep+ecc+jxc	_	0	root	_	_
 8	대단히	대단히	ADV	mag	_	9	advmod	_	_
 9	청렴결백했고	청렴결백+하+었+고	CCONJ	ncpa+xsv+ep+ecc	_	7	conj	_	SpaceAfter=No
-10	,	,	PUNCT	sp	_	9	punct	_	_
+10	,	,	PUNCT	sp	_	14	punct	_	_
 11	공과	공+과	CCONJ	ncn+jcj	_	14	obj	_	_
 12	사를	사+를	NOUN	ncn+jco	_	11	conj	_	_
 13	엄격히	엄격히	ADV	mag	_	14	advmod	_	_
@@ -28028,9 +28028,9 @@
 3	일하던	일하+던	VERB	pvg+etm	_	4	acl	_	_
 4	노동자들이	노동자+들+이	NOUN	ncn+xsn+jcs	_	17	nsubj	_	_
 5	힘들고	힘들+고	CCONJ	pvg+ecc	_	10	amod	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	conj	_	_
+6	,	,	PUNCT	sp	_	7	punct	_	_
 7	더럽고	더럽+고	CCONJ	paa+ecc	_	5	conj	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	5	conj	_	_
+8	,	,	PUNCT	sp	_	9	punct	_	_
 9	어려운	어렵+ㄴ	ADJ	paa+etm	_	5	conj	_	_
 10	일을	일+을	NOUN	ncn+jco	_	11	obj	_	_
 11	피해서	피하+어서	SCONJ	pvg+ecs	_	17	ccomp	_	_
@@ -28082,7 +28082,7 @@
 4	많은	많+ㄴ	ADJ	paa+etm	_	5	amod	_	_
 5	대가를	대가+를	NOUN	ncn+jco	_	6	obj	_	_
 6	받고	받+고	CCONJ	pvg+ecc	_	12	ccomp	_	SpaceAfter=No
-7	,	,	PUNCT	sp	_	6	punct	_	_
+7	,	,	PUNCT	sp	_	11	punct	_	_
 8	더	더	ADV	mag	_	9	advmod	_	_
 9	많은	많+ㄴ	ADJ	paa+etm	_	10	amod	_	_
 10	보람을	보람+을	NOUN	ncpa+jco	_	11	obj	_	_
@@ -28254,7 +28254,7 @@
 3	기술혁신의	기술혁신+의	NOUN	ncn+jcm	_	2	conj	_	_
 4	핵심은	핵심+은	NOUN	ncn+jxt	_	11	dislocated	_	_
 5	생산관계	생산관계	NOUN	ncn	_	10	nmod	_	SpaceAfter=No
-6	,	,	PUNCT	sp	_	5	punct	_	_
+6	,	,	PUNCT	sp	_	9	punct	_	_
 7	노동자와	노동자+와	CCONJ	ncn+jcj	_	9	compound	_	_
 8	사용자	사용자	NOUN	ncn	_	7	conj	_	_
 9	관계의	관계+의	NOUN	ncpa+jcm	_	5	conj	_	_
@@ -28967,7 +28967,7 @@
 8	우리나라로	우리나라+로	ADV	ncn+jca	_	9	advcl	_	_
 9	따지면	따지+면	SCONJ	pvg+ecs	_	14	ccomp	_	_
 10	8	8	NUM	nnc	_	13	compound	_	SpaceAfter=No
-11	,	,	PUNCT	sp	_	10	punct	_	_
+11	,	,	PUNCT	sp	_	12	punct	_	_
 12	90년	90+년	NOUN	nnc+nbu	_	10	conj	_	_
 13	전에	전+에	ADV	ncn+jca	_	14	obl	_	_
 14	지나지	지나+지	VERB	pvg+ecx	_	0	root	_	_
@@ -29246,13 +29246,13 @@
 10	아치	아치	PROPN	nq	_	12	compound	_	_
 11	메이오	메이오	PROPN	nq	_	10	flat	_	_
 12	감독의	감독+의	NOUN	ncpa+jcm	_	16	nmod	_	_
-13	<	<	PUNCT	sl	_	14	punct	_	SpaceAfter=No
+13	<	<	PUNCT	sl	_	12	punct	_	SpaceAfter=No
 14	지옥에의	지옥+에+의	NOUN	ncn+jca+jcm	_	15	nmod	_	_
 15	출입구	출입구	NOUN	ncn	_	16	dep	_	_
 16	Doonway	Doonway	X	f	_	0	root	_	_
 17	to	to	X	f	_	16	flat	_	_
 18	Hell	Hell	X	f	_	16	flat	_	SpaceAfter=No
-19	>	>	PUNCT	sr	_	16	punct	_	_
+19	>	>	PUNCT	sr	_	20	punct	_	_
 20	이다	이+다	ADP	jp+ef	_	16	cop	_	SpaceAfter=No
 21	.	.	PUNCT	sf	_	16	punct	_	_
 
@@ -29286,7 +29286,7 @@
 5	시대로	시대+로	ADV	ncn+jca	_	23	advcl	_	_
 6	제임스	제임스	PROPN	nq	_	15	compound	_	_
 7	캐그니	캐그니	PROPN	nq	_	6	flat	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	6	punct	_	_
+8	,	,	PUNCT	sp	_	9	punct	_	_
 9	에드워드	에드워드	PROPN	nq	_	6	flat	_	_
 10	G	G	X	f	_	9	flat	_	_
 11	로빈슨	로빈슨	PROPN	nq	_	9	flat	_	SpaceAfter=No
@@ -29360,7 +29360,7 @@
 10	갱스터	갱스터	NOUN	ncn	_	11	compound	_	_
 11	대신	대신	NOUN	ncn	_	18	advmod	_	_
 12	스파이	스파이	NOUN	ncn	_	18	nsubj	_	SpaceAfter=No
-13	,	,	PUNCT	sp	_	12	punct	_	_
+13	,	,	PUNCT	sp	_	14	punct	_	_
 14	사립탐정	사립탐정	NOUN	ncn	_	12	conj	_	_
 15	및	및	CCONJ	maj	_	17	cc	_	_
 16	전쟁	전쟁	NOUN	ncpa	_	17	compound	_	_
@@ -29384,12 +29384,12 @@
 9	갱에	갱+에	ADV	ncn+jca	_	10	obl	_	_
 10	대한	대하+ㄴ	VERB	pvg+etm	_	11	acl	_	_
 11	복수극	복수극	NOUN	ncn	_	13	dep	_	_
-12	<	<	PUNCT	sl	_	13	punct	_	SpaceAfter=No
+12	<	<	PUNCT	sl	_	11	punct	_	SpaceAfter=No
 13	빅히트	빅히트	PROPN	nq	_	19	nsubj	_	_
 14	The	The	X	f	_	13	flat	_	_
 15	Big	Big	X	f	_	13	flat	_	_
 16	Heat	Heat	X	f	_	13	flat	_	SpaceAfter=No
-17	>	>	PUNCT	sr	_	13	punct	_	_
+17	>	>	PUNCT	sr	_	18	punct	_	_
 18	가	가	ADP	jcs	_	13	case	_	_
 19	나와	나오+아	SCONJ	pvg+ecs	_	23	ccomp	_	_
 20	그야말로	그야말로	ADV	mag	_	23	advmod	_	_
@@ -29435,7 +29435,7 @@
 10	Godfaher	Godfaher	X	f	_	9	flat	_	SpaceAfter=No
 11	>	>	PUNCT	sr	_	9	punct	_	_
 12	1	1	NUM	nnc	_	24	nsubj	_	SpaceAfter=No
-13	,	,	PUNCT	sp	_	12	punct	_	_
+13	,	,	PUNCT	sp	_	14	punct	_	_
 14	2편이	2+편+이	NUM	nnc+nbu+jcs	_	12	conj	_	_
 15	1972년과	1972+년+과	CCONJ	nno+nbu+jcj	_	18	obl	_	_
 16	1974년에	1974+년+에	ADV	nno+nbu+jca	_	15	conj	_	_
@@ -29580,7 +29580,7 @@
 # text = 스털링 헤이든, 샘 재피, 마릴린 먼로가 공연했다.
 1	스털링	스털링	PROPN	nq	_	9	nsubj	_	_
 2	헤이든	헤이든	PROPN	nq	_	1	flat	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	1	punct	_	_
+3	,	,	PUNCT	sp	_	4	punct	_	_
 4	샘	샘	PROPN	nq	_	1	flat	_	_
 5	재피	재피	PROPN	nq	_	4	flat	_	SpaceAfter=No
 6	,	,	PUNCT	sp	_	4	punct	_	_
@@ -29622,7 +29622,7 @@
 # text = 케빈 코스트너, 숀 코너리, 로버트 드 니로가 공연했다.
 1	케빈	케빈	PROPN	nq	_	10	nsubj	_	_
 2	코스트너	코스트너	PROPN	nq	_	1	flat	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	1	punct	_	_
+3	,	,	PUNCT	sp	_	4	punct	_	_
 4	숀	숀	PROPN	nq	_	1	flat	_	_
 5	코너리	코너리	PROPN	nq	_	4	flat	_	SpaceAfter=No
 6	,	,	PUNCT	sp	_	4	punct	_	_
@@ -29684,7 +29684,7 @@
 3	드림	드림	NOUN	ncn	_	12	nmod	_	SpaceAfter=No
 4	'	'	PUNCT	sr	_	3	punct	_	_
 5	과	과	CCONJ	jcj	_	3	case	_	_
-6	'	'	PUNCT	sl	_	7	punct	_	SpaceAfter=No
+6	'	'	PUNCT	sl	_	8	punct	_	SpaceAfter=No
 7	이민자들의	이민자+들+의	NOUN	ncn+xsn+jcm	_	8	nmod	_	_
 8	꿈	꿈	NOUN	ncn	_	3	conj	_	SpaceAfter=No
 9	'	'	PUNCT	sr	_	8	punct	_	_
@@ -29909,7 +29909,7 @@
 # text = <대부> 라는 전설의 중심 지주는 바로 이 같은 경찰과 면죄라는 두 메시지이다.
 1	<	<	PUNCT	sl	_	2	punct	_	SpaceAfter=No
 2	대부	대부	NOUN	ncn	_	5	acl	_	SpaceAfter=No
-3	>	>	PUNCT	sr	_	2	punct	_	_
+3	>	>	PUNCT	sr	_	4	punct	_	_
 4	라는	이+란	ADP	jp+etm	_	2	cop	_	_
 5	전설의	전설+의	NOUN	ncn+jcm	_	7	nmod	_	_
 6	중심	중심	NOUN	ncn	_	7	compound	_	_
@@ -29938,7 +29938,7 @@
 11	대부	대부	NOUN	ncn	_	15	compound	_	SpaceAfter=No
 12	>	>	PUNCT	sr	_	11	punct	_	_
 13	1	1	NUM	nnc	_	16	obj	_	SpaceAfter=No
-14	,	,	PUNCT	sp	_	13	punct	_	_
+14	,	,	PUNCT	sp	_	15	punct	_	_
 15	2편을	2+편+을	NUM	nnc+nbu+jco	_	13	conj	_	_
 16	구성하는	구성+하+는	VERB	ncpa+xsv+etm	_	18	ccomp	_	_
 17	결정적	결정+적	NOUN	ncpa+xsn	_	18	amod	_	_
@@ -29964,7 +29964,7 @@
 15	한	하+ㄴ	AUX	px+etm	_	14	aux	_	_
 16	갑작스런	갑작스럽+ㄴ	ADJ	paa+etm	_	19	amod	_	_
 17	동기요	동기+요	CCONJ	ncn+jcj	_	0	root	_	SpaceAfter=No
-18	,	,	PUNCT	sp	_	17	punct	_	_
+18	,	,	PUNCT	sp	_	19	punct	_	_
 19	영감이기도	영감+이+기+도	ADV	ncn+jp+etn+jxc	_	17	conj	_	_
 20	하다	하+다	AUX	px+ef	_	19	aux	_	SpaceAfter=No
 21	.	.	PUNCT	sf	_	20	punct	_	_
@@ -29972,9 +29972,9 @@
 # sent_id = MH2_0209-s42
 # text = 코폴라는 <대부> 를 사랑한 적이 없다고 한다.
 1	코폴라는	코폴라+는	PROPN	nq+jxt	_	6	dislocated	_	_
-2	<	<	PUNCT	sl	_	3	punct	_	SpaceAfter=No
+2	<	<	PUNCT	sl	_	1	punct	_	SpaceAfter=No
 3	대부	대부	NOUN	ncn	_	6	obj	_	SpaceAfter=No
-4	>	>	PUNCT	sr	_	3	punct	_	_
+4	>	>	PUNCT	sr	_	5	punct	_	_
 5	를	를	ADP	jco	_	3	case	_	_
 6	사랑한	사랑+하+ㄴ	VERB	ncpa+xsv+etm	_	7	acl	_	_
 7	적이	적+이	NOUN	nbn+jcs	_	8	nsubj	_	_
@@ -29993,11 +29993,11 @@
 7	원치	원하+지	VERB	pvg+ecx	_	22	ccomp	_	_
 8	않았는데	않+았+는데	SCONJ	px+ep+ecs	_	7	aux	_	_
 9	가정	가정	NOUN	ncn	_	17	dep	_	SpaceAfter=No
-10	,	,	PUNCT	sp	_	9	punct	_	_
+10	,	,	PUNCT	sp	_	11	punct	_	_
 11	명예	명예	NOUN	ncn	_	9	conj	_	SpaceAfter=No
 12	,	,	PUNCT	sp	_	11	punct	_	_
 13	부패	부패	NOUN	ncpa	_	9	conj	_	SpaceAfter=No
-14	,	,	PUNCT	sp	_	13	punct	_	_
+14	,	,	PUNCT	sp	_	16	punct	_	_
 15	인간의	인간+의	NOUN	ncn+jcm	_	16	nmod	_	_
 16	죄악	죄악	NOUN	ncn	_	9	conj	_	_
 17	같은	같+ㄴ	ADJ	paa+etm	_	18	amod	_	_
@@ -30151,9 +30151,9 @@
 # sent_id = MH2_0209-s51
 # text = 영화 <대부> 의 요체는 속죄와 구원이다.
 1	영화	영화	NOUN	ncn	_	3	compound	_	_
-2	<	<	PUNCT	sl	_	3	punct	_	SpaceAfter=No
+2	<	<	PUNCT	sl	_	1	punct	_	SpaceAfter=No
 3	대부	대부	NOUN	ncn	_	6	nmod	_	SpaceAfter=No
-4	>	>	PUNCT	sr	_	3	punct	_	_
+4	>	>	PUNCT	sr	_	5	punct	_	_
 5	의	의	ADP	jcm	_	3	case	_	_
 6	요체는	요체+는	NOUN	ncn+jxt	_	8	dislocated	_	_
 7	속죄와	속죄+와	CCONJ	ncpa+jcj	_	8	dep	_	_
@@ -30186,7 +30186,7 @@
 1	죄짓고는	죄짓+고+는	NOUN	pvg+ecc+jxt	_	3	ccomp	_	_
 2	못	못	ADV	mag	_	3	advmod	_	_
 3	살며	살+며	CCONJ	pvg+ecc	_	19	xcomp	_	SpaceAfter=No
-4	,	,	PUNCT	sp	_	3	punct	_	_
+4	,	,	PUNCT	sp	_	12	punct	_	_
 5	지은	짓+ㄴ	VERB	pvg+etm	_	6	acl	_	_
 6	죄가	죄+가	NOUN	ncn+jcs	_	8	nsubj	_	_
 7	너무	너무	ADV	mag	_	8	advmod	_	_
@@ -30232,7 +30232,7 @@
 5	메리역의	메리+역+의	PROPN	nq+ncn+jcm	_	6	nmod	_	_
 6	소피아	소피아	PROPN	nq	_	16	nmod	_	_
 7	코폴라	코폴라	PROPN	nq	_	6	flat	_	_
-8	(	(	PUNCT	sl	_	9	punct	_	SpaceAfter=No
+8	(	(	PUNCT	sl	_	13	punct	_	SpaceAfter=No
 9	프랜시스	프랜시스	PROPN	nq	_	12	compound	_	_
 10	포드	포드	PROPN	nq	_	9	flat	_	_
 11	코폴라	코폴라	PROPN	nq	_	9	flat	_	_
@@ -30266,7 +30266,7 @@
 # sent_id = MH2_0209-s58
 # text = 코폴라도 "압박감이 너무 심했다" 고 술회했다.
 1	코폴라도	코폴라+도	ADV	nq+jxc	_	8	advcl	_	_
-2	"	"	PUNCT	sl	_	3	punct	_	SpaceAfter=No
+2	"	"	PUNCT	sl	_	5	punct	_	SpaceAfter=No
 3	압박감이	압박감+이	NOUN	ncn+jcs	_	5	nsubj	_	_
 4	너무	너무	ADV	mag	_	5	advmod	_	_
 5	심했다	심+하+었+다	VERB	ncps+xsm+ep+ef	_	0	root	_	SpaceAfter=No
@@ -30355,15 +30355,15 @@
 4	있는데	있+는데	SCONJ	px+ecs	_	3	aux	_	_
 5	그래서	그래서	ADV	mag	_	17	advmod	_	_
 6	그를	그+를	PRON	npp+jco	_	17	obj	_	_
-7	'	'	PUNCT	sl	_	8	punct	_	SpaceAfter=No
+7	'	'	PUNCT	sl	_	9	punct	_	SpaceAfter=No
 8	정열적	정열+적	NOUN	ncn+xsn	_	9	amod	_	_
 9	배우요	배우+요	CCONJ	ncn+jcj	_	0	root	_	SpaceAfter=No
-10	,	,	PUNCT	sp	_	9	punct	_	_
+10	,	,	PUNCT	sp	_	14	punct	_	_
 11	마음	마음	NOUN	ncn	_	12	dep	_	_
 12	내키지	내키+지	VERB	pvg+ecx	_	14	acl	_	_
 13	않는	않+는	AUX	px+etm	_	12	aux	_	_
 14	스타	스타	NOUN	ncn	_	9	conj	_	SpaceAfter=No
-15	'	'	PUNCT	sr	_	14	punct	_	_
+15	'	'	PUNCT	sr	_	9	punct	_	_
 16	라고	라고	ADP	jcr	_	14	case	_	_
 17	부른다	부르+ㄴ다	VERB	pvg+ef	_	9	conj	_	SpaceAfter=No
 18	.	.	PUNCT	sf	_	17	punct	_	_
@@ -30453,7 +30453,7 @@
 # text = 이어 청소부, 극장 안내원, 우체국 직원 등을 전전하면서도 연기의 꿈은 버리지 않았다.
 1	이어	잇+어	SCONJ	pvg+ecs	_	10	ccomp	_	_
 2	청소부	청소부	NOUN	ncn	_	8	compound	_	SpaceAfter=No
-3	,	,	PUNCT	sp	_	2	punct	_	_
+3	,	,	PUNCT	sp	_	5	punct	_	_
 4	극장	극장	NOUN	ncn	_	5	compound	_	_
 5	안내원	안내원	NOUN	ncn	_	2	conj	_	SpaceAfter=No
 6	,	,	PUNCT	sp	_	5	punct	_	_
@@ -30478,7 +30478,7 @@
 7	'	'	PUNCT	sr	_	6	punct	_	_
 8	에	에	ADP	jca	_	6	case	_	_
 9	등록	등록	NOUN	ncpa	_	18	dep	_	_
-10	(	(	PUNCT	sl	_	12	punct	_	SpaceAfter=No
+10	(	(	PUNCT	sl	_	16	punct	_	SpaceAfter=No
 11	같은	같+ㄴ	ADJ	paa+etm	_	12	dep	_	_
 12	학기	학기	NOUN	ncn	_	13	compound	_	_
 13	등록자로는	등록자+로+는	NOUN	ncn+jca+jxt	_	16	dislocated	_	_
@@ -30562,11 +30562,11 @@
 4	계속	계속	ADV	mag	_	5	advmod	_	_
 5	출연	출연	NOUN	ncpa	_	15	advmod	_	SpaceAfter=No
 6	,	,	PUNCT	sp	_	5	punct	_	_
-7	<	<	PUNCT	sl	_	8	punct	_	SpaceAfter=No
+7	<	<	PUNCT	sl	_	5	punct	_	SpaceAfter=No
 8	파블로	파블로	PROPN	nq	_	10	nmod	_	_
 9	헴멜의	헴멜+의	PROPN	nq+jcm	_	8	flat	_	_
 10	기초훈련	기초훈련	NOUN	ncpa	_	15	advcl	_	SpaceAfter=No
-11	>	>	PUNCT	sr	_	10	punct	_	_
+11	>	>	PUNCT	sr	_	12	punct	_	_
 12	으로	으로	ADP	jca	_	10	case	_	_
 13	두번째	두번째	NUM	nno	_	14	nummod	_	_
 14	토니상을	토니상+을	PROPN	nq+jco	_	15	obj	_	_
@@ -30580,10 +30580,10 @@
 3	베이티	베이티	PROPN	nq	_	2	flat	_	_
 4	감독	감독	NOUN	ncpa	_	5	compound	_	_
 5	주연의	주연+의	NOUN	ncpa+jcm	_	7	nmod	_	_
-6	<	<	PUNCT	sl	_	7	punct	_	SpaceAfter=No
+6	<	<	PUNCT	sl	_	5	punct	_	SpaceAfter=No
 7	딕	딕	PROPN	nq	_	18	advcl	_	_
 8	트레이시	트레이시	PROPN	nq	_	7	flat	_	SpaceAfter=No
-9	>	>	PUNCT	sr	_	7	punct	_	_
+9	>	>	PUNCT	sr	_	10	punct	_	_
 10	에서	에서	ADP	jca	_	7	case	_	_
 11	괴물	괴물	NOUN	ncn	_	12	compound	_	_
 12	악한	악한	NOUN	ncn	_	15	compound	_	_
@@ -30610,7 +30610,7 @@
 5	정신과	정신+과	CCONJ	ncn+jcj	_	7	advcl	_	_
 6	몸으로	몸+으로	ADV	ncn+jca	_	5	conj	_	_
 7	소화해	소화+하+어	SCONJ	ncpa+xsv+ecs	_	14	ccomp	_	_
-8	'	'	PUNCT	sl	_	9	punct	_	SpaceAfter=No
+8	'	'	PUNCT	sl	_	10	punct	_	SpaceAfter=No
 9	걸어다니는	걸어다니+는	VERB	pvg+etm	_	10	ccomp	_	_
 10	인간조건	인간+조건	NOUN	ncn+ncpa	_	13	acl	_	SpaceAfter=No
 11	'	'	PUNCT	sr	_	10	punct	_	_
@@ -30741,9 +30741,9 @@
 15	올리버	올리버	PROPN	nq	_	17	compound	_	_
 16	스톤	스톤	PROPN	nq	_	15	flat	_	_
 17	감독의	감독+의	NOUN	ncpa+jcm	_	19	nmod	_	_
-18	<	<	PUNCT	sl	_	19	punct	_	SpaceAfter=No
+18	<	<	PUNCT	sl	_	17	punct	_	SpaceAfter=No
 19	플래툰	플래툰	PROPN	nq	_	0	root	_	SpaceAfter=No
-20	>	>	PUNCT	sr	_	19	punct	_	_
+20	>	>	PUNCT	sr	_	21	punct	_	_
 21	이었다	이+었+다	ADP	jp+ep+ef	_	19	cop	_	SpaceAfter=No
 22	.	.	PUNCT	sf	_	19	punct	_	_
 
@@ -30764,7 +30764,7 @@
 # text = 사회학자나 영화계에서는 "세월이 흘러 과거의 잘못을 제대로 볼 수 있을 만큼 마음에 여유가 생기고 상처도 상당히 치유됐기 때문" 이라고 분석하고 있다.
 1	사회학자나	사회학자+나	CCONJ	ncn+jcj	_	22	dislocated	_	_
 2	영화계에서는	영화계+에서+는	NOUN	ncn+jca+jxt	_	1	conj	_	_
-3	"	"	PUNCT	sl	_	4	punct	_	SpaceAfter=No
+3	"	"	PUNCT	sl	_	19	punct	_	SpaceAfter=No
 4	세월이	세월+이	NOUN	ncn+jcs	_	5	nsubj	_	_
 5	흘러	흐르+어	SCONJ	pvg+ecs	_	19	nmod	_	_
 6	과거의	과거+의	NOUN	ncn+jcm	_	7	nmod	_	_
@@ -30930,14 +30930,14 @@
 6	참전	참전	NOUN	ncpa	_	7	compound	_	_
 7	군인들의	군인+들+의	NOUN	ncn+xsn+jcm	_	8	nmod	_	_
 8	단체인	단체+이+ㄴ	VERB	ncn+jp+etm	_	13	acl	_	_
-9	'	'	PUNCT	sl	_	10	punct	_	SpaceAfter=No
+9	'	'	PUNCT	sl	_	13	punct	_	SpaceAfter=No
 10	베트남	베트남	PROPN	nq	_	11	compound	_	_
 11	세대를	세대+를	NOUN	ncn+jco	_	12	obj	_	_
 12	위한	위+하+ㄴ	VERB	ncpa+xsv+etm	_	13	acl	_	_
 13	센터	센터	NOUN	ncn	_	25	dislocated	_	SpaceAfter=No
 14	'	'	PUNCT	sr	_	13	punct	_	_
 15	는	는	ADP	jxt	_	13	case	_	_
-16	"	"	PUNCT	sl	_	17	punct	_	SpaceAfter=No
+16	"	"	PUNCT	sl	_	21	punct	_	SpaceAfter=No
 17	이	이	DET	mmd	_	18	det	_	_
 18	영화는	영화+는	NOUN	ncn+jxt	_	21	dislocated	_	_
 19	허위로	허위+로	ADV	ncn+jca	_	21	advcl	_	_
@@ -30952,18 +30952,18 @@
 # sent_id = MH2_0209-s96
 # text = 성명서는 "군인들을 겁탈자와 무능력자로 잘못 묘사하여, 우리에게 고통을 안겨주고 있다" 고 반박하고 있다.
 1	성명서는	성명서+는	NOUN	ncn+jxt	_	15	dislocated	_	_
-2	"	"	PUNCT	sl	_	3	punct	_	SpaceAfter=No
+2	"	"	PUNCT	sl	_	7	punct	_	SpaceAfter=No
 3	군인들을	군인+들+을	NOUN	ncn+xsn+jco	_	7	obj	_	_
 4	겁탈자와	겁탈자+와	CCONJ	ncpa+jcj	_	7	advcl	_	_
 5	무능력자로	무능력자+로	ADV	ncn+jca	_	4	conj	_	_
 6	잘못	잘못	ADV	mag	_	7	advmod	_	_
 7	묘사하여	묘사+하+어	SCONJ	ncpa+xsv+ecs	_	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	sp	_	7	punct	_	_
+8	,	,	PUNCT	sp	_	11	punct	_	_
 9	우리에게	우리+에게	ADV	npp+jca	_	11	iobj	_	_
 10	고통을	고통+을	NOUN	ncps+jco	_	11	obj	_	_
 11	안겨주고	안기+어+주+고	AUX	pvg+ecx+px+ecx	_	7	conj	_	_
 12	있다	있+다	AUX	px+ef	_	11	aux	_	SpaceAfter=No
-13	"	"	PUNCT	sr	_	12	punct	_	_
+13	"	"	PUNCT	sr	_	7	punct	_	_
 14	고	고	ADP	jcr	_	12	case	_	_
 15	반박하고	반박+하+고	VERB	ncpa+xsv+ecx	_	7	conj	_	_
 16	있다	있+다	AUX	px+ef	_	15	aux	_	SpaceAfter=No
@@ -30977,9 +30977,9 @@
 4	일리아드	일리아드	PROPN	nq	_	6	compound	_	SpaceAfter=No
 5	'	'	PUNCT	sr	_	4	punct	_	_
 6	격인	격+이+ㄴ	VERB	nbn+jp+etm	_	8	acl	_	_
-7	<	<	PUNCT	sl	_	8	punct	_	SpaceAfter=No
+7	<	<	PUNCT	sl	_	6	punct	_	SpaceAfter=No
 8	플래툰	플래툰	PROPN	nq	_	12	nsubj	_	SpaceAfter=No
-9	>	>	PUNCT	sr	_	8	punct	_	_
+9	>	>	PUNCT	sr	_	10	punct	_	_
 10	이	이	ADP	jcs	_	8	case	_	_
 11	전쟁	전쟁	NOUN	ncpa	_	12	compound	_	_
 12	영화라면	영화+이+라면	SCONJ	ncn+jp+ecs	_	26	ccomp	_	_
@@ -30987,10 +30987,10 @@
 14	오디세이	오디세이	PROPN	nq	_	16	compound	_	SpaceAfter=No
 15	'	'	PUNCT	sr	_	14	punct	_	_
 16	격인	격+이+ㄴ	VERB	nbn+jp+etm	_	19	acl	_	_
-17	<	<	PUNCT	sl	_	19	punct	_	SpaceAfter=No
+17	<	<	PUNCT	sl	_	16	punct	_	SpaceAfter=No
 18	7월	7+월	NOUN	nno+nbu	_	19	compound	_	_
 19	4일생	4+일+생	NOUN	nno+nbu+ncn	_	25	dislocated	_	SpaceAfter=No
-20	>	>	PUNCT	sr	_	19	punct	_	_
+20	>	>	PUNCT	sr	_	21	punct	_	_
 21	은	은	ADP	jxt	_	19	case	_	_
 22	가차없이	가차없이	ADV	mag	_	23	advmod	_	_
 23	정직한	정직+하+ㄴ	VERB	ncps+xsm+etm	_	25	amod	_	_
@@ -31322,7 +31322,7 @@
 1	오늘날의	오늘날+의	NOUN	ncn+jcm	_	2	nmod	_	_
 2	우리는	우리+는	PRON	npp+jxt	_	11	dislocated	_	_
 3	모두	모두	ADV	mag	_	11	advmod	_	_
-4	'	'	PUNCT	sl	_	5	punct	_	SpaceAfter=No
+4	'	'	PUNCT	sl	_	6	punct	_	SpaceAfter=No
 5	관계의	관계+의	NOUN	ncpa+jcm	_	6	nmod	_	_
 6	문제	문제	NOUN	ncn	_	8	compound	_	SpaceAfter=No
 7	'	'	PUNCT	sr	_	6	punct	_	_
@@ -31335,17 +31335,17 @@
 
 # sent_id = MH2_0209-s118
 # text = 내용과 기술면에서 모두 신선하고 아름답다.
-1	내용과	내용+과	CCONJ	ncn+jcj	_	6	advcl	_	_
+1	내용과	내용+과	CCONJ	ncn+jcj	_	4	advcl	_	_
 2	기술면에서	기술+면+에서	ADV	ncn+ncn+jca	_	1	conj	_	_
-3	모두	모두	ADV	mag	_	6	advmod	_	_
+3	모두	모두	ADV	mag	_	4	advmod	_	_
 4	신선하고	신선하+고	CCONJ	paa+ecc	_	0	root	_	_
 5	아름답다	아름답+다	ADJ	paa+ef	_	4	conj	_	SpaceAfter=No
-6	.	.	PUNCT	sf	_	4	conj	_	_
+6	.	.	PUNCT	sf	_	4	punct	_	_
 
 # sent_id = MH2_0209-s119
 # text = 그래서 '기적같은 작품' 이라고까지 칭찬을 들었다.
 1	그래서	그래서	CCONJ	maj	_	8	cc	_	_
-2	'	'	PUNCT	sl	_	3	punct	_	SpaceAfter=No
+2	'	'	PUNCT	sl	_	4	punct	_	SpaceAfter=No
 3	기적같은	기적같+은	ADJ	paa+etm	_	4	amod	_	_
 4	작품	작품	NOUN	ncn	_	8	advcl	_	SpaceAfter=No
 5	'	'	PUNCT	sr	_	4	punct	_	_

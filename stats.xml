@@ -39,9 +39,9 @@
   <!-- Statistics of universal dependency relations. -->
   <deps unique="31">
     <dep name="acl">21468</dep>
-    <dep name="advcl">20487</dep>
+    <dep name="advcl">20484</dep>
     <dep name="advmod">19102</dep>
-    <dep name="amod">16584</dep>
+    <dep name="amod">16583</dep>
     <dep name="appos">1059</dep>
     <dep name="aux">18935</dep>
     <dep name="case">1343</dep>
@@ -49,7 +49,7 @@
     <dep name="ccomp">15655</dep>
     <dep name="clf">1</dep>
     <dep name="compound">24696</dep>
-    <dep name="conj">20774</dep>
+    <dep name="conj">20661</dep>
     <dep name="cop">303</dep>
     <dep name="csubj">1202</dep>
     <dep name="dep">3019</dep>
@@ -60,12 +60,12 @@
     <dep name="flat">803</dep>
     <dep name="iobj">967</dep>
     <dep name="mark">799</dep>
-    <dep name="nmod">22045</dep>
+    <dep name="nmod">22044</dep>
     <dep name="nsubj">17444</dep>
     <dep name="nummod">3295</dep>
     <dep name="obj">23605</dep>
     <dep name="obl">11577</dep>
-    <dep name="punct">39016</dep>
+    <dep name="punct">39134</dep>
     <dep name="root">27363</dep>
     <dep name="vocative">15</dep>
     <dep name="xcomp">4278</dep>

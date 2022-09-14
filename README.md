@@ -22,6 +22,8 @@ The project repository: https://github.com/emorynlp/ud-korean
 
 # Changelog
 
+* 2022-11-15 v2.11
+  * Fixed right-headed apposition and non-projective punctuation.
 * 2018-04-15 v2.2
   * First release by Chun et al., 2018.
 
