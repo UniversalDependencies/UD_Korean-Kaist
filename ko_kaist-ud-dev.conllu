@@ -5437,10 +5437,10 @@
 3	1972년	1972+년	NOUN	nno+nbu	_	4	compound	_	_
 4	12월	12+월	NOUN	nno+nbu	_	14	advmod	_	_
 5	'	'	PUNCT	sl	_	11	compound	_	SpaceAfter=No
-6	출판사	출판사	NOUN	ncn	_	9	conj	_	_
+6	출판사	출판사	NOUN	ncn	_	10	obl	_	_
 7	및	및	CCONJ	maj	_	8	cc	_	_
-8	인쇄사	인쇄사	NOUN	ncn	_	9	conj	_	_
-9	등록에	등록+에	ADV	ncpa+jca	_	10	obl	_	_
+8	인쇄사	인쇄사	NOUN	ncn	_	6	conj	_	_
+9	등록에	등록+에	ADV	ncpa+jca	_	8	conj	_	_
 10	관한	관하+ㄴ	VERB	pvg+etm	_	11	acl	_	_
 11	법률	법률	NOUN	ncn	_	14	obj	_	SpaceAfter=No
 12	'	'	PUNCT	sr	_	11	punct	_	_

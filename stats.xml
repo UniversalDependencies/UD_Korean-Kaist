@@ -55,7 +55,7 @@
     <dep name="dep">3019</dep>
     <dep name="det">4824</dep>
     <dep name="discourse">47</dep>
-    <dep name="dislocated">20964</dep>
+    <dep name="dislocated">20963</dep>
     <dep name="fixed">3186</dep>
     <dep name="flat">803</dep>
     <dep name="iobj">967</dep>
@@ -65,7 +65,7 @@
     <dep name="nummod">3295</dep>
     <dep name="obj">23605</dep>
     <dep name="obl">11577</dep>
-    <dep name="punct">39134</dep>
+    <dep name="punct">39135</dep>
     <dep name="root">27363</dep>
     <dep name="vocative">15</dep>
     <dep name="xcomp">4278</dep>

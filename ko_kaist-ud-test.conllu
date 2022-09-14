@@ -25748,11 +25748,11 @@
 2	현상학에	현상학+에	ADV	ncn+jca	_	3	obl	_	_
 3	속하는	속하+는	VERB	pvg+etm	_	6	acl	_	_
 4	'	'	PUNCT	sl	_	5	nmod	_	SpaceAfter=No
-5	힘과	힘+과	CCONJ	ncn+jcj	_	9	conj	_	_
-6	오성	오성	NOUN	ncn	_	9	conj	_	SpaceAfter=No
-7	'	'	PUNCT	sr	_	6	punct	_	_
+5	힘과	힘+과	CCONJ	ncn+jcj	_	14	dislocated	_	_
+6	오성	오성	NOUN	ncn	_	5	conj	_	SpaceAfter=No
+7	'	'	PUNCT	sr	_	5	punct	_	_
 8	의	의	ADP	jcm	_	6	case	_	_
-9	장은	장+은	NOUN	ncn+jxt	_	14	dislocated	_	_
+9	장은	장+은	NOUN	ncn+jxt	_	6	conj	_	_
 10	이러한	이러하+ㄴ	VERB	pad+etm	_	11	amod	_	_
 11	물음에	물음+에	ADV	ncn+jca	_	12	obl	_	_
 12	의해서	의하+어서	SCONJ	pvg+ecs	_	14	ccomp	_	_
@@ -26026,11 +26026,11 @@
 # sent_id = MH2_0180-s315
 # text = '힘과 오성' 에 관한 장에서야말로 거꾸로 된 세계에 관한 사색을 촉진하는 충격적인 전회가 씌어져 있다.
 1	'	'	PUNCT	sl	_	2	obl	_	SpaceAfter=No
-2	힘과	힘+과	CCONJ	ncn+jcj	_	6	conj	_	_
-3	오성	오성	NOUN	ncn	_	6	conj	_	SpaceAfter=No
+2	힘과	힘+과	CCONJ	ncn+jcj	_	7	acl	_	_
+3	오성	오성	NOUN	ncn	_	2	conj	_	SpaceAfter=No
 4	'	'	PUNCT	sr	_	3	punct	_	_
 5	에	에	ADP	jca	_	3	case	_	_
-6	관한	관하+ㄴ	VERB	pvg+etm	_	7	acl	_	_
+6	관한	관하+ㄴ	VERB	pvg+etm	_	3	conj	_	_
 7	장에서야말로	장+에서+야말로	ADV	nbu+jca+jxc	_	16	advcl	_	_
 8	거꾸로	거꾸로	ADV	mag	_	9	advmod	_	_
 9	된	되+ㄴ	VERB	pvg+etm	_	10	acl	_	_
