@@ -62,10 +62,10 @@
     <dep name="mark">799</dep>
     <dep name="nmod">22040</dep>
     <dep name="nsubj">17444</dep>
-    <dep name="nummod">3294</dep>
+    <dep name="nummod">3544</dep>
     <dep name="obj">23605</dep>
     <dep name="obl">11575</dep>
-    <dep name="punct">39176</dep>
+    <dep name="punct">38926</dep>
     <dep name="root">27363</dep>
     <dep name="vocative">15</dep>
     <dep name="xcomp">4278</dep>

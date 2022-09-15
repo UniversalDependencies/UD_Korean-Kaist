@@ -6081,8 +6081,8 @@
 4	Willaiam_Collins는	Willaiam_Collins+는	NOUN	f+jxt	_	11	dislocated	_	Translit=Willaiam_Collins.neun|LTranslit=Willaiam_Collins+.neun
 5	1975년에	1975+년+에	ADV	nno+nbu+jca	_	11	obl	_	Translit=1975.nyeon.e|LTranslit=1975+.nyeon+.e
 6	총판매액의	총판매액+의	NOUN	ncn+jcm	_	7	nmod	_	Translit=.chong.pan.mae.aeg.yi|LTranslit=.chong.pan.mae.aeg+.yi
-7	20.5	20.5	NUM	nnc	_	11	nummod	_	Translit=20.5|LTranslit=20.5
-8	%	%	SYM	su	_	7	punct	_	Translit=%|LTranslit=%
+7	20.5	20.5	NUM	nnc	_	8	nummod	_	Translit=20.5|LTranslit=20.5
+8	%	%	SYM	su	_	11	nummod	_	Translit=%|LTranslit=%
 9	를	를	ADP	jco	_	7	case	_	Translit=.reul|LTranslit=.reul
 10	수출로	수출+로	ADV	ncpa+jca	_	11	advcl	_	Translit=.su.chul.ro|LTranslit=.su.chul+.ro
 11	벌어들였으나	벌어들이+었+으나	SCONJ	pvg+ep+ecs	_	20	ccomp	_	SpaceAfter=No|Translit=.beol.eo.deul.yeoss.eu.na|LTranslit=.beol.eo.deul.i+.eoss+.eu.na
@@ -6091,8 +6091,8 @@
 14	시장에서의	시장+에서+의	NOUN	ncn+jca+jcm	_	15	nmod	_	Translit=.si.jang.e.seo.yi|LTranslit=.si.jang+.e.seo+.yi
 15	매출액은	매출액+은	NOUN	ncn+jxt	_	20	dislocated	_	Translit=.mae.chul.aeg.eun|LTranslit=.mae.chul.aeg+.eun
 16	총매출액의	총매출액+의	NOUN	ncn+jcm	_	17	nmod	_	Translit=.chong.mae.chul.aeg.yi|LTranslit=.chong.mae.chul.aeg+.yi
-17	57	57	NUM	nnc	_	20	nummod	_	Translit=57|LTranslit=57
-18	%	%	SYM	su	_	17	punct	_	Translit=%|LTranslit=%
+17	57	57	NUM	nnc	_	18	nummod	_	Translit=57|LTranslit=57
+18	%	%	SYM	su	_	20	nummod	_	Translit=%|LTranslit=%
 19	에	에	ADP	jca	_	17	case	_	Translit=.e|LTranslit=.e
 20	달하고	달하+고	VERB	pvg+ecx	_	0	root	_	Translit=.dal.ha.go|LTranslit=.dal.ha+.go
 21	있었다	있+었+다	AUX	px+ep+ef	_	20	aux	_	SpaceAfter=No|Translit=.iss.eoss.da|LTranslit=.iss+.eoss+.da
@@ -20607,8 +20607,8 @@
 # translit = .chong.yu.gweon.ja .jung 1 % .yi .ji.ji.reul .eod.eun .geos.i.da.
 1	총유권자	총유권자	NOUN	ncn	_	2	compound	_	Translit=.chong.yu.gweon.ja|LTranslit=.chong.yu.gweon.ja
 2	중	중	NOUN	nbn	_	3	mark	_	Translit=.jung|LTranslit=.jung
-3	1	1	NUM	nnc	_	6	nummod	_	Translit=1|LTranslit=1
-4	%	%	SYM	su	_	3	punct	_	Translit=%|LTranslit=%
+3	1	1	NUM	nnc	_	4	nummod	_	Translit=1|LTranslit=1
+4	%	%	SYM	su	_	6	nummod	_	Translit=%|LTranslit=%
 5	의	의	ADP	jcm	_	3	case	_	Translit=.yi|LTranslit=.yi
 6	지지를	지지+를	NOUN	ncpa+jco	_	7	obj	_	Translit=.ji.ji.reul|LTranslit=.ji.ji+.reul
 7	얻은	얻+ㄴ	VERB	pvg+etm	_	0	root	_	Translit=.eod.eun|LTranslit=.eod+ㄴ
@@ -20860,8 +20860,8 @@
 6	민중진영을	민중+진영+을	NOUN	ncn+ncn+jco	_	7	obj	_	Translit=.min.jung.jin.yeong.eul|LTranslit=.min.jung+.jin.yeong+.eul
 7	지지한	지지+하+ㄴ	VERB	ncpa+xsv+etm	_	8	acl	_	Translit=.ji.ji.han|LTranslit=.ji.ji+.ha+ㄴ
 8	국민이	국민+이	NOUN	ncn+jcs	_	12	nsubj	_	Translit=.gug.min.i|LTranslit=.gug.min+.i
-9	2	2	NUM	nnc	_	12	nummod	_	Translit=2|LTranslit=2
-10	%	%	SYM	su	_	9	punct	_	Translit=%|LTranslit=%
+9	2	2	NUM	nnc	_	10	nummod	_	Translit=2|LTranslit=2
+10	%	%	SYM	su	_	12	nummod	_	Translit=%|LTranslit=%
 11	를	를	ADP	jco	_	9	case	_	Translit=.reul|LTranslit=.reul
 12	넘은	넘+ㄴ	VERB	pvg+etm	_	13	acl	_	Translit=.neom.eun|LTranslit=.neom+ㄴ
 13	적이	적+이	NOUN	nbn+jcs	_	14	nsubj	_	Translit=.jeog.i|LTranslit=.jeog+.i
@@ -20893,8 +20893,8 @@
 5	선거에서도	선거+에서+도	ADV	ncpa+jca+jxc	_	12	advcl	_	Translit=.seon.geo.e.seo.do|LTranslit=.seon.geo+.e.seo+.do
 6	당시	당시	NOUN	ncn	_	7	compound	_	Translit=.dang.si|LTranslit=.dang.si
 7	민중당은	민중당+은	NOUN	ncn+jxt	_	12	dislocated	_	Translit=.min.jung.dang.eun|LTranslit=.min.jung.dang+.eun
-8	1.5	1.5	NUM	nnc	_	12	nummod	_	Translit=1.5|LTranslit=1.5
-9	%	%	SYM	su	_	8	punct	_	Translit=%|LTranslit=%
+8	1.5	1.5	NUM	nnc	_	9	nummod	_	Translit=1.5|LTranslit=1.5
+9	%	%	SYM	su	_	12	nummod	_	Translit=%|LTranslit=%
 10	밖에	밖에	ADP	jxc	_	8	case	_	Translit=.bagg.e|LTranslit=.bagg.e
 11	표를	표+를	NOUN	ncn+jco	_	12	obj	_	Translit=.pyo.reul|LTranslit=.pyo+.reul
 12	얻지	얻+지	VERB	pvg+ecx	_	14	ccomp	_	Translit=.eod.ji|LTranslit=.eod+.ji
@@ -20920,8 +20920,8 @@
 4	출마한	출마+하+ㄴ	VERB	ncpa+xsv+etm	_	5	acl	_	Translit=.chul.ma.han|LTranslit=.chul.ma+.ha+ㄴ
 5	개인들은	개인+들+은	NOUN	ncn+xsn+jxt	_	11	dislocated	_	Translit=.gae.in.deul.eun|LTranslit=.gae.in+.deul+.eun
 6	평균	평균	NOUN	ncn	_	7	compound	_	Translit=.pyeong.gyun|LTranslit=.pyeong.gyun
-7	6.8	6.8	NUM	nnc	_	11	nummod	_	Translit=6.8|LTranslit=6.8
-8	%	%	SYM	su	_	7	punct	_	Translit=%|LTranslit=%
+7	6.8	6.8	NUM	nnc	_	8	nummod	_	Translit=6.8|LTranslit=6.8
+8	%	%	SYM	su	_	11	nummod	_	Translit=%|LTranslit=%
 9	씩	씩	PART	xsn	_	7	case	_	Translit=.ssig|LTranslit=.ssig
 10	표를	표+를	NOUN	ncn+jco	_	11	obj	_	Translit=.pyo.reul|LTranslit=.pyo+.reul
 11	얻었다	얻+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No|Translit=.eod.eoss.da|LTranslit=.eod+.eoss+.da
@@ -20959,8 +20959,8 @@
 4	후보를	후보+를	NOUN	ncn+jco	_	5	obj	_	Translit=.hu.bo.reul|LTranslit=.hu.bo+.reul
 5	내지	내+지	VERB	pvg+ecx	_	10	ccomp	_	Translit=.nae.ji|LTranslit=.nae+.ji
 6	못해서	못하+어서	SCONJ	px+ecs	_	5	aux	_	Translit=.mos.hae.seo|LTranslit=.mos.ha+.eo.seo
-7	1.5	1.5	NUM	nnc	_	10	nummod	_	Translit=1.5|LTranslit=1.5
-8	%	%	SYM	su	_	7	punct	_	Translit=%|LTranslit=%
+7	1.5	1.5	NUM	nnc	_	8	nummod	_	Translit=1.5|LTranslit=1.5
+8	%	%	SYM	su	_	10	nummod	_	Translit=%|LTranslit=%
 9	밖에	밖에	ADP	jxc	_	7	case	_	Translit=.bagg.e|LTranslit=.bagg.e
 10	얻지	얻+지	VERB	pvg+ecx	_	12	acl	_	Translit=.eod.ji|LTranslit=.eod+.ji
 11	못하는	못하+는	AUX	px+etm	_	10	aux	_	Translit=.mos.ha.neun|LTranslit=.mos.ha+.neun
@@ -20980,8 +20980,8 @@
 7	지지는	지지+는	NOUN	ncpa+jxt	_	13	dislocated	_	Translit=.ji.ji.neun|LTranslit=.ji.ji+.neun
 8	어떻게	어떻+게	SCONJ	pad+ecs	_	9	xcomp	_	Translit=.eo.ddeoh.ge|LTranslit=.eo.ddeoh+.ge
 9	따져도	따지+어도	SCONJ	pvg+ecs	_	13	ccomp	_	Translit=.dda.jyeo.do|LTranslit=.dda.ji+.eo.do
-10	2	2	NUM	nnc	_	13	nummod	_	Translit=2|LTranslit=2
-11	%	%	SYM	su	_	10	punct	_	Translit=%|LTranslit=%
+10	2	2	NUM	nnc	_	11	nummod	_	Translit=2|LTranslit=2
+11	%	%	SYM	su	_	13	nummod	_	Translit=%|LTranslit=%
 12	를	를	ADP	jco	_	10	case	_	Translit=.reul|LTranslit=.reul
 13	넘지	넘+지	VERB	pvg+ecx	_	0	root	_	Translit=.neom.ji|LTranslit=.neom+.ji
 14	못한다	못하+ㄴ다	AUX	px+ef	_	13	aux	_	SpaceAfter=No|Translit=.mos.han.da|LTranslit=.mos.ha+ㄴ.da
@@ -20999,8 +20999,8 @@
 7	대단히	대단히	ADV	mag	_	9	advmod	_	Translit=.dae.dan.hi|LTranslit=.dae.dan.hi
 8	열심히	열심히	ADV	mag	_	7	advmod	_	Translit=.yeol.sim.hi|LTranslit=.yeol.sim.hi
 9	싸우고도	싸우+고+도	ADV	pvg+ecc+jxc	_	13	ccomp	_	Translit=.ssa.u.go.do|LTranslit=.ssa.u+.go+.do
-10	1.0	1.0	NUM	nnc	_	13	nummod	_	Translit=1.0|LTranslit=1.0
-11	%	%	SYM	su	_	10	punct	_	Translit=%|LTranslit=%
+10	1.0	1.0	NUM	nnc	_	11	nummod	_	Translit=1.0|LTranslit=1.0
+11	%	%	SYM	su	_	13	nummod	_	Translit=%|LTranslit=%
 12	에	에	ADP	jca	_	10	case	_	Translit=.e|LTranslit=.e
 13	머문	머물+ㄴ	VERB	pvg+etm	_	14	acl	_	Translit=.meo.mun|LTranslit=.meo.mul+ㄴ
 14	결과로	결과+로	ADV	ncpa+jca	_	15	advcl	_	Translit=.gyeol.gwa.ro|LTranslit=.gyeol.gwa+.ro
@@ -21061,8 +21061,8 @@
 2	상근했던	상근+하+었+던	VERB	ncpa+xsv+ep+etm	_	3	acl	_	Translit=.sang.geun.haess.deon|LTranslit=.sang.geun+.ha+.eoss+.deon
 3	사람	사람	NOUN	ncn	_	4	compound	_	Translit=.sa.ram|LTranslit=.sa.ram
 4	중	중	NOUN	nbn	_	5	mark	_	Translit=.jung|LTranslit=.jung
-5	57	57	NUM	nnc	_	14	nummod	_	Translit=57|LTranslit=57
-6	%	%	SYM	su	_	5	punct	_	Translit=%|LTranslit=%
+5	57	57	NUM	nnc	_	6	nummod	_	Translit=57|LTranslit=57
+6	%	%	SYM	su	_	14	nummod	_	Translit=%|LTranslit=%
 7	가	가	ADP	jcs	_	5	case	_	Translit=.ga|LTranslit=.ga
 8	60만표	60+만+표	NOUN	nnc+nnc+nbu	_	9	compound	_	Translit=60.man.pyo|LTranslit=60+.man+.pyo
 9	이상	이상	NOUN	ncn	_	10	compound	_	Translit=.i.sang|LTranslit=.i.sang
@@ -21886,8 +21886,8 @@
 4	바에	바+에	ADV	nbn+jca	_	5	obl	_	Translit=.ba.e|LTranslit=.ba+.e
 5	따르면	따르+면	SCONJ	pvg+ecs	_	17	ccomp	_	Translit=.dda.reu.myeon|LTranslit=.dda.reu+.myeon
 6	국민의	국민+의	NOUN	ncn+jcm	_	7	nmod	_	Translit=.gug.min.yi|LTranslit=.gug.min+.yi
-7	70	70	NUM	nnc	_	17	nummod	_	Translit=70|LTranslit=70
-8	%	%	SYM	su	_	7	punct	_	Translit=%|LTranslit=%
+7	70	70	NUM	nnc	_	8	nummod	_	Translit=70|LTranslit=70
+8	%	%	SYM	su	_	17	nummod	_	Translit=%|LTranslit=%
 9	가	가	ADP	jcs	_	7	case	_	Translit=.ga|LTranslit=.ga
 10	우리나라에서	우리나라+에서	ADV	ncn+jca	_	13	advcl	_	Translit=.u.ri.na.ra.e.seo|LTranslit=.u.ri.na.ra+.e.seo
 11	가장	가장	ADV	mag	_	13	advmod	_	Translit=.ga.jang|LTranslit=.ga.jang
@@ -21905,10 +21905,10 @@
 1	농촌문제를	농촌+문제+를	NOUN	ncn+ncn+jco	_	2	obj	_	Translit=.nong.chon.mun.je.reul|LTranslit=.nong.chon+.mun.je+.reul
 2	지적한	지적+하+ㄴ	VERB	ncpa+xsv+etm	_	3	acl	_	Translit=.ji.jeog.han|LTranslit=.ji.jeog+.ha+ㄴ
 3	사람도	사람+도	ADV	ncn+jxc	_	4	advcl	_	Translit=.sa.ram.do|LTranslit=.sa.ram+.do
-4	8	8	NUM	nnc	_	0	root	_	Translit=8|LTranslit=8
-5	%	%	SYM	su	_	4	punct	_	Translit=%|LTranslit=%
+4	8	8	NUM	nnc	_	5	nummod	_	Translit=8|LTranslit=8
+5	%	%	SYM	su	_	0	root	_	Translit=%|LTranslit=%
 6	였다	이+었+다	ADP	jp+ep+ef	_	4	cop	_	SpaceAfter=No|Translit=.yeoss.da|LTranslit=.i+.eoss+.da
-7	.	.	PUNCT	sf	_	4	punct	_	Translit=.|LTranslit=.
+7	.	.	PUNCT	sf	_	5	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0169-s120
 # text = 이런 국민들에게 김대중씨는 경제문제가 아니라 정치문제로 접근했다.
@@ -22156,8 +22156,8 @@
 10	문제로	문제+로	ADV	ncn+jca	_	11	advcl	_	Translit=.mun.je.ro|LTranslit=.mun.je+.ro
 11	본	보+ㄴ	VERB	pvg+etm	_	12	acl	_	Translit=.bon|LTranslit=.bo+ㄴ
 12	국민은	국민+은	NOUN	ncn+jxt	_	16	dislocated	_	Translit=.gug.min.eun|LTranslit=.gug.min+.eun
-13	11	11	NUM	nnc	_	16	nummod	_	Translit=11|LTranslit=11
-14	%	%	SYM	su	_	13	punct	_	Translit=%|LTranslit=%
+13	11	11	NUM	nnc	_	14	nummod	_	Translit=11|LTranslit=11
+14	%	%	SYM	su	_	16	nummod	_	Translit=%|LTranslit=%
 15	에	에	ADP	jca	_	13	case	_	Translit=.e|LTranslit=.e
 16	지나지	지나+지	VERB	pvg+ecx	_	0	root	_	Translit=.ji.na.ji|LTranslit=.ji.na+.ji
 17	않았다	않+았+다	AUX	px+ep+ef	_	16	aux	_	SpaceAfter=No|Translit=.anh.ass.da|LTranslit=.anh+.ass+.da
@@ -22608,8 +22608,8 @@
 3	유일한	유일+하+ㄴ	VERB	ncps+xsm+etm	_	4	amod	_	Translit=.yu.il.han|LTranslit=.yu.il+.ha+ㄴ
 4	대안인가라는	대안+이+ㄴ가라는	VERB	ncn+jp+etm	_	5	acl	_	Translit=.dae.an.in.ga.ra.neun|LTranslit=.dae.an+.i+ㄴ.ga.ra.neun
 5	질문에서는	질문+에서+는	NOUN	ncpa+jca+jxt	_	10	dislocated	_	Translit=.jil.mun.e.seo.neun|LTranslit=.jil.mun+.e.seo+.neun
-6	24	24	NUM	nnc	_	9	nummod	_	Translit=24|LTranslit=24
-7	%	%	SYM	su	_	6	punct	_	Translit=%|LTranslit=%
+6	24	24	NUM	nnc	_	7	nummod	_	Translit=24|LTranslit=24
+7	%	%	SYM	su	_	9	nummod	_	Translit=%|LTranslit=%
 8	의	의	ADP	jcm	_	6	case	_	Translit=.yi|LTranslit=.yi
 9	노동자만이	노동자+만+이	NOUN	ncn+jxc+jcc	_	10	csubj	_	Translit=.no.dong.ja.man.i|LTranslit=.no.dong.ja+.man+.i
 10	찬성했다는	찬성+하+었+다는	VERB	ncpa+xsv+ep+etm	_	11	acl	_	Translit=.chan.seong.haess.da.neun|LTranslit=.chan.seong+.ha+.eoss+.da.neun
@@ -23257,8 +23257,8 @@
 # translit = .u.ri .gug.min.yi 61 % .i.sang.eun .ja.gi .ja.sin.eul .jung.san.cheung.i.ra.go .saeng.gag.ha.go .iss.da.
 1	우리	우리	PRON	npp	_	2	compound	_	Translit=.u.ri|LTranslit=.u.ri
 2	국민의	국민+의	NOUN	ncn+jcm	_	5	nmod	_	Translit=.gug.min.yi|LTranslit=.gug.min+.yi
-3	61	61	NUM	nnc	_	5	nummod	_	Translit=61|LTranslit=61
-4	%	%	SYM	su	_	3	punct	_	Translit=%|LTranslit=%
+3	61	61	NUM	nnc	_	4	nummod	_	Translit=61|LTranslit=61
+4	%	%	SYM	su	_	5	nummod	_	Translit=%|LTranslit=%
 5	이상은	이상+은	NOUN	ncn+jxt	_	9	dislocated	_	Translit=.i.sang.eun|LTranslit=.i.sang+.eun
 6	자기	자기	PRON	npp	_	7	compound	_	Translit=.ja.gi|LTranslit=.ja.gi
 7	자신을	자신+을	PRON	npp+jco	_	9	obj	_	Translit=.ja.sin.eul|LTranslit=.ja.sin+.eul
@@ -25340,12 +25340,12 @@
 1	그	그	PRON	npd	_	2	compound	_	Translit=.geu|LTranslit=.geu
 2	외에	외+에	ADV	ncn+jca	_	10	obl	_	Translit=.oe.e|LTranslit=.oe+.e
 3	임금이	임금+이	NOUN	ncn+jcs	_	4	nsubj	_	Translit=.im.geum.i|LTranslit=.im.geum+.i
-4	26.7	26.7	NUM	nnc	_	8	nummod	_	Translit=26.7|LTranslit=26.7
-5	%	%	SYM	su	_	4	punct	_	SpaceAfter=No|Translit=%|LTranslit=%
-6	,	,	PUNCT	sp	_	4	punct	_	Translit=,|LTranslit=,
+4	26.7	26.7	NUM	nnc	_	5	nummod	_	Translit=26.7|LTranslit=26.7
+5	%	%	SYM	su	_	8	nummod	_	SpaceAfter=No|Translit=%|LTranslit=%
+6	,	,	PUNCT	sp	_	5	punct	_	Translit=,|LTranslit=,
 7	안전보건이	안전+보건+이	NOUN	ncn+ncn+jcs	_	8	nsubj	_	Translit=.an.jeon.bo.geon.i|LTranslit=.an.jeon+.bo.geon+.i
-8	20.9	20.9	NUM	nnc	_	10	nummod	_	Translit=20.9|LTranslit=20.9
-9	%	%	SYM	su	_	8	punct	_	Translit=%|LTranslit=%
+8	20.9	20.9	NUM	nnc	_	9	nummod	_	Translit=20.9|LTranslit=20.9
+9	%	%	SYM	su	_	10	nummod	_	Translit=%|LTranslit=%
 10	등이다	등+이+다	VERB	nbn+jp+ef	_	0	root	_	SpaceAfter=No|Translit=.deung.i.da|LTranslit=.deung+.i+.da
 11	.	.	PUNCT	sf	_	10	punct	_	Translit=.|LTranslit=.
 
@@ -27389,16 +27389,16 @@
 1	상위	상위	NOUN	ncn	_	2	compound	_	Translit=.sang.wi|LTranslit=.sang.wi
 2	4개	4+개	NOUN	nnc+nbu	_	3	compound	_	Translit=4.gae|LTranslit=4+.gae
 3	회사가	회사+가	NOUN	ncn+jcs	_	7	nsubj	_	Translit=.hoe.sa.ga|LTranslit=.hoe.sa+.ga
-4	60	60	NUM	nnc	_	6	nummod	_	Translit=60|LTranslit=60
-5	%	%	SYM	su	_	4	punct	_	Translit=%|LTranslit=%
+4	60	60	NUM	nnc	_	5	nummod	_	Translit=60|LTranslit=60
+5	%	%	SYM	su	_	6	nummod	_	Translit=%|LTranslit=%
 6	이상을	이상+을	NOUN	ncn+jco	_	7	obj	_	Translit=.i.sang.eul|LTranslit=.i.sang+.eul
 7	차지하는	차지+하+는	VERB	ncpa+xsv+etm	_	8	acl	_	Translit=.cha.ji.ha.neun|LTranslit=.cha.ji+.ha+.neun
 8	시장은	시장+은	NOUN	ncn+jxt	_	10	dislocated	_	Translit=.si.jang.eun|LTranslit=.si.jang+.eun
 9	고작	고작	NOUN	ncn	_	10	compound	_	Translit=.go.jag|LTranslit=.go.jag
-10	18	18	NUM	nnc	_	0	root	_	Translit=18|LTranslit=18
-11	%	%	SYM	su	_	10	punct	_	Translit=%|LTranslit=%
+10	18	18	NUM	nnc	_	11	nummod	_	Translit=18|LTranslit=18
+11	%	%	SYM	su	_	0	root	_	Translit=%|LTranslit=%
 12	이다	이+다	ADP	jp+ef	_	10	cop	_	SpaceAfter=No|Translit=.i.da|LTranslit=.i+.da
-13	.	.	PUNCT	sf	_	10	punct	_	Translit=.|LTranslit=.
+13	.	.	PUNCT	sf	_	11	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0169-s501
 # text = 단순비교로는 안되지만 경제규모가 작은 우리나라 재벌의 시장장악력이 일본 재벌의 3배 이상이라는 말이다.
@@ -27492,8 +27492,8 @@
 4	국내	국내	NOUN	ncn	_	5	compound	_	Translit=.gug.nae|LTranslit=.gug.nae
 5	공금융의	공금융+의	NOUN	ncn+jcm	_	7	nmod	_	Translit=.gong.geum.yung.yi|LTranslit=.gong.geum.yung+.yi
 6	30	30	NUM	nnc	_	7	nummod	_	Translit=30|LTranslit=30
-7	40	40	NUM	nnc	_	15	obj	_	Translit=40|LTranslit=40
-8	%	%	SYM	su	_	7	punct	_	Translit=%|LTranslit=%
+7	40	40	NUM	nnc	_	8	nummod	_	Translit=40|LTranslit=40
+8	%	%	SYM	su	_	15	obj	_	Translit=%|LTranslit=%
 9	와	와	CCONJ	jcj	_	7	case	_	Translit=.wa|LTranslit=.wa
 10	국내은행	국내+은행	NOUN	ncn+ncn	_	11	compound	_	Translit=.gug.nae.eun.haeng|LTranslit=.gug.nae+.eun.haeng
 11	해외지점의	해외지점+의	NOUN	ncn+jcm	_	14	nmod	_	Translit=.hae.oe.ji.jeom.yi|LTranslit=.hae.oe.ji.jeom+.yi
@@ -27510,8 +27510,8 @@
 1	그런데	그런데	CCONJ	maj	_	7	cc	_	Translit=.geu.reon.de|LTranslit=.geu.reon.de
 2	공금융의	공금융+의	NOUN	ncn+jcm	_	4	nmod	_	Translit=.gong.geum.yung.yi|LTranslit=.gong.geum.yung+.yi
 3	30	30	NUM	nnc	_	4	nummod	_	Translit=30|LTranslit=30
-4	40	40	NUM	nnc	_	7	nummod	_	Translit=40|LTranslit=40
-5	%	%	SYM	su	_	4	punct	_	Translit=%|LTranslit=%
+4	40	40	NUM	nnc	_	5	nummod	_	Translit=40|LTranslit=40
+5	%	%	SYM	su	_	7	nummod	_	Translit=%|LTranslit=%
 6	를	를	ADP	jco	_	4	case	_	Translit=.reul|LTranslit=.reul
 7	휩쓸어	휩쓸+어	VERB	pvg+ecx	_	0	root	_	Translit=.hwib.sseul.eo|LTranslit=.hwib.sseul+.eo
 8	가버린	가+아+버리+ㄴ	AUX	px+ecx+px+etm	_	7	aux	_	Translit=.ga.beo.rin|LTranslit=.ga+.a+.beo.ri+ㄴ
@@ -27557,8 +27557,8 @@
 9	농장의	농장+의	NOUN	ncn+jcm	_	10	nmod	_	Translit=.nong.jang.yi|LTranslit=.nong.jang+.yi
 10	경우	경우	NOUN	ncn	_	16	advmod	_	Translit=.gyeong.u|LTranslit=.gyeong.u
 11	총토지의	총토지+의	NOUN	ncn+jcm	_	12	nmod	_	Translit=.chong.to.ji.yi|LTranslit=.chong.to.ji+.yi
-12	0.5	0.5	NUM	nnc	_	16	nummod	_	Translit=0.5|LTranslit=0.5
-13	%	%	SYM	su	_	12	punct	_	Translit=%|LTranslit=%
+12	0.5	0.5	NUM	nnc	_	13	nummod	_	Translit=0.5|LTranslit=0.5
+13	%	%	SYM	su	_	16	nummod	_	Translit=%|LTranslit=%
 14	만이	만+이	ADP	jxc+jcs	_	12	case	_	Translit=.man.i|LTranslit=.man+.i
 15	양돈장	양돈장	NOUN	ncn	_	16	compound	_	Translit=.yang.don.jang|LTranslit=.yang.don.jang
 16	면적이었다	면적+이+었+다	VERB	ncn+jp+ep+ef	_	0	root	_	SpaceAfter=No|Translit=.myeon.jeog.i.eoss.da|LTranslit=.myeon.jeog+.i+.eoss+.da
@@ -27575,10 +27575,10 @@
 6	농장은	농장+은	NOUN	ncn+jxt	_	3	conj	_	Translit=.nong.jang.eun|LTranslit=.nong.jang+.eun
 7	각각	각각	ADV	mag	_	11	advmod	_	Translit=.gag.gag|LTranslit=.gag.gag
 8	0.8	0.8	NUM	nnc	_	15	nummod	_	Translit=0.8|LTranslit=0.8
-9	%	%	SYM	su	_	11	punct	_	Translit=%|LTranslit=%
+9	%	%	SYM	su	_	8	conj	_	Translit=%|LTranslit=%
 10	와	와	CCONJ	jcj	_	11	case	_	Translit=.wa|LTranslit=.wa
-11	0.6	0.6	NUM	nnc	_	8	conj	_	Translit=0.6|LTranslit=0.6
-12	%	%	SYM	su	_	11	punct	_	Translit=%|LTranslit=%
+11	0.6	0.6	NUM	nnc	_	12	nummod	_	Translit=0.6|LTranslit=0.6
+12	%	%	SYM	su	_	9	nummod	_	Translit=%|LTranslit=%
 13	만이	만+이	ADP	jxc+jcs	_	11	case	_	Translit=.man.i|LTranslit=.man+.i
 14	양돈장	양돈장	NOUN	ncn	_	15	compound	_	Translit=.yang.don.jang|LTranslit=.yang.don.jang
 15	면적이었다	면적+이+었+다	VERB	ncn+jp+ep+ef	_	0	root	_	SpaceAfter=No|Translit=.myeon.jeog.i.eoss.da|LTranslit=.myeon.jeog+.i+.eoss+.da
@@ -27597,8 +27597,8 @@
 8	있는	있+는	AUX	px+etm	_	7	aux	_	Translit=.iss.neun|LTranslit=.iss+.neun
 9	부동산	부동산	NOUN	ncn	_	10	compound	_	Translit=.bu.dong.san|LTranslit=.bu.dong.san
 10	중에서	중+에서	ADV	nbn+jca	_	11	advcl	_	Translit=.jung.e.seo|LTranslit=.jung+.e.seo
-11	35.3	35.3	NUM	nnc	_	15	nummod	_	Translit=35.3|LTranslit=35.3
-12	%	%	SYM	su	_	11	punct	_	Translit=%|LTranslit=%
+11	35.3	35.3	NUM	nnc	_	12	nummod	_	Translit=35.3|LTranslit=35.3
+12	%	%	SYM	su	_	15	nummod	_	Translit=%|LTranslit=%
 13	가	가	ADP	jcs	_	11	case	_	Translit=.ga|LTranslit=.ga
 14	비업무용	비업무용	NOUN	ncn	_	15	compound	_	Translit=.bi.eob.mu.yong|LTranslit=.bi.eob.mu.yong
 15	부동산이었다	부동산+이+었+다	VERB	ncn+jp+ep+ef	_	0	root	_	SpaceAfter=No|Translit=.bu.dong.san.i.eoss.da|LTranslit=.bu.dong.san+.i+.eoss+.da
@@ -27929,8 +27929,8 @@
 # translit = .il.bon.yi .ja.dong.cha.gong.jang.eun 70 % .i.sang.yi .bu.pum.eul .jung.so.gi.eob.eu.ro.bu.teo .gong.geub.bad.go .iss.gi .ddae.mun.e .gyu.mo.ga .keul .pil.yo.ga .eobs.da.
 1	일본의	일본+의	PROPN	nq+jcm	_	2	nmod	_	Translit=.il.bon.yi|LTranslit=.il.bon+.yi
 2	자동차공장은	자동차+공장+은	NOUN	ncn+ncn+jxt	_	8	dislocated	_	Translit=.ja.dong.cha.gong.jang.eun|LTranslit=.ja.dong.cha+.gong.jang+.eun
-3	70	70	NUM	nnc	_	5	nummod	_	Translit=70|LTranslit=70
-4	%	%	SYM	su	_	3	punct	_	Translit=%|LTranslit=%
+3	70	70	NUM	nnc	_	4	nummod	_	Translit=70|LTranslit=70
+4	%	%	SYM	su	_	5	nummod	_	Translit=%|LTranslit=%
 5	이상의	이상+의	PROPN	nq+jcm	_	6	nmod	_	Translit=.i.sang.yi|LTranslit=.i.sang+.yi
 6	부품을	부품+을	NOUN	ncn+jco	_	8	obj	_	Translit=.bu.pum.eul|LTranslit=.bu.pum+.eul
 7	중소기업으로부터	중소기업+으로+부터	ADV	ncn+jca+jxc	_	8	advcl	_	Translit=.jung.so.gi.eob.eu.ro.bu.teo|LTranslit=.jung.so.gi.eob+.eu.ro+.bu.teo
@@ -28116,8 +28116,8 @@
 2	현금이	현금+이	NOUN	ncn+jcs	_	3	nsubj	_	Translit=.hyeon.geum.i|LTranslit=.hyeon.geum+.i
 3	늘었다는	늘+었+다는	VERB	pvg+ep+etm	_	4	acl	_	Translit=.neul.eoss.da.neun|LTranslit=.neul+.eoss+.da.neun
 4	응답은	응답+은	NOUN	ncpa+jxt	_	8	dislocated	_	Translit=.eung.dab.eun|LTranslit=.eung.dab+.eun
-5	1.4	1.4	NUM	nnc	_	8	nummod	_	Translit=1.4|LTranslit=1.4
-6	%	%	SYM	su	_	5	punct	_	Translit=%|LTranslit=%
+5	1.4	1.4	NUM	nnc	_	6	nummod	_	Translit=1.4|LTranslit=1.4
+6	%	%	SYM	su	_	8	nummod	_	Translit=%|LTranslit=%
 7	에	에	ADP	jca	_	5	case	_	Translit=.e|LTranslit=.e
 8	불과했다	불과하+었+다	ADJ	paa+ep+ef	_	0	root	_	SpaceAfter=No|Translit=.bul.gwa.haess.da|LTranslit=.bul.gwa.ha+.eoss+.da
 9	.	.	PUNCT	sf	_	8	punct	_	Translit=.|LTranslit=.
@@ -28181,8 +28181,8 @@
 3	현금으로	현금+으로	ADV	ncn+jca	_	4	advcl	_	Translit=.hyeon.geum.eu.ro|LTranslit=.hyeon.geum+.eu.ro
 4	받는	받+는	VERB	pvg+etm	_	5	acl	_	Translit=.bad.neun|LTranslit=.bad+.neun
 5	중소기업은	중소기업+은	NOUN	ncn+jxt	_	9	dislocated	_	Translit=.jung.so.gi.eob.eun|LTranslit=.jung.so.gi.eob+.eun
-6	5.9	5.9	NUM	nnc	_	9	nummod	_	Translit=5.9|LTranslit=5.9
-7	%	%	SYM	su	_	6	punct	_	Translit=%|LTranslit=%
+6	5.9	5.9	NUM	nnc	_	7	nummod	_	Translit=5.9|LTranslit=5.9
+7	%	%	SYM	su	_	9	nummod	_	Translit=%|LTranslit=%
 8	에	에	ADP	jca	_	6	case	_	Translit=.e|LTranslit=.e
 9	불과하다	불과하+다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No|Translit=.bul.gwa.ha.da|LTranslit=.bul.gwa.ha+.da
 10	.	.	PUNCT	sf	_	9	punct	_	Translit=.|LTranslit=.
@@ -28191,8 +28191,8 @@
 # text = 나머지 93.1 % 가 어음 등 외상거래를 하고 있다.
 # translit = .na.meo.ji 93.1 % .ga .eo.eum .deung .oe.sang.geo.rae.reul .ha.go .iss.da.
 1	나머지	나머지	NOUN	ncn	_	2	compound	_	Translit=.na.meo.ji|LTranslit=.na.meo.ji
-2	93.1	93.1	NUM	nnc	_	8	nummod	_	Translit=93.1|LTranslit=93.1
-3	%	%	SYM	su	_	2	punct	_	Translit=%|LTranslit=%
+2	93.1	93.1	NUM	nnc	_	3	nummod	_	Translit=93.1|LTranslit=93.1
+3	%	%	SYM	su	_	8	nummod	_	Translit=%|LTranslit=%
 4	가	가	ADP	jcs	_	2	case	_	Translit=.ga|LTranslit=.ga
 5	어음	어음	NOUN	ncn	_	6	compound	_	Translit=.eo.eum|LTranslit=.eo.eum
 6	등	등	NOUN	nbn	_	7	mark	_	Translit=.deung|LTranslit=.deung
@@ -28223,13 +28223,13 @@
 6	20일	20+일	NOUN	nno+nbu	_	7	compound	_	Translit=20.il|LTranslit=20+.il
 7	이상되는	이상+되+는	VERB	ncpa+xsv+etm	_	8	acl	_	Translit=.i.sang.doe.neun|LTranslit=.i.sang+.doe+.neun
 8	판매가	판매+가	NOUN	ncpa+jcs	_	11	nsubj	_	Translit=.pan.mae.ga|LTranslit=.pan.mae+.ga
-9	8.5	8.5	NUM	nnc	_	11	nummod	_	Translit=8.5|LTranslit=8.5
-10	%	%	SYM	su	_	9	punct	_	Translit=%|LTranslit=%
+9	8.5	8.5	NUM	nnc	_	10	nummod	_	Translit=8.5|LTranslit=8.5
+10	%	%	SYM	su	_	11	nummod	_	Translit=%|LTranslit=%
 11	늘어난	늘+어+나+ㄴ	AUX	pvg+ecx+px+etm	_	12	ccomp	_	Translit=.neul.eo.nan|LTranslit=.neul+.eo+.na+ㄴ
-12	30.1	30.1	NUM	nnc	_	0	root	_	Translit=30.1|LTranslit=30.1
-13	%	%	SYM	su	_	12	punct	_	Translit=%|LTranslit=%
+12	30.1	30.1	NUM	nnc	_	13	nummod	_	Translit=30.1|LTranslit=30.1
+13	%	%	SYM	su	_	0	root	_	Translit=%|LTranslit=%
 14	이다	이+다	ADP	jp+ef	_	12	cop	_	SpaceAfter=No|Translit=.i.da|LTranslit=.i+.da
-15	.	.	PUNCT	sf	_	12	punct	_	Translit=.|LTranslit=.
+15	.	.	PUNCT	sf	_	13	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0169-s554
 # text = 이러니 중소기업들은 기술개발이나 시설투자는커녕 기본적인 운영도 할 수 없다.
@@ -29005,8 +29005,8 @@
 1	기업	기업	NOUN	ncn	_	2	compound	_	Translit=.gi.eob|LTranslit=.gi.eob
 2	경영에	경영+에	ADV	ncpa+jca	_	7	obl	_	Translit=.gyeong.yeong.e|LTranslit=.gyeong.yeong+.e
 3	노동자들이	노동자+들+이	NOUN	ncn+xsn+jcs	_	7	nsubj	_	Translit=.no.dong.ja.deul.i|LTranslit=.no.dong.ja+.deul+.i
-4	40	40	NUM	nnc	_	6	nummod	_	Translit=40|LTranslit=40
-5	%	%	SYM	su	_	4	punct	_	Translit=%|LTranslit=%
+4	40	40	NUM	nnc	_	5	nummod	_	Translit=40|LTranslit=40
+5	%	%	SYM	su	_	6	nummod	_	Translit=%|LTranslit=%
 6	이상	이상	NOUN	ncn	_	7	compound	_	Translit=.i.sang|LTranslit=.i.sang
 7	참여할	참여+하+ㄹ	VERB	ncpa+xsv+etm	_	11	acl	_	Translit=.cham.yeo.hal|LTranslit=.cham.yeo+.ha+ㄹ
 8	수	수	NOUN	nbn	_	7	aux	_	Translit=.su|LTranslit=.su
@@ -30134,8 +30134,8 @@
 3	보면	보+면	SCONJ	pvg+ecs	_	11	ccomp	_	Translit=.bo.myeon|LTranslit=.bo+.myeon
 4	새로운	새롭+ㄴ	ADJ	paa+etm	_	5	amod	_	Translit=.sae.ro.un|LTranslit=.sae.rob+ㄴ
 5	기술의	기술+의	NOUN	ncn+jcm	_	8	nmod	_	Translit=.gi.sul.yi|LTranslit=.gi.sul+.yi
-6	80	80	NUM	nnc	_	8	nummod	_	Translit=80|LTranslit=80
-7	%	%	SYM	su	_	6	punct	_	Translit=%|LTranslit=%
+6	80	80	NUM	nnc	_	7	nummod	_	Translit=80|LTranslit=80
+7	%	%	SYM	su	_	8	nummod	_	Translit=%|LTranslit=%
 8	이상이	이상+이	NOUN	ncn+jcs	_	11	nsubj	_	Translit=.i.sang.i|LTranslit=.i.sang+.i
 9	바로	바로	ADV	mag	_	11	advmod	_	Translit=.ba.ro|LTranslit=.ba.ro
 10	생산현장에서	생산현장+에서	ADV	ncn+jca	_	11	advcl	_	Translit=.saeng.san.hyeon.jang.e.seo|LTranslit=.saeng.san.hyeon.jang+.e.seo
@@ -30337,8 +30337,8 @@
 5	뒤	뒤	NOUN	ncn	_	12	advmod	_	Translit=.dwi|LTranslit=.dwi
 6	전체	전체	NOUN	ncn	_	7	compound	_	Translit=.jeon.che|LTranslit=.jeon.che
 7	설비투자의	설비투자+의	NOUN	ncpa+jcm	_	8	nmod	_	Translit=.seol.bi.tu.ja.yi|LTranslit=.seol.bi.tu.ja+.yi
-8	40	40	NUM	nnc	_	10	nummod	_	Translit=40|LTranslit=40
-9	%	%	SYM	su	_	8	punct	_	Translit=%|LTranslit=%
+8	40	40	NUM	nnc	_	9	nummod	_	Translit=40|LTranslit=40
+9	%	%	SYM	su	_	10	nummod	_	Translit=%|LTranslit=%
 10	이상을	이상+을	NOUN	ncn+jco	_	12	obj	_	Translit=.i.sang.eul|LTranslit=.i.sang+.eul
 11	자동화에	자동화+에	ADV	ncpa+jca	_	12	obl	_	Translit=.ja.dong.hwa.e|LTranslit=.ja.dong.hwa+.e
 12	쏟아붓고	쏟아붓+고	VERB	pvg+ecx	_	0	root	_	Translit=.ssod.a.bus.go|LTranslit=.ssod.a.bus+.go
