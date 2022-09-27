@@ -27,6 +27,7 @@ The project repository: https://github.com/emorynlp/ud-korean
   * Symbols after numbers are units, not punctuation.
   * Nouns cannot be attached as mark.
   * Fixed: adverbially used nominals are obl, not advmod.
+  * Fixed: adverbially used verbs are advcl, not advmod.
 * 2018-04-15 v2.2
   * First release by Chun et al., 2018.
 

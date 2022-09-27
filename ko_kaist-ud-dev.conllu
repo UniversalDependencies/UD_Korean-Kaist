@@ -17150,7 +17150,7 @@
 6	구현하기	구현+하+기	VERB	ncpa+xsv+etn	_	7	nmod	_	Translit=.gu.hyeon.ha.gi|LTranslit=.gu.hyeon+.ha+.gi
 7	위해	위하+어	SCONJ	pvg+ecs	_	9	ccomp	_	Translit=.wi.hae|LTranslit=.wi.ha+.eo
 8	정치에	정치+에	ADV	ncpa+jca	_	9	obl	_	Translit=.jeong.chi.e|LTranslit=.jeong.chi+.e
-9	참여할	참여+하+ㄹ	VERB	ncpa+xsv+etm	_	19	advmod	_	Translit=.cham.yeo.hal|LTranslit=.cham.yeo+.ha+ㄹ
+9	참여할	참여+하+ㄹ	VERB	ncpa+xsv+etm	_	19	advcl	_	Translit=.cham.yeo.hal|LTranslit=.cham.yeo+.ha+ㄹ
 10	수도	수+도	ADV	nbn+jxc	_	9	aux	_	Translit=.su.do|LTranslit=.su+.do
 11	있습니다만	있+습니다+만	ADV	paa+ef+jxc	_	10	fixed	_	SpaceAfter=No|Translit=.iss.seub.ni.da.man|LTranslit=.iss+.seub.ni.da+.man
 12	,	,	PUNCT	sp	_	10	punct	_	Translit=,|LTranslit=,
@@ -22828,7 +22828,7 @@
 9	북한	북한	PROPN	nq	_	10	compound	_	Translit=.bug.han|LTranslit=.bug.han
 10	동조세력이라는	동조세력+이+라는	VERB	ncn+jp+etm	_	11	acl	_	Translit=.dong.jo.se.ryeog.i.ra.neun|LTranslit=.dong.jo.se.ryeog+.i+.ra.neun
 11	비판을	비판+을	NOUN	ncpa+jco	_	12	obj	_	Translit=.bi.pan.eul|LTranslit=.bi.pan+.eul
-12	받을까	받+ㄹ까	VERB	pvg+ef	_	14	advmod	_	Translit=.bad.eul.gga|LTranslit=.bad+ㄹ.gga
+12	받을까	받+ㄹ까	VERB	pvg+ef	_	14	advcl	_	Translit=.bad.eul.gga|LTranslit=.bad+ㄹ.gga
 13	조바심이	조바심+이	NOUN	ncn+jcs	_	14	nsubj	_	Translit=.jo.ba.sim.i|LTranslit=.jo.ba.sim+.i
 14	나서가	나+아서+가	NOUN	pvg+ecs+jcc	_	15	csubj	_	Translit=.na.seo.ga|LTranslit=.na+.a.seo+.ga
 15	아니다	아니+다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No|Translit=.a.ni.da|LTranslit=.a.ni+.da
