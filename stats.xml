@@ -40,7 +40,7 @@
   <deps unique="32">
     <dep name="acl">21467</dep>
     <dep name="advcl">20529</dep>
-    <dep name="advmod">15056</dep>
+    <dep name="advmod">15041</dep>
     <dep name="amod">16581</dep>
     <dep name="appos">1046</dep>
     <dep name="aux">18935</dep>
@@ -59,7 +59,7 @@
     <dep name="fixed">3186</dep>
     <dep name="flat">803</dep>
     <dep name="iobj">967</dep>
-    <dep name="mark">6</dep>
+    <dep name="mark">21</dep>
     <dep name="nmod">22041</dep>
     <dep name="nsubj">17444</dep>
     <dep name="nummod">3542</dep>
