@@ -23693,7 +23693,7 @@
 11	철학의	철학+의	NOUN	ncn+jcm	_	13	nmod	_	Translit=.cheol.hag.yi|LTranslit=.cheol.hag+.yi
 12	절대적	절대+적	NOUN	ncn+xsn	_	13	amod	_	Translit=.jeol.dae.jeog|LTranslit=.jeol.dae+.jeog
 13	경향	경향	NOUN	ncn	_	10	conj	_	SpaceAfter=No|Translit=.gyeong.hyang|LTranslit=.gyeong.hyang
-14	'	'	PUNCT	sr	_	10	punct	_	Translit='|LTranslit='
+14	'	'	PUNCT	sr	_	13	punct	_	Translit='|LTranslit='
 15	이라고	이+라+고	ADP	jp+ef+jcr	_	13	cop	_	Translit=.i.ra.go|LTranslit=.i+.ra+.go
 16	간주하였다	간주+하+었+다	VERB	ncpa+xsv+ep+ef	_	10	conj	_	SpaceAfter=No|Translit=.gan.ju.ha.yeoss.da|LTranslit=.gan.ju+.ha+.eoss+.da
 17	.	.	PUNCT	sf	_	16	punct	_	Translit=.|LTranslit=.
@@ -27467,7 +27467,7 @@
 4	'	'	PUNCT	sl	_	5	punct	_	SpaceAfter=No|Translit='|LTranslit='
 5	힘과	힘+과	CCONJ	ncn+jcj	_	14	dislocated	_	Translit=.him.gwa|LTranslit=.him+.gwa
 6	오성	오성	NOUN	ncn	_	5	conj	_	SpaceAfter=No|Translit=.o.seong|LTranslit=.o.seong
-7	'	'	PUNCT	sr	_	5	punct	_	Translit='|LTranslit='
+7	'	'	PUNCT	sr	_	6	punct	_	Translit='|LTranslit='
 8	의	의	ADP	jcm	_	6	case	_	Translit=.yi|LTranslit=.yi
 9	장은	장+은	NOUN	ncn+jxt	_	6	conj	_	Translit=.jang.eun|LTranslit=.jang+.eun
 10	이러한	이러하+ㄴ	VERB	pad+etm	_	11	amod	_	Translit=.i.reo.han|LTranslit=.i.reo.ha+ㄴ

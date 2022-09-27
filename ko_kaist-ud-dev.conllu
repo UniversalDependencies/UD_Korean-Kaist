@@ -32366,7 +32366,7 @@
 12	내키지	내키+지	VERB	pvg+ecx	_	14	acl	_	Translit=.nae.ki.ji|LTranslit=.nae.ki+.ji
 13	않는	않+는	AUX	px+etm	_	12	aux	_	Translit=.anh.neun|LTranslit=.anh+.neun
 14	스타	스타	NOUN	ncn	_	9	conj	_	SpaceAfter=No|Translit=.seu.ta|LTranslit=.seu.ta
-15	'	'	PUNCT	sr	_	9	punct	_	Translit='|LTranslit='
+15	'	'	PUNCT	sr	_	14	punct	_	Translit='|LTranslit='
 16	라고	라고	ADP	jcr	_	14	case	_	Translit=.ra.go|LTranslit=.ra.go
 17	부른다	부르+ㄴ다	VERB	pvg+ef	_	9	conj	_	SpaceAfter=No|Translit=.bu.reun.da|LTranslit=.bu.reu+ㄴ.da
 18	.	.	PUNCT	sf	_	17	punct	_	Translit=.|LTranslit=.
@@ -32999,7 +32999,7 @@
 10	고통을	고통+을	NOUN	ncps+jco	_	11	obj	_	Translit=.go.tong.eul|LTranslit=.go.tong+.eul
 11	안겨주고	안기+어+주+고	AUX	pvg+ecx+px+ecx	_	7	conj	_	Translit=.an.gyeo.ju.go|LTranslit=.an.gi+.eo+.ju+.go
 12	있다	있+다	AUX	px+ef	_	11	aux	_	SpaceAfter=No|Translit=.iss.da|LTranslit=.iss+.da
-13	"	"	PUNCT	sr	_	7	punct	_	Translit="|LTranslit="
+13	"	"	PUNCT	sr	_	12	punct	_	Translit="|LTranslit="
 14	고	고	ADP	jcr	_	12	case	_	Translit=.go|LTranslit=.go
 15	반박하고	반박+하+고	VERB	ncpa+xsv+ecx	_	7	conj	_	Translit=.ban.bag.ha.go|LTranslit=.ban.bag+.ha+.go
 16	있다	있+다	AUX	px+ef	_	15	aux	_	SpaceAfter=No|Translit=.iss.da|LTranslit=.iss+.da
