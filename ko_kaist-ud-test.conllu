@@ -4117,7 +4117,7 @@
 6	고장이어서	고장+이+어서	SCONJ	ncn+jp+ecs	_	14	ccomp	_	Translit=.go.jang.i.eo.seo|LTranslit=.go.jang+.i+.eo.seo
 7	칠레공군자체의	칠레+공군+자체+의	PROPN	nq+ncn+ncn+jcm	_	8	nmod	_	Translit=.chil.re.gong.gun.ja.che.yi|LTranslit=.chil.re+.gong.gun+.ja.che+.yi
 8	남극물자운송	남극물자운송	NOUN	ncn	_	12	compound	_	Translit=.nam.geug.mul.ja.un.song|LTranslit=.nam.geug.mul.ja.un.song
-9	내지는	내지+는	NOUN	maj+jxt	_	12	cc	_	Translit=.nae.ji.neun|LTranslit=.nae.ji+.neun
+9	내지는	내지+는	CCONJ	maj+jxt	_	12	cc	_	Translit=.nae.ji.neun|LTranslit=.nae.ji+.neun
 10	그에	그+에	ADV	npp+jca	_	11	obl	_	Translit=.geu.e|LTranslit=.geu+.e
 11	부수되는	부수+되+는	VERB	ncpa+xsv+etm	_	12	acl	_	Translit=.bu.su.doe.neun|LTranslit=.bu.su+.doe+.neun
 12	계획을	계획+을	NOUN	ncpa+jco	_	14	obj	_	Translit=.gye.hoeg.eul|LTranslit=.gye.hoeg+.eul
@@ -4165,7 +4165,7 @@
 5	못하지만	못하+지만	SCONJ	pvg+ecs	_	0	root	_	Translit=.mos.ha.ji.man|LTranslit=.mos.ha+.ji.man
 6	이들이	이+들+이	PRON	npd+xsn+jcs	_	13	nsubj	_	Translit=.i.deul.i|LTranslit=.i+.deul+.i
 7	운행계획	운행+계획	NOUN	ncpa+ncpa	_	9	compound	_	Translit=.un.haeng.gye.hoeg|LTranslit=.un.haeng+.gye.hoeg
-8	내지는	내지+는	NOUN	maj+jxt	_	9	cc	_	Translit=.nae.ji.neun|LTranslit=.nae.ji+.neun
+8	내지는	내지+는	CCONJ	maj+jxt	_	9	cc	_	Translit=.nae.ji.neun|LTranslit=.nae.ji+.neun
 9	긴급성에	긴급성+에	ADV	ncn+jca	_	13	obl	_	Translit=.gin.geub.seong.e|LTranslit=.gin.geub.seong+.e
 10	절대적인	절대+적+이+ㄴ	VERB	ncn+xsn+jp+etm	_	11	acl	_	Translit=.jeol.dae.jeog.in|LTranslit=.jeol.dae+.jeog+.i+ㄴ
 11	결정권이	결정권+이	NOUN	ncn+jcs	_	12	nsubj	_	Translit=.gyeol.jeong.gweon.i|LTranslit=.gyeol.jeong.gweon+.i
