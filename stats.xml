@@ -26,30 +26,30 @@
     <tag name="NUM">4848</tag><!-- 한, 두, 1, 하나+의, 세, 2, 3, 10, 5, 하나+는 -->
     <tag name="PART">268</tag><!-- 는, 무+의미+하+ㄴ, 유+의미+하+ㄴ, 제+2+차, 라는, 제+1+의, 제+2+의, 반+소모사, 제+1, 제+3+세계 -->
     <tag name="PRON">7712</tag><!-- 그+는, 우리, 그+의, 그것+은, 우리+는, 나+는, 이, 이것+은, 그+들+은, 이+는 -->
-    <tag name="PROPN">12366</tag><!-- 일본, 일본+의, 한국+의, 한국, 중국, 중국+의, 흉노, 미국+의, 미국, 영국+의 -->
+    <tag name="PROPN">12367</tag><!-- 일본, 일본+의, 한국+의, 한국, 중국, 중국+의, 흉노, 미국+의, 미국, 영국+의 -->
     <tag name="PUNCT">38925</tag><!-- ., ,, ', (, ), ?, ", <, >, ! -->
     <tag name="SCONJ">18466</tag><!-- 아니+라, 의하+어, 위하+어, 따르+아, 같+이, 통하+어, 크+게, 보+면, 대하+어, 있+어서 -->
     <tag name="SYM">260</tag><!-- %, km, $, 1,500+m, 10+m, 20+ha, 200+m, 216+m, 30+m, 3000+m -->
     <tag name="VERB">59273</tag><!-- 것+이+다, 이러하+ㄴ, 대하+ㄴ, 하+ㄹ, 하+는, 때문+이+다, 하+ㄴ다, 것+이+ㅂ니다, 하+었+다, 보+ㄹ -->
-    <tag name="X">700</tag><!-- EC, 프롤레타리아, TV, S, the, km, ATM, PCS, 에퀴티, ABC -->
+    <tag name="X">699</tag><!-- EC, 프롤레타리아, TV, S, the, km, ATM, PCS, 에퀴티, ABC -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="0">
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="31">
+  <deps unique="32">
     <dep name="acl">21467</dep>
     <dep name="advcl">20483</dep>
     <dep name="advmod">19102</dep>
     <dep name="amod">16581</dep>
-    <dep name="appos">1045</dep>
+    <dep name="appos">1046</dep>
     <dep name="aux">18935</dep>
     <dep name="case">1343</dep>
     <dep name="cc">5234</dep>
     <dep name="ccomp">15655</dep>
     <dep name="clf">1</dep>
     <dep name="compound">24689</dep>
-    <dep name="conj">20655</dep>
+    <dep name="conj">20654</dep>
     <dep name="cop">303</dep>
     <dep name="csubj">1202</dep>
     <dep name="dep">3018</dep>
@@ -59,13 +59,14 @@
     <dep name="fixed">3186</dep>
     <dep name="flat">803</dep>
     <dep name="iobj">967</dep>
-    <dep name="mark">799</dep>
-    <dep name="nmod">22040</dep>
+    <dep name="mark">6</dep>
+    <dep name="nmod">22041</dep>
     <dep name="nsubj">17444</dep>
-    <dep name="nummod">3544</dep>
+    <dep name="nummod">3542</dep>
     <dep name="obj">23605</dep>
-    <dep name="obl">11575</dep>
-    <dep name="punct">38926</dep>
+    <dep name="obl">12369</dep>
+    <dep name="parataxis">1</dep>
+    <dep name="punct">38925</dep>
     <dep name="root">27363</dep>
     <dep name="vocative">15</dep>
     <dep name="xcomp">4278</dep>
