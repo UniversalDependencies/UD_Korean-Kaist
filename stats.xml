@@ -43,9 +43,9 @@
     <dep name="advmod">15041</dep>
     <dep name="amod">16581</dep>
     <dep name="appos">1046</dep>
-    <dep name="aux">12415</dep>
+    <dep name="aux">11416</dep>
     <dep name="case">1343</dep>
-    <dep name="cc">5234</dep>
+    <dep name="cc">5587</dep>
     <dep name="ccomp">15655</dep>
     <dep name="clf">1</dep>
     <dep name="compound">27643</dep>
@@ -59,7 +59,7 @@
     <dep name="fixed">3186</dep>
     <dep name="flat">803</dep>
     <dep name="iobj">967</dep>
-    <dep name="mark">21</dep>
+    <dep name="mark">667</dep>
     <dep name="nmod">22041</dep>
     <dep name="nsubj">17444</dep>
     <dep name="nummod">3542</dep>
