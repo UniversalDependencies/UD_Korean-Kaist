@@ -8,7 +8,7 @@
 5	관세를	관세+를	NOUN	ncn+jco	_	7	obj	_	Translit=.gwan.se.reul|LTranslit=.gwan.se+.reul
 6	거의	거의	ADV	mag	_	7	advmod	_	Translit=.geo.yi|LTranslit=.geo.yi
 7	내지	내+지	VERB	pvg+ecx	_	0	root	_	Translit=.nae.ji|LTranslit=.nae+.ji
-8	않고	않+고	CCONJ	px+ecc	_	7	aux	_	Translit=.anh.go|LTranslit=.anh+.go
+8	않고	않	AUX	px+ecc	_	7	aux	_	OrigLemma=않+고|Translit=.anh.go|LTranslit=.anh
 9	자기	자기	PRON	npp	_	10	compound	_	Translit=.ja.gi|LTranslit=.ja.gi
 10	나라	나라	NOUN	ncn	_	11	compound	_	Translit=.na.ra|LTranslit=.na.ra
 11	상품을	상품+을	NOUN	ncn+jco	_	13	obj	_	Translit=.sang.pum.eul|LTranslit=.sang.pum+.eul
@@ -51,7 +51,7 @@
 8	관세를	관세+를	NOUN	ncn+jco	_	10	obj	_	Translit=.gwan.se.reul|LTranslit=.gwan.se+.reul
 9	거의	거의	ADV	mag	_	10	advmod	_	Translit=.geo.yi|LTranslit=.geo.yi
 10	물지	물+지	VERB	pvg+ecx	_	0	root	_	Translit=.mul.ji|LTranslit=.mul+.ji
-11	않고	않+고	CCONJ	px+ecc	_	10	aux	_	Translit=.anh.go|LTranslit=.anh+.go
+11	않고	않	AUX	px+ecc	_	10	aux	_	OrigLemma=않+고|Translit=.anh.go|LTranslit=.anh
 12	자기	자기	PRON	npp	_	13	compound	_	Translit=.ja.gi|LTranslit=.ja.gi
 13	나라	나라	NOUN	ncn	_	14	compound	_	Translit=.na.ra|LTranslit=.na.ra
 14	상품을	상품+을	NOUN	ncn+jco	_	15	obj	_	Translit=.sang.pum.eul|LTranslit=.sang.pum+.eul
@@ -221,7 +221,7 @@
 4	있으면서	있	AUX	px+ecc	_	3	aux	_	OrigLemma=있+으면서|Translit=.iss.eu.myeon.seo|LTranslit=.iss
 5	세금을	세금+을	NOUN	ncn+jco	_	6	obj	_	Translit=.se.geum.eul|LTranslit=.se.geum+.eul
 6	내지	내+지	VERB	pvg+ecx	_	3	conj	_	Translit=.nae.ji|LTranslit=.nae+.ji
-7	않던	않+더+ㄴ	AUX	px+ep+etm	_	6	aux	_	Translit=.anh.deon|LTranslit=.anh+.deo+ㄴ
+7	않던	않	AUX	px+ep+etm	_	6	aux	_	OrigLemma=않+더+ㄴ|Translit=.anh.deon|LTranslit=.anh
 8	양반	양반	NOUN	ncn	_	9	compound	_	Translit=.yang.ban|LTranslit=.yang.ban
 9	지주들에게	지주+들+에게	ADV	ncn+xsn+jca	_	11	iobj	_	Translit=.ji.ju.deul.e.ge|LTranslit=.ji.ju+.deul+.e.ge
 10	세금을	세금+을	NOUN	ncn+jco	_	11	obj	_	Translit=.se.geum.eul|LTranslit=.se.geum+.eul
@@ -245,7 +245,7 @@
 5	동안	동안	NOUN	ncn	_	7	obl	_	Translit=.dong.an|LTranslit=.dong.an
 6	군포를	군포+를	NOUN	ncn+jco	_	7	obj	_	Translit=.gun.po.reul|LTranslit=.gun.po+.reul
 7	물지	물+지	VERB	pvg+ecx	_	9	acl	_	Translit=.mul.ji|LTranslit=.mul+.ji
-8	않았던	않+았더+ㄴ	AUX	px+ep+etm	_	7	aux	_	Translit=.anh.ass.deon|LTranslit=.anh+.ass.deo+ㄴ
+8	않았던	않	AUX	px+ep+etm	_	7	aux	_	OrigLemma=않+았더+ㄴ|Translit=.anh.ass.deon|LTranslit=.anh
 9	양반에게도	양반+에게+도	ADV	ncn+jca+jxc	_	11	advcl	_	Translit=.yang.ban.e.ge.do|LTranslit=.yang.ban+.e.ge+.do
 10	국방비를	국방비+를	NOUN	ncn+jco	_	11	obj	_	Translit=.gug.bang.bi.reul|LTranslit=.gug.bang.bi+.reul
 11	내게	내+게	VERB	pvg+ecx	_	0	root	_	Translit=.nae.ge|LTranslit=.nae+.ge
@@ -499,7 +499,7 @@
 7	분량도	분량+도	ADV	ncn+jxc	_	9	advcl	_	Translit=.bun.ryang.do|LTranslit=.bun.ryang+.do
 8	제대로	제대로	ADV	mag	_	9	advmod	_	Translit=.je.dae.ro|LTranslit=.je.dae.ro
 9	채워지지	채우+어+지+지	AUX	pvg+ecx+px+ecx	_	12	ccomp	_	Translit=.chae.weo.ji.ji|LTranslit=.chae.u+.eo+.ji+.ji
-10	않았고	않+았+고	SCONJ	px+ep+ecs	_	9	aux	_	Translit=.anh.ass.go|LTranslit=.anh+.ass+.go
+10	않았고	않	AUX	px+ep+ecs	_	9	aux	_	OrigLemma=않+았+고|Translit=.anh.ass.go|LTranslit=.anh
 11	겨까지	겨+까지	ADV	ncn+jxc	_	12	advcl	_	Translit=.gyeo.gga.ji|LTranslit=.gyeo+.gga.ji
 12	섞여	섞이+어	VERB	pvg+ecx	_	0	root	_	Translit=.seogg.yeo|LTranslit=.seogg.i+.eo
 13	있었다	있	AUX	px+ep+ef	_	12	aux	_	OrigLemma=있+었+다|SpaceAfter=No|Translit=.iss.eoss.da|LTranslit=.iss
@@ -772,7 +772,7 @@
 3	일으키는	일으키+는	VERB	pvg+etm	_	4	acl	_	Translit=.il.eu.ki.neun|LTranslit=.il.eu.ki+.neun
 4	일이	일+이	NOUN	ncpa+jcs	_	5	nsubj	_	Translit=.il.i|LTranslit=.il+.i
 5	순탄하지만은	순탄+하+지+만은	NOUN	ncps+xsm+ecx+jxt	_	0	root	_	Translit=.sun.tan.ha.ji.man.eun|LTranslit=.sun.tan+.ha+.ji+.man.eun
-6	않았다	않+았+다	AUX	px+ep+ef	_	5	aux	_	SpaceAfter=No|Translit=.anh.ass.da|LTranslit=.anh+.ass+.da
+6	않았다	않	AUX	px+ep+ef	_	5	aux	_	OrigLemma=않+았+다|SpaceAfter=No|Translit=.anh.ass.da|LTranslit=.anh
 7	.	.	PUNCT	sf	_	6	punct	_	Translit=.|LTranslit=.
 
 # sent_id = M2TA_070-s51
@@ -1977,7 +1977,7 @@
 9	현실적인	현실+적+이+ㄴ	VERB	ncn+xsn+jp+etm	_	10	acl	_	Translit=.hyeon.sil.jeog.in|LTranslit=.hyeon.sil+.jeog+.i+ㄴ
 10	여건이	여건+이	NOUN	ncn+jcs	_	11	nsubj	_	Translit=.yeo.geon.i|LTranslit=.yeo.geon+.i
 11	뒷받침되지	뒷받침+되+지	VERB	ncpa+xsv+ecx	_	0	root	_	Translit=.dwis.bad.chim.doe.ji|LTranslit=.dwis.bad.chim+.doe+.ji
-12	않기	않+기	AUX	px+etn	_	11	aux	_	Translit=.anh.gi|LTranslit=.anh+.gi
+12	않기	않	AUX	px+etn	_	11	aux	_	OrigLemma=않+기|Translit=.anh.gi|LTranslit=.anh
 13	때문이다	때문+이+다	VERB	nbn+jp+ef	_	11	aux	_	SpaceAfter=No|Translit=.ddae.mun.i.da|LTranslit=.ddae.mun+.i+.da
 14	.	.	PUNCT	sf	_	13	punct	_	Translit=.|LTranslit=.
 
@@ -1987,7 +1987,7 @@
 1	특히	특히	ADV	mag	_	5	advmod	_	Translit=.teug.hi|LTranslit=.teug.hi
 2	충무로의	충무로+의	PROPN	nq+jcm	_	5	nmod	_	Translit=.chung.mu.ro.yi|LTranslit=.chung.mu.ro+.yi
 3	보이지	보이+지	VERB	pvg+ecx	_	5	acl	_	Translit=.bo.i.ji|LTranslit=.bo.i+.ji
-4	않는	않+는	AUX	px+etm	_	3	aux	_	Translit=.anh.neun|LTranslit=.anh+.neun
+4	않는	않	AUX	px+etm	_	3	aux	_	OrigLemma=않+는|Translit=.anh.neun|LTranslit=.anh
 5	스태프들	스태프+들	NOUN	ncn+xsn	_	0	root	_	SpaceAfter=No|Translit=.seu.tae.peu.deul|LTranslit=.seu.tae.peu+.deul
 6	.	.	PUNCT	sf	_	5	punct	_	Translit=.|LTranslit=.
 
@@ -2089,7 +2089,7 @@
 1	노엘봉은	노엘봉+은	PROPN	nq+jxt	_	3	dislocated	_	Translit=.no.el.bong.eun|LTranslit=.no.el.bong+.eun
 2	세종기지에서는	세종+기지+에서+는	PROPN	nq+ncn+jca+jxt	_	3	dislocated	_	Translit=.se.jong.gi.ji.e.seo.neun|LTranslit=.se.jong+.gi.ji+.e.seo+.neun
 3	보이지	보이+지	VERB	pvg+ecx	_	0	root	_	Translit=.bo.i.ji|LTranslit=.bo.i+.ji
-4	않고	않+고	CCONJ	px+ecc	_	3	aux	_	SpaceAfter=No|Translit=.anh.go|LTranslit=.anh+.go
+4	않고	않	AUX	px+ecc	_	3	aux	_	OrigLemma=않+고|SpaceAfter=No|Translit=.anh.go|LTranslit=.anh
 5	,	,	PUNCT	sp	_	12	punct	_	Translit=,|LTranslit=,
 6	기지에서	기지+에서	ADV	ncn+jca	_	7	advcl	_	Translit=.gi.ji.e.seo|LTranslit=.gi.ji+.e.seo
 7	보이는	보이+는	VERB	pvg+etm	_	10	acl	_	Translit=.bo.i.neun|LTranslit=.bo.i+.neun
@@ -2186,7 +2186,7 @@
 4	쌓여	쌓이+어	SCONJ	pvg+ecs	_	9	ccomp	_	Translit=.ssah.yeo|LTranslit=.ssah.i+.eo
 5	상식으로	상식+으로	ADV	ncn+jca	_	6	advcl	_	Translit=.sang.sig.eu.ro|LTranslit=.sang.sig+.eu.ro
 6	이해되지	이해+되+지	VERB	ncpa+xsv+ecx	_	8	acl	_	Translit=.i.hae.doe.ji|LTranslit=.i.hae+.doe+.ji
-7	않는	않+는	AUX	px+etm	_	6	aux	_	Translit=.anh.neun|LTranslit=.anh+.neun
+7	않는	않	AUX	px+etm	_	6	aux	_	OrigLemma=않+는|Translit=.anh.neun|LTranslit=.anh
 8	표석들이	표석+들+이	NOUN	ncn+xsn+jcs	_	9	nsubj	_	Translit=.pyo.seog.deul.i|LTranslit=.pyo.seog+.deul+.i
 9	분포하고	분포+하+고	VERB	ncpa+xsv+ecx	_	0	root	_	Translit=.bun.po.ha.go|LTranslit=.bun.po+.ha+.go
 10	있다	있	AUX	px+ef	_	9	aux	_	OrigLemma=있+다|SpaceAfter=No|Translit=.iss.da|LTranslit=.iss
@@ -2525,7 +2525,7 @@
 4	기름냄새나	기름+냄새+나	CCONJ	ncn+ncn+jcj	_	6	advcl	_	Translit=.gi.reum.naem.sae.na|LTranslit=.gi.reum+.naem.sae+.na
 5	소음도	소음+도	ADV	ncn+jxc	_	4	conj	_	Translit=.so.eum.do|LTranslit=.so.eum+.do
 6	나지	나+지	VERB	pvg+ecx	_	0	root	_	Translit=.na.ji|LTranslit=.na+.ji
-7	않아서	않+아서	SCONJ	px+ecs	_	6	aux	_	Translit=.anh.a.seo|LTranslit=.anh+.a.seo
+7	않아서	않	AUX	px+ecs	_	6	aux	_	OrigLemma=않+아서|Translit=.anh.a.seo|LTranslit=.anh
 8	거주환경은	거주+환경+은	NOUN	ncpa+ncn+jxt	_	10	dislocated	_	Translit=.geo.ju.hwan.gyeong.eun|LTranslit=.geo.ju+.hwan.gyeong+.eun
 9	더욱	더욱	ADV	mag	_	10	advmod	_	Translit=.deo.ug|LTranslit=.deo.ug
 10	좋아졌다	좋+아+지+었+다	AUX	paa+ecx+px+ep+ef	_	6	conj	_	SpaceAfter=No|Translit=.joh.a.jyeoss.da|LTranslit=.joh+.a+.ji+.eoss+.da
@@ -3616,12 +3616,12 @@
 2	오전은	오전+은	NOUN	ncn+jxt	_	4	dislocated	_	Translit=.o.jeon.eun|LTranslit=.o.jeon+.eun
 3	날씨가	날씨+가	NOUN	ncn+jcs	_	4	nsubj	_	Translit=.nal.ssi.ga|LTranslit=.nal.ssi+.ga
 4	좋지	좋+지	ADJ	paa+ecx	_	7	amod	_	Translit=.joh.ji|LTranslit=.joh+.ji
-5	않아	않+아	SCONJ	px+ecs	_	4	aux	_	Translit=.anh.a|LTranslit=.anh+.a
+5	않아	않	AUX	px+ecs	_	4	aux	_	OrigLemma=않+아|Translit=.anh.a|LTranslit=.anh
 6	비행기가	비행기+가	NOUN	ncn+jcs	_	7	nsubj	_	Translit=.bi.haeng.gi.ga|LTranslit=.bi.haeng.gi+.ga
 7	들어올	들+어+오+ㄹ	AUX	pvg+ecx+px+etm	_	0	root	_	Translit=.deul.eo.ol|LTranslit=.deul+.eo+.o+ㄹ
 8	것	것	NOUN	nbn	_	7	aux	_	Translit=.geos|LTranslit=.geos
 9	같지가	같+지+가	NOUN	paa+ecx+jcs	_	8	fixed	_	Translit=.gat.ji.ga|LTranslit=.gat+.ji+.ga
-10	않았다	않+았+다	AUX	px+ep+ef	_	7	aux	_	SpaceAfter=No|Translit=.anh.ass.da|LTranslit=.anh+.ass+.da
+10	않았다	않	AUX	px+ep+ef	_	7	aux	_	OrigLemma=않+았+다|SpaceAfter=No|Translit=.anh.ass.da|LTranslit=.anh
 11	.	.	PUNCT	sf	_	10	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0010-s94
@@ -3848,7 +3848,7 @@
 4	무료이지만	무료+이+지만	SCONJ	ncn+jp+ecs	_	9	ccomp	_	Translit=.mu.ryo.i.ji.man|LTranslit=.mu.ryo+.i+.ji.man
 5	칠레공항호텔에서는	칠레+공항+호텔+는	PROPN	nq+ncn+ncn+jxt	_	9	dislocated	_	Translit=.chil.re.gong.hang.ho.tel.e.seo.neun|LTranslit=.chil.re+.gong.hang+.ho.tel+.neun
 6	적지	적+지	ADJ	paa+ecx	_	8	amod	_	Translit=.jeog.ji|LTranslit=.jeog+.ji
-7	않은	않+ㄴ	AUX	px+etm	_	6	aux	_	Translit=.anh.eun|LTranslit=.anh+ㄴ
+7	않은	않	AUX	px+etm	_	6	aux	_	OrigLemma=않+ㄴ|Translit=.anh.eun|LTranslit=.anh
 8	숙식비를	숙식비+를	NOUN	ncn+jco	_	9	obj	_	Translit=.sug.sig.bi.reul|LTranslit=.sug.sig.bi+.reul
 9	지불해야	지불+하+어야	VERB	ncpa+xsv+ecx	_	0	root	_	Translit=.ji.bul.hae.ya|LTranslit=.ji.bul+.ha+.eo.ya
 10	한다	하	AUX	px+ef	_	9	aux	_	OrigLemma=하+ㄴ다|SpaceAfter=No|Translit=.han.da|LTranslit=.ha
@@ -4133,7 +4133,7 @@
 2	마쉬기지의	마쉬기지+의	PROPN	nq+jcm	_	3	nmod	_	Translit=.ma.swi.gi.ji.yi|LTranslit=.ma.swi.gi.ji+.yi
 3	중요성은	중요성+은	NOUN	ncn+jxt	_	4	dislocated	_	Translit=.jung.yo.seong.eun|LTranslit=.jung.yo.seong+.eun
 4	높지	높+지	ADJ	paa+ecx	_	10	amod	_	Translit=.nop.ji|LTranslit=.nop+.ji
-5	않아	않+아	SCONJ	px+ecs	_	4	aux	_	Translit=.anh.a|LTranslit=.anh+.a
+5	않아	않	AUX	px+ecs	_	4	aux	_	OrigLemma=않+아|Translit=.anh.a|LTranslit=.anh
 6	남극에	남극+에	ADV	nq+jca	_	7	obl	_	Translit=.nam.geug.e|LTranslit=.nam.geug+.e
 7	근무하는	근무+하+는	VERB	ncpa+xsv+etm	_	8	acl	_	Translit=.geun.mu.ha.neun|LTranslit=.geun.mu+.ha+.neun
 8	칠레공군들도	칠레+공군+들+도	ADV	nq+ncn+xsn+jxc	_	10	advcl	_	Translit=.chil.re.gong.gun.deul.do|LTranslit=.chil.re+.gong.gun+.deul+.do
@@ -4306,7 +4306,7 @@
 9	경우	경우	NOUN	ncn	_	11	obl	_	Translit=.gyeong.u|LTranslit=.gyeong.u
 10	운임도	운임+도	ADV	ncn+jxc	_	11	advcl	_	Translit=.un.im.do|LTranslit=.un.im+.do
 11	받지	받+지	VERB	pvg+ecx	_	13	acl	_	Translit=.bad.ji|LTranslit=.bad+.ji
-12	않는	않+는	AUX	px+etm	_	11	aux	_	Translit=.anh.neun|LTranslit=.anh+.neun
+12	않는	않	AUX	px+etm	_	11	aux	_	OrigLemma=않+는|Translit=.anh.neun|LTranslit=.anh
 13	것으로	것+으로	ADV	nbn+jca	_	14	advcl	_	Translit=.geos.eu.ro|LTranslit=.geos+.eu.ro
 14	알려져	알리+어+지+어	AUX	pvg+ecx+px+ecx	_	0	root	_	Translit=.al.ryeo.jyeo|LTranslit=.al.ri+.eo+.ji+.eo
 15	있다	있	AUX	px+ef	_	14	aux	_	OrigLemma=있+다|SpaceAfter=No|Translit=.iss.da|LTranslit=.iss
@@ -4350,7 +4350,7 @@
 7	비싸면	비싸+면	SCONJ	paa+ecs	_	9	xcomp	_	Translit=.bi.ssa.myeon|LTranslit=.bi.ssa+.myeon
 8	이용도	이용+도	ADV	ncpa+jxc	_	9	advcl	_	Translit=.i.yong.do|LTranslit=.i.yong+.do
 9	쉽지	쉽+지	ADJ	paa+ecx	_	11	amod	_	Translit=.swib.ji|LTranslit=.swib+.ji
-10	않다는	않+다는	AUX	px+etm	_	9	aux	_	Translit=.anh.da.neun|LTranslit=.anh+.da.neun
+10	않다는	않	AUX	px+etm	_	9	aux	_	OrigLemma=않+다는|Translit=.anh.da.neun|LTranslit=.anh
 11	생각이	생각+이	NOUN	ncpa+jcs	_	12	nsubj	_	Translit=.saeng.gag.i|LTranslit=.saeng.gag+.i
 12	든다	들+ㄴ다	VERB	pvg+ef	_	0	root	_	SpaceAfter=No|Translit=.deun.da|LTranslit=.deul+ㄴ.da
 13	.	.	PUNCT	sf	_	12	punct	_	Translit=.|LTranslit=.
@@ -4764,7 +4764,7 @@
 5	덜	덜	ADV	mag	_	4	advmod	_	Translit=.deol|LTranslit=.deol
 6	위험하나	위험+하+나	SCONJ	ncps+xsm+ecs	_	11	xcomp	_	Translit=.wi.heom.ha.na|LTranslit=.wi.heom+.ha+.na
 7	보이지	보이+지	VERB	pvg+ecx	_	9	acl	_	Translit=.bo.i.ji|LTranslit=.bo.i+.ji
-8	않는	않+는	AUX	px+etm	_	7	aux	_	Translit=.anh.neun|LTranslit=.anh+.neun
+8	않는	않	AUX	px+etm	_	7	aux	_	OrigLemma=않+는|Translit=.anh.neun|LTranslit=.anh
 9	빙산이	빙산+이	NOUN	ncn+jcs	_	11	nsubj	_	Translit=.bing.san.i|LTranslit=.bing.san+.i
 10	더욱	더욱	ADV	mag	_	11	advmod	_	Translit=.deo.ug|LTranslit=.deo.ug
 11	위험한	위험+하+ㄴ	VERB	ncps+xsm+etm	_	0	root	_	Translit=.wi.heom.han|LTranslit=.wi.heom+.ha+ㄴ
@@ -4827,7 +4827,7 @@
 12	남극의	남극+의	PROPN	nq+jcm	_	13	nmod	_	Translit=.nam.geug.yi|LTranslit=.nam.geug+.yi
 13	얼음만큼	얼음+만큼	ADV	ncn+jca	_	14	advcl	_	Translit=.eol.eum.man.keum|LTranslit=.eol.eum+.man.keum
 14	투명하지는	투명+하+지+는	NOUN	ncn+xsv+ecx+jxt	_	16	ccomp	_	Translit=.tu.myeong.ha.ji.neun|LTranslit=.tu.myeong+.ha+.ji+.neun
-15	않으리라	않+으리라	AUX	px+ef	_	14	aux	_	Translit=.anh.eu.ri.ra|LTranslit=.anh+.eu.ri.ra
+15	않으리라	않	AUX	px+ef	_	14	aux	_	OrigLemma=않+으리라|Translit=.anh.eu.ri.ra|LTranslit=.anh
 16	생각된다	생각+되+ㄴ다	VERB	ncpa+xsv+ef	_	0	root	_	SpaceAfter=No|Translit=.saeng.gag.doen.da|LTranslit=.saeng.gag+.doe+ㄴ.da
 17	.	.	PUNCT	sf	_	16	punct	_	Translit=.|LTranslit=.
 
@@ -5764,7 +5764,7 @@
 2	환절기에는	환절기+에+는	NOUN	ncn+jca+jxt	_	4	dislocated	_	Translit=.hwan.jeol.gi.e.neun|LTranslit=.hwan.jeol.gi+.e+.neun
 3	기상이	기상+이	NOUN	ncn+jcs	_	4	nsubj	_	Translit=.gi.sang.i|LTranslit=.gi.sang+.i
 4	좋지	좋+지	ADJ	paa+ecx	_	7	amod	_	Translit=.joh.ji|LTranslit=.joh+.ji
-5	않듯이	않+듯이	SCONJ	px+ecs	_	4	aux	_	Translit=.anh.deus.i|LTranslit=.anh+.deus.i
+5	않듯이	않	AUX	px+ecs	_	4	aux	_	OrigLemma=않+듯이|Translit=.anh.deus.i|LTranslit=.anh
 6	남극도	남극+도	ADV	nq+jxc	_	7	advcl	_	Translit=.nam.geug.do|LTranslit=.nam.geug+.do
 7	마찬가지이다	마찬가지+이+다	VERB	ncn+jp+ef	_	0	root	_	SpaceAfter=No|Translit=.ma.chan.ga.ji.i.da|LTranslit=.ma.chan.ga.ji+.i+.da
 8	.	.	PUNCT	sf	_	7	punct	_	Translit=.|LTranslit=.
@@ -5799,7 +5799,7 @@
 8	수미터	수미터	NOUN	ncn	_	9	compound	_	Translit=.su.mi.teo|LTranslit=.su.mi.teo
 9	앞도	앞+도	ADV	ncn+jxc	_	10	advcl	_	Translit=.ap.do|LTranslit=.ap+.do
 10	보이지	보이+지	VERB	pvg+ecx	_	21	ccomp	_	Translit=.bo.i.ji|LTranslit=.bo.i+.ji
-11	않으며	않+으며	SCONJ	px+ecs	_	10	aux	_	SpaceAfter=No|Translit=.anh.eu.myeo|LTranslit=.anh+.eu.myeo
+11	않으며	않	AUX	px+ecs	_	10	aux	_	OrigLemma=않+으며|SpaceAfter=No|Translit=.anh.eu.myeo|LTranslit=.anh
 12	,	,	PUNCT	sp	_	11	punct	_	Translit=,|LTranslit=,
 13	꼭꼭	꼭꼭	ADV	mag	_	14	advmod	_	Translit=.ggog.ggog|LTranslit=.ggog.ggog
 14	여민	여미+ㄴ	VERB	pvg+etm	_	16	acl	_	Translit=.yeo.min|LTranslit=.yeo.mi+ㄴ
@@ -6265,7 +6265,7 @@
 14	날아	날+아	VERB	pvg+ecx	_	11	conj	_	Translit=.nal.a|LTranslit=.nal+.a
 15	갔는지	가+ㅆ+는지	SCONJ	px+ep+ecs	_	14	aux	_	Translit=.gass.neun.ji|LTranslit=.ga+ㅆ+.neun.ji
 16	보이지	보이+지	VERB	pvg+ecx	_	0	root	_	Translit=.bo.i.ji|LTranslit=.bo.i+.ji
-17	않는다	않+는다	AUX	px+ef	_	16	aux	_	SpaceAfter=No|Translit=.anh.neun.da|LTranslit=.anh+.neun.da
+17	않는다	않	AUX	px+ef	_	16	aux	_	OrigLemma=않+는다|SpaceAfter=No|Translit=.anh.neun.da|LTranslit=.anh
 18	.	.	PUNCT	sf	_	17	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0010-s248
@@ -6375,7 +6375,7 @@
 2	바람도	바람+도	ADV	ncn+jxc	_	4	advcl	_	Translit=.ba.ram.do|LTranslit=.ba.ram+.do
 3	그렇게	그렇게	ADV	mad	_	4	advmod	_	Translit=.geu.reoh.ge|LTranslit=.geu.reoh.ge
 4	상하지	상하+지	VERB	pvg+ecx	_	8	ccomp	_	Translit=.sang.ha.ji|LTranslit=.sang.ha+.ji
-5	않아	않+아	SCONJ	px+ecs	_	4	aux	_	Translit=.anh.a|LTranslit=.anh+.a
+5	않아	않	AUX	px+ecs	_	4	aux	_	OrigLemma=않+아|Translit=.anh.a|LTranslit=.anh
 6	견딜	견디+ㄹ	VERB	pvg+etm	_	7	acl	_	Translit=.gyeon.dil|LTranslit=.gyeon.di+ㄹ
 7	만	만	NOUN	nbn	_	8	obl	_	OrigDeprel=mark|Translit=.man|LTranslit=.man
 8	하다	하+다	VERB	pvg+ef	_	0	root	_	SpaceAfter=No|Translit=.ha.da|LTranslit=.ha+.da
@@ -6551,7 +6551,7 @@
 7	갇힌	갇히+ㄴ	VERB	pvg+etm	_	8	acl	_	Translit=.gad.hin|LTranslit=.gad.hi+ㄴ
 8	바다도	바다+도	ADV	ncn+jxc	_	9	advcl	_	Translit=.ba.da.do|LTranslit=.ba.da+.do
 9	심상치	심상+하+지	VERB	ncps+xsm+ecx	_	0	root	_	Translit=.sim.sang.chi|LTranslit=.sim.sang+.ha+.ji
-10	않다	않+다	AUX	px+ef	_	9	aux	_	SpaceAfter=No|Translit=.anh.da|LTranslit=.anh+.da
+10	않다	않	AUX	px+ef	_	9	aux	_	OrigLemma=않+다|SpaceAfter=No|Translit=.anh.da|LTranslit=.anh
 11	.	.	PUNCT	sf	_	10	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0010-s266
@@ -6685,7 +6685,7 @@
 12	유빙을	유빙+을	NOUN	ncn+jco	_	14	obj	_	Translit=.yu.bing.eul|LTranslit=.yu.bing+.eul
 13	다	다	ADV	mag	_	14	advmod	_	Translit=.da|LTranslit=.da
 14	몰아내지	몰+아+내+지	AUX	pvg+ecx+px+ecx	_	16	acl	_	Translit=.mol.a.nae.ji|LTranslit=.mol+.a+.nae+.ji
-15	않는	않+는	AUX	px+etm	_	14	aux	_	Translit=.anh.neun|LTranslit=.anh+.neun
+15	않는	않	AUX	px+etm	_	14	aux	_	OrigLemma=않+는|Translit=.anh.neun|LTranslit=.anh
 16	한	한	NOUN	nbn	_	19	obl	_	Translit=.han|LTranslit=.han
 17	저	저	DET	mmd	_	18	det	_	Translit=.jeo|LTranslit=.jeo
 18	상태로	상태+로	ADV	ncn+jca	_	19	advcl	_	Translit=.sang.tae.ro|LTranslit=.sang.tae+.ro
@@ -6769,7 +6769,7 @@
 5	앞서가던	앞서가+던	VERB	pvg+etm	_	6	acl	_	Translit=.ap.seo.ga.deon|LTranslit=.ap.seo.ga+.deon
 6	펭귄이	펭귄+이	NOUN	ncn+jcs	_	11	nsubj	_	Translit=.peng.gwin.i|LTranslit=.peng.gwin+.i
 7	얼지	얼+지	VERB	pvg+ecx	_	9	acl	_	Translit=.eol.ji|LTranslit=.eol+.ji
-8	않은	않+ㄴ	AUX	px+etm	_	7	aux	_	Translit=.anh.eun|LTranslit=.anh+ㄴ
+8	않은	않	AUX	px+etm	_	7	aux	_	OrigLemma=않+ㄴ|Translit=.anh.eun|LTranslit=.anh
 9	부분으로	부분+으로	ADV	ncn+jca	_	10	advcl	_	Translit=.bu.bun.eu.ro|LTranslit=.bu.bun+.eu.ro
 10	들어갔다	들어가+ㅆ+다	SCONJ	pvg+ep+ecs	_	11	ccomp	_	Translit=.deul.eo.gass.da|LTranslit=.deul.eo.ga+ㅆ+.da
 11	나오니까	나오+니까	SCONJ	pvg+ecs	_	20	ccomp	_	Translit=.na.o.ni.gga|LTranslit=.na.o+.ni.gga
@@ -6949,7 +6949,7 @@
 6	산을	산+을	NOUN	ncn+jco	_	7	obj	_	Translit=.san.eul|LTranslit=.san+.eul
 7	넘어	넘+어	VERB	pvg+ecx	_	0	root	_	Translit=.neom.eo|LTranslit=.neom+.eo
 8	오지	오+지	AUX	px+ecx	_	7	aux	_	Translit=.o.ji|LTranslit=.o+.ji
-9	않고	않+고	CCONJ	px+ecc	_	7	aux	_	Translit=.anh.go|LTranslit=.anh+.go
+9	않고	않	AUX	px+ecc	_	7	aux	_	OrigLemma=않+고|Translit=.anh.go|LTranslit=.anh
 10	해안을	해안+을	NOUN	ncn+jco	_	11	obj	_	Translit=.hae.an.eul|LTranslit=.hae.an+.eul
 11	따라	따르+아	SCONJ	pvg+ecs	_	12	ccomp	_	Translit=.dda.ra|LTranslit=.dda.reu+.a
 12	걸어왔을	걷+어+오+았+ㄹ	AUX	pvg+ecx+px+ep+etm	_	7	conj	_	Translit=.geol.eo.wass.eul|LTranslit=.geod+.eo+.o+.ass+ㄹ
@@ -7245,7 +7245,7 @@
 4	겨울에	겨울+에	ADV	ncn+jca	_	6	obl	_	Translit=.gyeo.ul.e|LTranslit=.gyeo.ul+.e
 5	바다가	바다+가	NOUN	ncn+jcs	_	6	nsubj	_	Translit=.ba.da.ga|LTranslit=.ba.da+.ga
 6	얼지	얼+지	VERB	pvg+ecx	_	8	ccomp	_	Translit=.eol.ji|LTranslit=.eol+.ji
-7	않으면	않+으면	SCONJ	px+ecs	_	6	aux	_	Translit=.anh.eu.myeon|LTranslit=.anh+.eu.myeon
+7	않으면	않	AUX	px+ecs	_	6	aux	_	OrigLemma=않+으면|Translit=.anh.eu.myeon|LTranslit=.anh
 8	볼	보+ㄹ	VERB	pvg+etm	_	13	ccomp	_	Translit=.bol|LTranslit=.bo+ㄹ
 9	수	수	NOUN	nbn	_	8	aux	_	Translit=.su|LTranslit=.su
 10	없는	없+는	ADJ	paa+etm	_	9	fixed	_	Translit=.eobs.neun|LTranslit=.eobs+.neun
@@ -7528,7 +7528,7 @@
 4	새끼들은	새끼+들+은	NOUN	ncn+xsn+jxt	_	6	dislocated	_	Translit=.sae.ggi.deul.eun|LTranslit=.sae.ggi+.deul+.eun
 5	아직	아직	ADV	mag	_	6	advmod	_	Translit=.a.jig|LTranslit=.a.jig
 6	태어나지	태어나+지	VERB	pvg+ecx	_	3	conj	_	Translit=.tae.eo.na.ji|LTranslit=.tae.eo.na+.ji
-7	않았다	않+았+다	AUX	px+ep+ef	_	6	aux	_	SpaceAfter=No|Translit=.anh.ass.da|LTranslit=.anh+.ass+.da
+7	않았다	않	AUX	px+ep+ef	_	6	aux	_	OrigLemma=않+았+다|SpaceAfter=No|Translit=.anh.ass.da|LTranslit=.anh
 8	.	.	PUNCT	sf	_	7	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0010-s325
@@ -8111,7 +8111,7 @@
 1	여름에도	여름+에+도	ADV	ncn+jca+jxc	_	3	advcl	_	Translit=.yeo.reum.e.do|LTranslit=.yeo.reum+.e+.do
 2	땅이	땅+이	NOUN	ncn+jcs	_	3	nsubj	_	Translit=.ddang.i|LTranslit=.ddang+.i
 3	노출되지	노출+되+지	VERB	ncpa+xsv+ecx	_	6	acl	_	Translit=.no.chul.doe.ji|LTranslit=.no.chul+.doe+.ji
-4	않는	않+는	AUX	px+etm	_	3	aux	_	Translit=.anh.neun|LTranslit=.anh+.neun
+4	않는	않	AUX	px+etm	_	3	aux	_	OrigLemma=않+는|Translit=.anh.neun|LTranslit=.anh
 5	빙원이나	빙원+이나	CCONJ	ncn+jcj	_	9	dislocated	_	Translit=.bing.weon.i.na|LTranslit=.bing.weon+.i.na
 6	빙붕지역은	빙붕+지역+은	NOUN	ncn+ncn+jxt	_	5	conj	_	Translit=.bing.bung.ji.yeog.eun|LTranslit=.bing.bung+.ji.yeog+.eun
 7	말할	말하+ㄹ	VERB	pvg+etm	_	8	acl	_	Translit=.mal.hal|LTranslit=.mal.ha+ㄹ
@@ -8289,7 +8289,7 @@
 5	것이	것+이	NOUN	nbn+jcs	_	11	nsubj	_	Translit=.geos.i|LTranslit=.geos+.i
 6	밀물때	밀물+때	NOUN	ncn+ncn	_	7	dep	_	Translit=.mil.mul.ddae|LTranslit=.mil.mul+.ddae
 7	녹지	녹+지	VERB	pvg+ecx	_	0	root	_	Translit=.nog.ji|LTranslit=.nog+.ji
-8	않고	않+고	CCONJ	px+ecc	_	7	aux	_	Translit=.anh.go|LTranslit=.anh+.go
+8	않고	않	AUX	px+ecc	_	7	aux	_	OrigLemma=않+고|Translit=.anh.go|LTranslit=.anh
 9	계속	계속	ADV	mag	_	11	advmod	_	Translit=.gye.sog|LTranslit=.gye.sog
 10	얼어	얼+어	SCONJ	pvg+ecs	_	11	ccomp	_	Translit=.eol.eo|LTranslit=.eol+.eo
 11	나가는	나가+는	VERB	pvg+etm	_	7	conj	_	Translit=.na.ga.neun|LTranslit=.na.ga+.neun
@@ -8330,7 +8330,7 @@
 1	이어서	잇+어서	SCONJ	pvg+ecs	_	9	ccomp	_	Translit=.i.eo.seo|LTranslit=.is+.eo.seo
 2	유빙으로	유빙+으로	ADV	ncn+jca	_	3	advcl	_	Translit=.yu.bing.eu.ro|LTranslit=.yu.bing+.eu.ro
 3	덮이지	덮이+지	VERB	pvg+ecx	_	7	acl	_	Translit=.deop.i.ji|LTranslit=.deop.i+.ji
-4	않은	않+ㄴ	AUX	px+etm	_	3	aux	_	Translit=.anh.eun|LTranslit=.anh+ㄴ
+4	않은	않	AUX	px+etm	_	3	aux	_	OrigLemma=않+ㄴ|Translit=.anh.eun|LTranslit=.anh
 5	조금	조금	ADV	mag	_	6	advmod	_	Translit=.jo.geum|LTranslit=.jo.geum
 6	남은	남+ㄴ	ADJ	paa+etm	_	7	amod	_	Translit=.nam.eun|LTranslit=.nam+ㄴ
 7	바다가	바다+가	NOUN	ncn+jcs	_	8	nsubj	_	Translit=.ba.da.ga|LTranslit=.ba.da+.ga
@@ -8834,7 +8834,7 @@
 # translit = .sul.jan.i .jun.bi.doe.ji .anh.a .maeg.ju .kaen.yi .wis.ma.gu.ri.reul .o.ryeo.nae.ja .hul.ryung.han .jan.i .man.deul.eo.jyeoss.da.
 1	술잔이	술잔+이	NOUN	ncn+jcs	_	2	nsubj	_	Translit=.sul.jan.i|LTranslit=.sul.jan+.i
 2	준비되지	준비+되+지	VERB	ncpa+xsv+ecx	_	7	ccomp	_	Translit=.jun.bi.doe.ji|LTranslit=.jun.bi+.doe+.ji
-3	않아	않+아	SCONJ	px+ecs	_	2	aux	_	Translit=.anh.a|LTranslit=.anh+.a
+3	않아	않	AUX	px+ecs	_	2	aux	_	OrigLemma=않+아|Translit=.anh.a|LTranslit=.anh
 4	맥주	맥주	NOUN	ncn	_	5	compound	_	Translit=.maeg.ju|LTranslit=.maeg.ju
 5	캔의	캔+의	NOUN	ncn+jcm	_	6	nmod	_	Translit=.kaen.yi|LTranslit=.kaen+.yi
 6	윗마구리를	윗마구리+를	NOUN	ncn+jco	_	7	obj	_	Translit=.wis.ma.gu.ri.reul|LTranslit=.wis.ma.gu.ri+.reul
@@ -8967,13 +8967,13 @@
 6	대원들도	대원+들+도	ADV	ncn+xsn+jxc	_	7	advcl	_	Translit=.dae.weon.deul.do|LTranslit=.dae.weon+.deul+.do
 7	있으나	있+으나	SCONJ	paa+ecs	_	11	xcomp	_	Translit=.iss.eu.na|LTranslit=.iss+.eu.na
 8	그렇지	그렇+지	VERB	pad+ecx	_	10	amod	_	Translit=.geu.reoh.ji|LTranslit=.geu.reoh+.ji
-9	않은	않+ㄴ	AUX	px+etm	_	8	aux	_	Translit=.anh.eun|LTranslit=.anh+ㄴ
+9	않은	않	AUX	px+etm	_	8	aux	_	OrigLemma=않+ㄴ|Translit=.anh.eun|LTranslit=.anh
 10	대원들도	대원+들+도	ADV	ncn+xsn+jxc	_	11	advcl	_	Translit=.dae.weon.deul.do|LTranslit=.dae.weon+.deul+.do
 11	있는지라	있+는지라	SCONJ	paa+ecs	_	14	xcomp	_	Translit=.iss.neun.ji.ra|LTranslit=.iss+.neun.ji.ra
 12	이런	이런	DET	mmd	_	13	det	_	Translit=.i.reon|LTranslit=.i.reon
 13	모임을	모임+을	NOUN	ncn+jco	_	14	obj	_	Translit=.mo.im.eul|LTranslit=.mo.im+.eul
 14	강요하지	강요+하+지	VERB	ncpa+xsv+ecx	_	0	root	_	Translit=.gang.yo.ha.ji|LTranslit=.gang.yo+.ha+.ji
-15	않았다	않+았+다	AUX	px+ep+ef	_	14	aux	_	SpaceAfter=No|Translit=.anh.ass.da|LTranslit=.anh+.ass+.da
+15	않았다	않	AUX	px+ep+ef	_	14	aux	_	OrigLemma=않+았+다|SpaceAfter=No|Translit=.anh.ass.da|LTranslit=.anh
 16	.	.	PUNCT	sf	_	15	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0010-s413
@@ -9337,7 +9337,7 @@
 6	무슨	무슨	DET	mmd	_	7	det	_	Translit=.mu.seun|LTranslit=.mu.seun
 7	이유에서인지	이유+에서+이+ㄴ지	SCONJ	ncn+jca+jp+ecs	_	8	ccomp	_	Translit=.i.yu.e.seo.in.ji|LTranslit=.i.yu+.e.seo+.i+ㄴ.ji
 8	보내지	보내+지	VERB	pvg+ecx	_	0	root	_	Translit=.bo.nae.ji|LTranslit=.bo.nae+.ji
-9	않기	않+기	AUX	px+etn	_	8	aux	_	Translit=.anh.gi|LTranslit=.anh+.gi
+9	않기	않	AUX	px+etn	_	8	aux	_	OrigLemma=않+기|Translit=.anh.gi|LTranslit=.anh
 10	때문이다	때문+이+다	VERB	nbn+jp+ef	_	8	aux	_	SpaceAfter=No|Translit=.ddae.mun.i.da|LTranslit=.ddae.mun+.i+.da
 11	.	.	PUNCT	sf	_	10	punct	_	Translit=.|LTranslit=.
 
@@ -9360,7 +9360,7 @@
 14	쉽게	쉽+게	SCONJ	paa+ecs	_	16	xcomp	_	Translit=.swib.ge|LTranslit=.swib+.ge
 15	기록이	기록+이	NOUN	ncpa+jcs	_	16	nsubj	_	Translit=.gi.rog.i|LTranslit=.gi.rog+.i
 16	깨지지	깨지+지	VERB	pvg+ecx	_	18	ccomp	_	Translit=.ggae.ji.ji|LTranslit=.ggae.ji+.ji
-17	않으리라	않+으리라	AUX	px+ef	_	16	aux	_	Translit=.anh.eu.ri.ra|LTranslit=.anh+.eu.ri.ra
+17	않으리라	않	AUX	px+ef	_	16	aux	_	OrigLemma=않+으리라|Translit=.anh.eu.ri.ra|LTranslit=.anh
 18	생각된다	생각+되+ㄴ다	VERB	ncpa+xsv+ef	_	0	root	_	SpaceAfter=No|Translit=.saeng.gag.doen.da|LTranslit=.saeng.gag+.doe+ㄴ.da
 19	.	.	PUNCT	sf	_	18	punct	_	Translit=.|LTranslit=.
 
@@ -9532,7 +9532,7 @@
 2	펭귄은	펭귄+은	NOUN	ncn+jxt	_	4	dislocated	_	Translit=.peng.gwin.eun|LTranslit=.peng.gwin+.eun
 3	북반구에서는	북반구+에서+는	NOUN	ncn+jca+jxt	_	4	dislocated	_	Translit=.bug.ban.gu.e.seo.neun|LTranslit=.bug.ban.gu+.e.seo+.neun
 4	발견되지	발견+되+지	VERB	ncpa+xsv+ecx	_	10	ccomp	_	Translit=.bal.gyeon.doe.ji|LTranslit=.bal.gyeon+.doe+.ji
-5	않아서	않+아서	SCONJ	px+ecs	_	4	aux	_	Translit=.anh.a.seo|LTranslit=.anh+.a.seo
+5	않아서	않	AUX	px+ecs	_	4	aux	_	OrigLemma=않+아서|Translit=.anh.a.seo|LTranslit=.anh
 6	출현과	출현+과	CCONJ	ncpa+jcj	_	10	obj	_	Translit=.chul.hyeon.gwa|LTranslit=.chul.hyeon+.gwa
 7	발달	발달	NOUN	ncpa	_	6	conj	_	SpaceAfter=No|Translit=.bal.dal|LTranslit=.bal.dal
 8	,	,	PUNCT	sp	_	9	punct	_	Translit=,|LTranslit=,
@@ -9805,7 +9805,7 @@
 2	대단히	대단히	ADV	mag	_	3	advmod	_	Translit=.dae.dan.hi|LTranslit=.dae.dan.hi
 3	공격적이어서	공격+적+이+어서	SCONJ	ncpa+xsn+jp+ecs	_	4	ccomp	_	Translit=.gong.gyeog.jeog.i.eo.seo|LTranslit=.gong.gyeog+.jeog+.i+.eo.seo
 4	물러서지	물러서+지	VERB	pvg+ecx	_	8	ccomp	_	Translit=.mul.reo.seo.ji|LTranslit=.mul.reo.seo+.ji
-5	않으며	않+으며	SCONJ	px+ecs	_	4	aux	_	Translit=.anh.eu.myeo|LTranslit=.anh+.eu.myeo
+5	않으며	않	AUX	px+ecs	_	4	aux	_	OrigLemma=않+으며|Translit=.anh.eu.myeo|LTranslit=.anh
 6	번식기에는	번식기+에+는	NOUN	ncn+jca+jxt	_	8	dislocated	_	Translit=.beon.sig.gi.e.neun|LTranslit=.beon.sig.gi+.e+.neun
 7	사람한테도	사람+한테+도	ADV	ncn+jca+jxc	_	8	advcl	_	Translit=.sa.ram.han.te.do|LTranslit=.sa.ram+.han.te+.do
 8	덤벼든다	덤비어들+ㄴ다	VERB	pvg+ef	_	0	root	_	SpaceAfter=No|Translit=.deom.byeo.deun.da|LTranslit=.deom.bi.eo.deul+ㄴ.da
@@ -11132,7 +11132,7 @@
 12	있다는	있	AUX	px+etm	_	11	aux	_	OrigLemma=있+다는|Translit=.iss.da.neun|LTranslit=.iss
 13	지적이	지적+이	NOUN	ncpa+jcs	_	14	nsubj	_	Translit=.ji.jeog.i|LTranslit=.ji.jeog+.i
 14	적지	적+지	ADJ	paa+ecx	_	0	root	_	Translit=.jeog.ji|LTranslit=.jeog+.ji
-15	않다	않+다	AUX	px+ef	_	14	aux	_	SpaceAfter=No|Translit=.anh.da|LTranslit=.anh+.da
+15	않다	않	AUX	px+ef	_	14	aux	_	OrigLemma=않+다|SpaceAfter=No|Translit=.anh.da|LTranslit=.anh
 16	.	.	PUNCT	sf	_	15	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0070-s52
@@ -11420,7 +11420,7 @@
 4	차이는	차이+는	NOUN	ncn+jxt	_	6	dislocated	_	Translit=.cha.i.neun|LTranslit=.cha.i+.neun
 5	그다지	그다지	ADV	mag	_	6	advmod	_	Translit=.geu.da.ji|LTranslit=.geu.da.ji
 6	크지	크+지	ADJ	paa+ecx	_	0	root	_	Translit=.keu.ji|LTranslit=.keu+.ji
-7	않다	않+다	AUX	px+ef	_	6	aux	_	SpaceAfter=No|Translit=.anh.da|LTranslit=.anh+.da
+7	않다	않	AUX	px+ef	_	6	aux	_	OrigLemma=않+다|SpaceAfter=No|Translit=.anh.da|LTranslit=.anh
 8	.	.	PUNCT	sf	_	7	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0070-s67
@@ -11628,7 +11628,7 @@
 9	주택비용은	주택+비용+은	NOUN	ncn+ncn+jxt	_	11	dislocated	_	Translit=.ju.taeg.bi.yong.eun|LTranslit=.ju.taeg+.bi.yong+.eun
 10	주거비로	주거비+로	ADV	ncn+jca	_	11	advcl	_	Translit=.ju.geo.bi.ro|LTranslit=.ju.geo.bi+.ro
 11	들어가지	들+어+가+지	AUX	pvg+ecx+px+ecx	_	0	root	_	Translit=.deul.eo.ga.ji|LTranslit=.deul+.eo+.ga+.ji
-12	않고	않+고	CCONJ	px+ecc	_	11	aux	_	Translit=.anh.go|LTranslit=.anh+.go
+12	않고	않	AUX	px+ecc	_	11	aux	_	OrigLemma=않+고|Translit=.anh.go|LTranslit=.anh
 13	집세와	집세+와	CCONJ	ncn+jcj	_	16	nsubj	_	Translit=.jib.se.wa|LTranslit=.jib.se+.wa
 14	주택수리비용이	주택+수리+비용+이	NOUN	ncn+ncpa+ncn+jcs	_	13	conj	_	Translit=.ju.taeg.su.ri.bi.yong.i|LTranslit=.ju.taeg+.su.ri+.bi.yong+.i
 15	주거비에	주거비+에	ADV	ncn+jca	_	16	obl	_	Translit=.ju.geo.bi.e|LTranslit=.ju.geo.bi+.e
@@ -11872,7 +11872,7 @@
 11	별다른	별다르+ㄴ	ADJ	paa+etm	_	12	amod	_	Translit=.byeol.da.reun|LTranslit=.byeol.da.reu+ㄴ
 12	특징을	특징+을	NOUN	ncpa+jco	_	13	obj	_	Translit=.teug.jing.eul|LTranslit=.teug.jing+.eul
 13	보이지	보이+지	VERB	pvg+ecx	_	0	root	_	Translit=.bo.i.ji|LTranslit=.bo.i+.ji
-14	않는다	않+는다	AUX	px+ef	_	13	aux	_	SpaceAfter=No|Translit=.anh.neun.da|LTranslit=.anh+.neun.da
+14	않는다	않	AUX	px+ef	_	13	aux	_	OrigLemma=않+는다|SpaceAfter=No|Translit=.anh.neun.da|LTranslit=.anh
 15	.	.	PUNCT	sf	_	14	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0070-s90
@@ -12305,7 +12305,7 @@
 5	큰	크+ㄴ	ADJ	paa+etm	_	6	amod	_	Translit=.keun|LTranslit=.keu+ㄴ
 6	격차가	격차+가	NOUN	ncn+jcs	_	7	nsubj	_	Translit=.gyeog.cha.ga|LTranslit=.gyeog.cha+.ga
 7	나타나지	나타나+지	VERB	pvg+ecx	_	0	root	_	Translit=.na.ta.na.ji|LTranslit=.na.ta.na+.ji
-8	않고	않+고	AUX	px+ecx	_	7	aux	_	Translit=.anh.go|LTranslit=.anh+.go
+8	않고	않	AUX	px+ecx	_	7	aux	_	OrigLemma=않+고|Translit=.anh.go|LTranslit=.anh
 9	있다	있	AUX	px+ef	_	7	aux	_	OrigLemma=있+다|SpaceAfter=No|Translit=.iss.da|LTranslit=.iss
 10	.	.	PUNCT	sf	_	9	punct	_	Translit=.|LTranslit=.
 
@@ -12707,7 +12707,7 @@
 1	문구류	문구류	NOUN	ncn	_	2	compound	_	Translit=.mun.gu.ryu|LTranslit=.mun.gu.ryu
 2	수입도	수입+도	ADV	ncpa+jxc	_	3	advcl	_	Translit=.su.ib.do|LTranslit=.su.ib+.do
 3	만만치가	만만하+지+가	NOUN	paa+ecx+jcs	_	0	root	_	Translit=.man.man.chi.ga|LTranslit=.man.man.ha+.ji+.ga
-4	않다	않+다	AUX	px+ef	_	3	aux	_	SpaceAfter=No|Translit=.anh.da|LTranslit=.anh+.da
+4	않다	않	AUX	px+ef	_	3	aux	_	OrigLemma=않+다|SpaceAfter=No|Translit=.anh.da|LTranslit=.anh
 5	.	.	PUNCT	sf	_	4	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0070-s135
@@ -14118,7 +14118,7 @@
 5	비중도	비중+도	ADV	ncn+jxc	_	7	advcl	_	Translit=.bi.jung.do|LTranslit=.bi.jung+.do
 6	아직은	아직+은	NOUN	ncn+jxt	_	7	dislocated	_	Translit=.a.jig.eun|LTranslit=.a.jig+.eun
 7	크지	크+지	ADJ	paa+ecx	_	0	root	_	Translit=.keu.ji|LTranslit=.keu+.ji
-8	않다	않+다	AUX	px+ef	_	7	aux	_	SpaceAfter=No|Translit=.anh.da|LTranslit=.anh+.da
+8	않다	않	AUX	px+ef	_	7	aux	_	OrigLemma=않+다|SpaceAfter=No|Translit=.anh.da|LTranslit=.anh
 9	.	.	PUNCT	sf	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0110-s32
@@ -14396,7 +14396,7 @@
 13	자만했지만	자만+하+었+지만	SCONJ	ncpa+xsv+ep+ecs	_	12	conj	_	Translit=.ja.man.haess.ji.man|LTranslit=.ja.man+.ha+.eoss+.ji.man
 14	사실은	사실+은	NOUN	ncn+jxt	_	15	dislocated	_	Translit=.sa.sil.eun|LTranslit=.sa.sil+.eun
 15	그렇지	그렇+지	VERB	pad+ecx	_	12	conj	_	Translit=.geu.reoh.ji|LTranslit=.geu.reoh+.ji
-16	않다	않+다	AUX	px+ef	_	15	aux	_	SpaceAfter=No|Translit=.anh.da|LTranslit=.anh+.da
+16	않다	않	AUX	px+ef	_	15	aux	_	OrigLemma=않+다|SpaceAfter=No|Translit=.anh.da|LTranslit=.anh
 17	.	.	PUNCT	sf	_	16	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0110-s53
@@ -14894,7 +14894,7 @@
 7	준	주+ㄴ	AUX	px+etm	_	6	aux	_	Translit=.jun|LTranslit=.ju+ㄴ
 8	것은	것+은	NOUN	nbn+jxt	_	13	dislocated	_	Translit=.geos.eun|LTranslit=.geos+.eun
 9	뜻하지	뜻하+지	VERB	pvg+ecx	_	13	ccomp	_	Translit=.ddeus.ha.ji|LTranslit=.ddeus.ha+.ji
-10	않은	않+ㄴ	AUX	px+etm	_	9	aux	_	Translit=.anh.eun|LTranslit=.anh+ㄴ
+10	않은	않	AUX	px+etm	_	9	aux	_	OrigLemma=않+ㄴ|Translit=.anh.eun|LTranslit=.anh
 11	북해	북해	PROPN	nq	_	12	compound	_	Translit=.bug.hae|LTranslit=.bug.hae
 12	유전의	유전+의	NOUN	ncn+jcm	_	13	nmod	_	Translit=.yu.jeon.yi|LTranslit=.yu.jeon+.yi
 13	발굴이었다	발굴+이+었+다	VERB	ncpa+jp+ep+ef	_	0	root	_	SpaceAfter=No|Translit=.bal.gul.i.eoss.da|LTranslit=.bal.gul+.i+.eoss+.da
@@ -15153,7 +15153,7 @@
 6	그래서	그래서	ADV	mag	_	8	advmod	_	Translit=.geu.rae.seo|LTranslit=.geu.rae.seo
 7	해가	해+가	NOUN	ncn+jcs	_	8	nsubj	_	Translit=.hae.ga|LTranslit=.hae+.ga
 8	지지	지+지	VERB	pvg+ecx	_	10	dep	_	Translit=.ji.ji|LTranslit=.ji+.ji
-9	않는다던	않+는다던	AUX	px+etm	_	8	aux	_	Translit=.anh.neun.da.deon|LTranslit=.anh+.neun.da.deon
+9	않는다던	않	AUX	px+etm	_	8	aux	_	OrigLemma=않+는다던|Translit=.anh.neun.da.deon|LTranslit=.anh
 10	대영제국이	대영제국+이	NOUN	ncn+jcs	_	14	nsubj	_	Translit=.dae.yeong.je.gug.i|LTranslit=.dae.yeong.je.gug+.i
 11	다시	다시	ADV	mag	_	14	advmod	_	Translit=.da.si|LTranslit=.da.si
 12	작은	작+ㄴ	ADJ	paa+etm	_	13	amod	_	Translit=.jag.eun|LTranslit=.jag+ㄴ
@@ -15712,7 +15712,7 @@
 5	런던은	런던+은	PROPN	nq+jxt	_	7	dislocated	_	Translit=.reon.deon.eun|LTranslit=.reon.deon+.eun
 6	그렇게	그렇+게	SCONJ	pad+ecs	_	7	xcomp	_	Translit=.geu.reoh.ge|LTranslit=.geu.reoh+.ge
 7	인상적이지	인상+적+이+지	VERB	ncn+xsn+jp+ecx	_	0	root	_	Translit=.in.sang.jeog.i.ji|LTranslit=.in.sang+.jeog+.i+.ji
-8	않다	않+다	AUX	px+ef	_	7	aux	_	SpaceAfter=No|Translit=.anh.da|LTranslit=.anh+.da
+8	않다	않	AUX	px+ef	_	7	aux	_	OrigLemma=않+다|SpaceAfter=No|Translit=.anh.da|LTranslit=.anh
 9	.	.	PUNCT	sf	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0110-s146
@@ -15816,7 +15816,7 @@
 12	,	,	PUNCT	sp	_	14	punct	_	Translit=,|LTranslit=,
 13	파리처럼	파리+처럼	ADV	ncn+jca	_	14	advcl	_	Translit=.pa.ri.cheo.reom|LTranslit=.pa.ri+.cheo.reom
 14	화려하지도	화려하+지+도	ADV	paa+ecx+jxc	_	10	conj	_	Translit=.hwa.ryeo.ha.ji.do|LTranslit=.hwa.ryeo.ha+.ji+.do
-15	않다	않+다	AUX	px+ef	_	14	aux	_	SpaceAfter=No|Translit=.anh.da|LTranslit=.anh+.da
+15	않다	않	AUX	px+ef	_	14	aux	_	OrigLemma=않+다|SpaceAfter=No|Translit=.anh.da|LTranslit=.anh
 16	.	.	PUNCT	sf	_	15	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0110-s152
@@ -15852,7 +15852,7 @@
 2	그	그	DET	mmd	_	3	det	_	Translit=.geu|LTranslit=.geu
 3	인상도	인상+도	ADV	ncn+jxc	_	4	advcl	_	Translit=.in.sang.do|LTranslit=.in.sang+.do
 4	진하지	진하+지	ADJ	paa+ecx	_	1	conj	_	Translit=.jin.ha.ji|LTranslit=.jin.ha+.ji
-5	않았다	않+았+다	AUX	px+ep+ef	_	4	aux	_	SpaceAfter=No|Translit=.anh.ass.da|LTranslit=.anh+.ass+.da
+5	않았다	않	AUX	px+ep+ef	_	4	aux	_	OrigLemma=않+았+다|SpaceAfter=No|Translit=.anh.ass.da|LTranslit=.anh
 6	.	.	PUNCT	sf	_	5	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0110-s155
@@ -15999,7 +15999,7 @@
 10	배울	배우+ㄹ	VERB	pvg+etm	_	0	root	_	Translit=.bae.ul|LTranslit=.bae.u+ㄹ
 11	수	수	NOUN	nbn	_	10	aux	_	Translit=.su|LTranslit=.su
 12	있지	있+지	ADJ	paa+ecx	_	11	fixed	_	Translit=.iss.ji|LTranslit=.iss+.ji
-13	않을까	않+ㄹ까	AUX	px+ef	_	10	aux	_	SpaceAfter=No|Translit=.anh.eul.gga|LTranslit=.anh+ㄹ.gga
+13	않을까	않	AUX	px+ef	_	10	aux	_	OrigLemma=않+ㄹ까|SpaceAfter=No|Translit=.anh.eul.gga|LTranslit=.anh
 14	.	.	PUNCT	sf	_	13	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0110-s164
@@ -16719,7 +16719,7 @@
 # translit = .jo.geum.do .byeon.ha.ji .anh.ass.da.
 1	조금도	조금+도	ADV	ncn+jxc	_	2	advcl	_	Translit=.jo.geum.do|LTranslit=.jo.geum+.do
 2	변하지	변하+지	VERB	pvg+ecx	_	0	root	_	Translit=.byeon.ha.ji|LTranslit=.byeon.ha+.ji
-3	않았다	않+았+다	AUX	px+ep+ef	_	2	aux	_	SpaceAfter=No|Translit=.anh.ass.da|LTranslit=.anh+.ass+.da
+3	않았다	않	AUX	px+ep+ef	_	2	aux	_	OrigLemma=않+았+다|SpaceAfter=No|Translit=.anh.ass.da|LTranslit=.anh
 4	.	.	PUNCT	sf	_	3	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0110-s222
@@ -17471,7 +17471,7 @@
 5	이기리라고는	이기+리라+고+는	NOUN	pvg+ef+jcr+jxt	_	7	dislocated	_	Translit=.i.gi.ri.ra.go.neun|LTranslit=.i.gi+.ri.ra+.go+.neun
 6	아무도	아무+도	ADV	npd+jxc	_	7	advcl	_	Translit=.a.mu.do|LTranslit=.a.mu+.do
 7	기대하지	기대+하+지	VERB	ncpa+xsv+ecx	_	0	root	_	Translit=.gi.dae.ha.ji|LTranslit=.gi.dae+.ha+.ji
-8	않았었다	않+았었+다	AUX	px+ep+ef	_	7	aux	_	SpaceAfter=No|Translit=.anh.ass.eoss.da|LTranslit=.anh+.ass.eoss+.da
+8	않았었다	않	AUX	px+ep+ef	_	7	aux	_	OrigLemma=않+았었+다|SpaceAfter=No|Translit=.anh.ass.eoss.da|LTranslit=.anh
 9	.	.	PUNCT	sf	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0110-s281
@@ -17722,7 +17722,7 @@
 2	년대에는	년대+에+는	NOUN	nbu+jca+jxt	_	4	dislocated	_	Translit=.nyeon.dae.e.neun|LTranslit=.nyeon.dae+.e+.neun
 3	파업이	파업+이	NOUN	ncpa+jcs	_	4	nsubj	_	Translit=.pa.eob.i|LTranslit=.pa.eob+.i
 4	끊이지	끊이+지	VERB	pvg+ecx	_	15	ccomp	_	Translit=.ggeunh.i.ji|LTranslit=.ggeunh.i+.ji
-5	않았다고	않+았+다+고	VERB	px+ep+ef+jcr	_	4	aux	_	Translit=.anh.ass.da.go|LTranslit=.anh+.ass+.da+.go
+5	않았다고	않	AUX	px+ep+ef+jcr	_	4	aux	_	OrigLemma=않+았+다+고|Translit=.anh.ass.da.go|LTranslit=.anh
 6	하지만	하+지만	SCONJ	pvg+ecs	_	4	conj	_	SpaceAfter=No|Translit=.ha.ji.man|LTranslit=.ha+.ji.man
 7	,	,	PUNCT	sp	_	6	punct	_	Translit=,|LTranslit=,
 8	내가	내+가	PRON	npp+jcs	_	12	nsubj	_	Translit=.nae.ga|LTranslit=.nae+.ga
@@ -18076,7 +18076,7 @@
 10	사는	살+는	VERB	pvg+etm	_	0	root	_	Translit=.sa.neun|LTranslit=.sal+.neun
 11	것	것	NOUN	nbn	_	10	aux	_	Translit=.geos|LTranslit=.geos
 12	같지	같+지	ADJ	paa+ecx	_	11	fixed	_	Translit=.gat.ji|LTranslit=.gat+.ji
-13	않더라고	않+더라+고	VERB	px+ef+jcr	_	10	aux	_	Translit=.anh.deo.ra.go|LTranslit=.anh+.deo.ra+.go
+13	않더라고	않	AUX	px+ef+jcr	_	10	aux	_	OrigLemma=않+더라+고|Translit=.anh.deo.ra.go|LTranslit=.anh
 14	고개를	고개+를	NOUN	ncn+jco	_	15	obj	_	Translit=.go.gae.reul|LTranslit=.go.gae+.reul
 15	갸웃거리는	갸웃거리+는	VERB	pvg+etm	_	10	conj	_	Translit=.gya.us.geo.ri.neun|LTranslit=.gya.us.geo.ri+.neun
 16	것이었다	것+이+었+다	VERB	nbn+jp+ep+ef	_	15	aux	_	SpaceAfter=No|Translit=.geos.i.eoss.da|LTranslit=.geos+.i+.eoss+.da
@@ -18411,7 +18411,7 @@
 4	일본에	일본+에	ADV	nq+jca	_	5	obl	_	Translit=.il.bon.e|LTranslit=.il.bon+.e
 5	국한되어	국한+되+어	VERB	ncpa+xsv+ecx	_	0	root	_	Translit=.gug.han.doe.eo|LTranslit=.gug.han+.doe+.eo
 6	있지	있	AUX	px+ecx	_	5	aux	_	OrigLemma=있+지|Translit=.iss.ji|LTranslit=.iss
-7	않다	않+다	AUX	px+ef	_	5	aux	_	SpaceAfter=No|Translit=.anh.da|LTranslit=.anh+.da
+7	않다	않	AUX	px+ef	_	5	aux	_	OrigLemma=않+다|SpaceAfter=No|Translit=.anh.da|LTranslit=.anh
 8	.	.	PUNCT	sf	_	7	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0110-s347
@@ -19049,7 +19049,7 @@
 # text = 달라지지 않아야 그것이 영국식인 것이다.
 # translit = .dal.ra.ji.ji .anh.a.ya .geu.geos.i .yeong.gug.sig.in .geos.i.da.
 1	달라지지	다르+아+지+지	AUX	paa+ecx+px+ecx	_	5	amod	_	Translit=.dal.ra.ji.ji|LTranslit=.da.reu+.a+.ji+.ji
-2	않아야	않+아야	SCONJ	px+ecs	_	1	aux	_	Translit=.anh.a.ya|LTranslit=.anh+.a.ya
+2	않아야	않	AUX	px+ecs	_	1	aux	_	OrigLemma=않+아야|Translit=.anh.a.ya|LTranslit=.anh
 3	그것이	그것+이	PRON	npd+jcs	_	4	nsubj	_	Translit=.geu.geos.i|LTranslit=.geu.geos+.i
 4	영국식인	영국식+이+ㄴ	VERB	ncn+jp+etm	_	5	ccomp	_	Translit=.yeong.gug.sig.in|LTranslit=.yeong.gug.sig+.i+ㄴ
 5	것이다	것+이+다	VERB	nbn+jp+ef	_	0	root	_	SpaceAfter=No|Translit=.geos.i.da|LTranslit=.geos+.i+.da
@@ -19500,10 +19500,10 @@
 # translit = .yeo.reum.e.do .deob.ji .anh.go .gyeo.ul.e.do .chub.ji .anh.eun .i.reon .u.jung.chung.ha.go .ba.ram.bu.neun .nal.ssi.e .beo.beo.ri.yi .teu.ren.chi .ko.teu.neun .eo.ul.rin.da.
 1	여름에도	여름+에+도	ADV	ncn+jca+jxc	_	2	advcl	_	Translit=.yeo.reum.e.do|LTranslit=.yeo.reum+.e+.do
 2	덥지	덥+지	ADJ	paa+ecx	_	10	amod	_	Translit=.deob.ji|LTranslit=.deob+.ji
-3	않고	않+고	CCONJ	px+ecc	_	2	aux	_	Translit=.anh.go|LTranslit=.anh+.go
+3	않고	않	AUX	px+ecc	_	2	aux	_	OrigLemma=않+고|Translit=.anh.go|LTranslit=.anh
 4	겨울에도	겨울+에+도	ADV	ncn+jca+jxc	_	5	advcl	_	Translit=.gyeo.ul.e.do|LTranslit=.gyeo.ul+.e+.do
 5	춥지	춥+지	ADJ	paa+ecx	_	2	conj	_	Translit=.chub.ji|LTranslit=.chub+.ji
-6	않은	않+ㄴ	AUX	px+etm	_	5	aux	_	Translit=.anh.eun|LTranslit=.anh+ㄴ
+6	않은	않	AUX	px+etm	_	5	aux	_	OrigLemma=않+ㄴ|Translit=.anh.eun|LTranslit=.anh
 7	이런	이렇+ㄴ	VERB	pad+etm	_	10	amod	_	Translit=.i.reon|LTranslit=.i.reoh+ㄴ
 8	우중충하고	우중충하+고	CCONJ	paa+ecc	_	10	acl	_	Translit=.u.jung.chung.ha.go|LTranslit=.u.jung.chung.ha+.go
 9	바람부는	바람불+는	VERB	pvg+etm	_	8	conj	_	Translit=.ba.ram.bu.neun|LTranslit=.ba.ram.bul+.neun
@@ -19568,7 +19568,7 @@
 9	새	새	ADJ	mma	_	10	amod	_	Translit=.sae|LTranslit=.sae
 10	옷	옷	NOUN	ncn	_	11	dep	_	Translit=.os|LTranslit=.os
 11	같지	같+지	ADJ	paa+ecx	_	8	conj	_	Translit=.gat.ji|LTranslit=.gat+.ji
-12	않다	않+다	AUX	px+ef	_	11	aux	_	SpaceAfter=No|Translit=.anh.da|LTranslit=.anh+.da
+12	않다	않	AUX	px+ef	_	11	aux	_	OrigLemma=않+다|SpaceAfter=No|Translit=.anh.da|LTranslit=.anh
 13	.	.	PUNCT	sf	_	12	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0110-s439
@@ -19577,14 +19577,14 @@
 1	영국의	영국+의	PROPN	nq+jcm	_	2	nmod	_	Translit=.yeong.gug.yi|LTranslit=.yeong.gug+.yi
 2	날씨가	날씨+가	NOUN	ncn+jcs	_	3	nsubj	_	Translit=.nal.ssi.ga|LTranslit=.nal.ssi+.ga
 3	달라지지	다르+아+지+지	AUX	paa+ecx+px+ecx	_	5	amod	_	Translit=.dal.ra.ji.ji|LTranslit=.da.reu+.a+.ji+.ji
-4	않는	않+는	AUX	px+etm	_	3	aux	_	Translit=.anh.neun|LTranslit=.anh+.neun
+4	않는	않	AUX	px+etm	_	3	aux	_	OrigLemma=않+는|Translit=.anh.neun|LTranslit=.anh
 5	한	한	NOUN	nbn	_	10	obl	_	OrigDeprel=mark|Translit=.han|LTranslit=.han
 6	버버리의	버버리+의	PROPN	nq+jcm	_	8	nmod	_	Translit=.beo.beo.ri.yi|LTranslit=.beo.beo.ri+.yi
 7	기본적인	기본+적+이+ㄴ	VERB	ncn+xsn+jp+etm	_	8	acl	_	Translit=.gi.bon.jeog.in|LTranslit=.gi.bon+.jeog+.i+ㄴ
 8	디자인은	디자인+은	NOUN	ncpa+jxt	_	10	dislocated	_	Translit=.di.ja.in.eun|LTranslit=.di.ja.in+.eun
 9	아마도	아마도	ADV	mag	_	10	advmod	_	Translit=.a.ma.do|LTranslit=.a.ma.do
 10	달라지지	다르+아+지+지	AUX	paa+ecx+px+ecx	_	0	root	_	Translit=.dal.ra.ji.ji|LTranslit=.da.reu+.a+.ji+.ji
-11	않을	않+ㄹ	AUX	px+etm	_	10	aux	_	Translit=.anh.eul|LTranslit=.anh+ㄹ
+11	않을	않	AUX	px+etm	_	10	aux	_	OrigLemma=않+ㄹ|Translit=.anh.eul|LTranslit=.anh
 12	것이다	것+이+다	VERB	nbn+jp+ef	_	10	aux	_	SpaceAfter=No|Translit=.geos.i.da|LTranslit=.geos+.i+.da
 13	.	.	PUNCT	sf	_	12	punct	_	Translit=.|LTranslit=.
 
@@ -19604,7 +19604,7 @@
 1	파리나	파리+나	CCONJ	nq+jcj	_	3	advcl	_	Translit=.pa.ri.na|LTranslit=.pa.ri+.na
 2	밀라노처럼	밀라노+처럼	ADV	nq+jca	_	1	conj	_	Translit=.mil.ra.no.cheo.reom|LTranslit=.mil.ra.no+.cheo.reom
 3	화려하지	화려하+지	ADJ	paa+ecx	_	0	root	_	Translit=.hwa.ryeo.ha.ji|LTranslit=.hwa.ryeo.ha+.ji
-4	않다	않+다	AUX	px+ef	_	3	aux	_	SpaceAfter=No|Translit=.anh.da|LTranslit=.anh+.da
+4	않다	않	AUX	px+ef	_	3	aux	_	OrigLemma=않+다|SpaceAfter=No|Translit=.anh.da|LTranslit=.anh
 5	.	.	PUNCT	sf	_	4	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0110-s442
@@ -19636,7 +19636,7 @@
 12	것이	것+이	NOUN	nbn+jcs	_	14	nsubj	_	Translit=.geos.i|LTranslit=.geos+.i
 13	크게	크+게	SCONJ	paa+ecs	_	14	xcomp	_	Translit=.keu.ge|LTranslit=.keu+.ge
 14	구분되지	구분+되+지	VERB	ncpa+xsv+ecx	_	0	root	_	Translit=.gu.bun.doe.ji|LTranslit=.gu.bun+.doe+.ji
-15	않는다	않+는다	AUX	px+ef	_	14	aux	_	SpaceAfter=No|Translit=.anh.neun.da|LTranslit=.anh+.neun.da
+15	않는다	않	AUX	px+ef	_	14	aux	_	OrigLemma=않+는다|SpaceAfter=No|Translit=.anh.neun.da|LTranslit=.anh
 16	.	.	PUNCT	sf	_	15	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0110-s444
@@ -20288,7 +20288,7 @@
 8	모습은	모습+은	NOUN	ncn+jxt	_	10	dislocated	_	Translit=.mo.seub.eun|LTranslit=.mo.seub+.eun
 9	도무지	도무지	ADV	mag	_	10	advmod	_	Translit=.do.mu.ji|LTranslit=.do.mu.ji
 10	어울리지	어울리+지	VERB	pvg+ecx	_	0	root	_	Translit=.eo.ul.ri.ji|LTranslit=.eo.ul.ri+.ji
-11	않는다	않+는다	AUX	px+ef	_	10	aux	_	SpaceAfter=No|Translit=.anh.neun.da|LTranslit=.anh+.neun.da
+11	않는다	않	AUX	px+ef	_	10	aux	_	OrigLemma=않+는다|SpaceAfter=No|Translit=.anh.neun.da|LTranslit=.anh
 12	.	.	PUNCT	sf	_	11	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0110-s497
@@ -20515,7 +20515,7 @@
 # text = 변화하지 않아도 같은 물건은 없다.
 # translit = .byeon.hwa.ha.ji .anh.a.do .gat.eun .mul.geon.eun .eobs.da.
 1	변화하지	변화+하+지	VERB	ncpa+xsv+ecx	_	5	dep	_	Translit=.byeon.hwa.ha.ji|LTranslit=.byeon.hwa+.ha+.ji
-2	않아도	않+아+도	ADV	px+ecs+jxc	_	1	aux	_	Translit=.anh.a.do|LTranslit=.anh+.a+.do
+2	않아도	않	AUX	px+ecs+jxc	_	1	aux	_	OrigLemma=않+아+도|Translit=.anh.a.do|LTranslit=.anh
 3	같은	같+ㄴ	ADJ	paa+etm	_	4	amod	_	Translit=.gat.eun|LTranslit=.gat+ㄴ
 4	물건은	물건+은	NOUN	ncn+jxt	_	5	dislocated	_	Translit=.mul.geon.eun|LTranslit=.mul.geon+.eun
 5	없다	없+다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No|Translit=.eobs.da|LTranslit=.eobs+.da
@@ -20573,7 +20573,7 @@
 6	외부의	외부+의	NOUN	ncn+jcm	_	7	nmod	_	Translit=.oe.bu.yi|LTranslit=.oe.bu+.yi
 7	침략을	침략+을	NOUN	ncpa+jco	_	8	obj	_	Translit=.chim.ryag.eul|LTranslit=.chim.ryag+.eul
 8	받지	받+지	VERB	pvg+ecx	_	15	ccomp	_	Translit=.bad.ji|LTranslit=.bad+.ji
-9	않아	않+아	SCONJ	px+ecs	_	8	aux	_	Translit=.anh.a|LTranslit=.anh+.a
+9	않아	않	AUX	px+ecs	_	8	aux	_	OrigLemma=않+아|Translit=.anh.a|LTranslit=.anh
 10	큰	크+ㄴ	ADJ	paa+etm	_	11	amod	_	Translit=.keun|LTranslit=.keu+ㄴ
 11	변화	변화	NOUN	ncpa	_	12	dep	_	Translit=.byeon.hwa|LTranslit=.byeon.hwa
 12	없이	없+이	SCONJ	paa+ecs	_	15	xcomp	_	Translit=.eobs.i|LTranslit=.eobs+.i
@@ -20688,7 +20688,7 @@
 9	가는	가+는	AUX	px+etm	_	8	aux	_	Translit=.ga.neun|LTranslit=.ga+.neun
 10	잔물결에	잔물결+에	ADV	ncn+jca	_	11	obl	_	Translit=.jan.mul.gyeol.e|LTranslit=.jan.mul.gyeol+.e
 11	지나지	지나+지	VERB	pvg+ecx	_	0	root	_	Translit=.ji.na.ji|LTranslit=.ji.na+.ji
-12	않는	않+는	AUX	px+etm	_	11	aux	_	Translit=.anh.neun|LTranslit=.anh+.neun
+12	않는	않	AUX	px+etm	_	11	aux	_	OrigLemma=않+는|Translit=.anh.neun|LTranslit=.anh
 13	것이었다	것+이+었+다	VERB	nbn+jp+ep+ef	_	11	aux	_	SpaceAfter=No|Translit=.geos.i.eoss.da|LTranslit=.geos+.i+.eoss+.da
 14	.	.	PUNCT	sf	_	13	punct	_	Translit=.|LTranslit=.
 
@@ -20789,7 +20789,7 @@
 3	나라처럼	나라+처럼	ADV	ncn+jca	_	4	advcl	_	Translit=.na.ra.cheo.reom|LTranslit=.na.ra+.cheo.reom
 4	조문화되어	조문화+되+어	VERB	ncpa+xsv+ecx	_	0	root	_	Translit=.jo.mun.hwa.doe.eo|LTranslit=.jo.mun.hwa+.doe+.eo
 5	있지	있	AUX	px+ecx	_	4	aux	_	OrigLemma=있+지|Translit=.iss.ji|LTranslit=.iss
-6	않다	않+다	AUX	px+ef	_	4	aux	_	SpaceAfter=No|Translit=.anh.da|LTranslit=.anh+.da
+6	않다	않	AUX	px+ef	_	4	aux	_	OrigLemma=않+다|SpaceAfter=No|Translit=.anh.da|LTranslit=.anh
 7	.	.	PUNCT	sf	_	6	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0110-s535
@@ -20988,7 +20988,7 @@
 1	그래도	그래도	CCONJ	maj	_	3	cc	_	Translit=.geu.rae.do|LTranslit=.geu.rae.do
 2	손잡이는	손잡이+는	NOUN	ncn+jxt	_	3	dislocated	_	Translit=.son.jab.i.neun|LTranslit=.son.jab.i+.neun
 3	달라지지	다르+아+지+지	AUX	paa+ecx+px+ecx	_	0	root	_	Translit=.dal.ra.ji.ji|LTranslit=.da.reu+.a+.ji+.ji
-4	않았다	않+았+다	AUX	px+ep+ef	_	3	aux	_	SpaceAfter=No|Translit=.anh.ass.da|LTranslit=.anh+.ass+.da
+4	않았다	않	AUX	px+ep+ef	_	3	aux	_	OrigLemma=않+았+다|SpaceAfter=No|Translit=.anh.ass.da|LTranslit=.anh
 5	.	.	PUNCT	sf	_	4	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0110-s552
@@ -21559,7 +21559,7 @@
 8	이처럼	이+처럼	ADV	npd+jca	_	10	advcl	_	Translit=.i.cheo.reom|LTranslit=.i+.cheo.reom
 9	잔인하게	잔인+하+게	SCONJ	ncps+xsm+ecs	_	10	xcomp	_	Translit=.jan.in.ha.ge|LTranslit=.jan.in+.ha+.ge
 10	처형당하지는	처형당하+지+는	NOUN	pvg+ecx+jxt	_	0	root	_	Translit=.cheo.hyeong.dang.ha.ji.neun|LTranslit=.cheo.hyeong.dang.ha+.ji+.neun
-11	않았었다	않+았었+다	AUX	px+ep+ef	_	10	aux	_	SpaceAfter=No|Translit=.anh.ass.eoss.da|LTranslit=.anh+.ass.eoss+.da
+11	않았었다	않	AUX	px+ep+ef	_	10	aux	_	OrigLemma=않+았었+다|SpaceAfter=No|Translit=.anh.ass.eoss.da|LTranslit=.anh
 12	.	.	PUNCT	sf	_	11	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0110-s596
@@ -22694,7 +22694,7 @@
 7	부정적	부정+적	NOUN	ncpa+xsn	_	8	amod	_	Translit=.bu.jeong.jeog|LTranslit=.bu.jeong+.jeog
 8	변증법이라고	변증법+이+라+고	VERB	ncn+jp+ef+jcr	_	12	dep	_	Translit=.byeon.jeung.beob.i.ra.go|LTranslit=.byeon.jeung.beob+.i+.ra+.go
 9	일컬어지지	일컬어지+지	VERB	pvg+ecx	_	8	conj	_	Translit=.il.keol.eo.ji.ji|LTranslit=.il.keol.eo.ji+.ji
-10	않으면	않+으면	SCONJ	px+ecs	_	9	aux	_	Translit=.anh.eu.myeon|LTranslit=.anh+.eu.myeon
+10	않으면	않	AUX	px+ecs	_	9	aux	_	OrigLemma=않+으면|Translit=.anh.eu.myeon|LTranslit=.anh
 11	안	안	ADV	mag	_	12	advmod	_	Translit=.an|LTranslit=.an
 12	된다	되+ㄴ다	VERB	pvg+ef	_	13	ccomp	_	Translit=.doen.da|LTranslit=.doe+ㄴ.da
 13	하더라도	하+더라+도	ADV	pvg+ecs+jxc	_	18	dep	_	Translit=.ha.deo.ra.do|LTranslit=.ha+.deo.ra+.do
@@ -22753,7 +22753,7 @@
 15	자체의	자체+의	NOUN	ncn+jcm	_	16	nmod	_	Translit=.ja.che.yi|LTranslit=.ja.che+.yi
 16	개념으로	개념+으로	ADV	ncn+jca	_	17	advcl	_	Translit=.gae.nyeom.eu.ro|LTranslit=.gae.nyeom+.eu.ro
 17	전개되지	전개+되+지	VERB	ncpa+xsv+ecx	_	20	ccomp	_	Translit=.jeon.gae.doe.ji|LTranslit=.jeon.gae+.doe+.ji
-18	않으면	않+으면	SCONJ	px+ecs	_	17	aux	_	Translit=.anh.eu.myeon|LTranslit=.anh+.eu.myeon
+18	않으면	않	AUX	px+ecs	_	17	aux	_	OrigLemma=않+으면|Translit=.anh.eu.myeon|LTranslit=.anh
 19	안	안	ADV	mag	_	20	advmod	_	Translit=.an|LTranslit=.an
 20	될	되+ㄹ	VERB	pvg+etm	_	0	root	_	Translit=.doel|LTranslit=.doe+ㄹ
 21	것이다	것+이+다	VERB	nbn+jp+ef	_	20	aux	_	SpaceAfter=No|Translit=.geos.i.da|LTranslit=.geos+.i+.da
@@ -22820,7 +22820,7 @@
 10	내재적으로	내재+적+으로	ADV	ncpa+xsn+jca	_	11	advcl	_	Translit=.nae.jae.jeog.eu.ro|LTranslit=.nae.jae+.jeog+.eu.ro
 11	수미일관하고	수미일관+하+고	VERB	ncpa+xsv+ecx	_	8	conj	_	Translit=.su.mi.il.gwan.ha.go|LTranslit=.su.mi.il.gwan+.ha+.go
 12	있지	있	AUX	px+ecx	_	11	aux	_	OrigLemma=있+지|Translit=.iss.ji|LTranslit=.iss
-13	않음을	않+ㅁ+을	NOUN	px+etn+jco	_	11	aux	_	Translit=.anh.eum.eul|LTranslit=.anh+ㅁ+.eul
+13	않음을	않	AUX	px+etn+jco	_	11	aux	_	OrigLemma=않+ㅁ+을|Translit=.anh.eum.eul|LTranslit=.anh
 14	논박한다는	논박+하+ㄴ다는	VERB	ncpa+xsv+etm	_	15	acl	_	Translit=.non.bag.han.da.neun|LTranslit=.non.bag+.ha+ㄴ.da.neun
 15	형태로	형태+로	ADV	ncn+jca	_	18	advcl	_	Translit=.hyeong.tae.ro|LTranslit=.hyeong.tae+.ro
 16	그	그	DET	mmd	_	17	det	_	Translit=.geu|LTranslit=.geu
@@ -22859,7 +22859,7 @@
 11	것	것	NOUN	nbn	_	15	compound	_	SpaceAfter=No|Translit=.geos|LTranslit=.geos
 12	,	,	PUNCT	sp	_	11	punct	_	Translit=,|LTranslit=,
 13	소멸하지	소멸+하+지	VERB	ncpa+xsv+ecx	_	15	acl	_	Translit=.so.myeol.ha.ji|LTranslit=.so.myeol+.ha+.ji
-14	않는	않+는	AUX	px+etm	_	13	aux	_	Translit=.anh.neun|LTranslit=.anh+.neun
+14	않는	않	AUX	px+etm	_	13	aux	_	OrigLemma=않+는|Translit=.anh.neun|LTranslit=.anh
 15	것을	것+을	NOUN	nbn+jco	_	16	obj	_	Translit=.geos.eul|LTranslit=.geos+.eul
 16	간파하려는	간파+하+려는	VERB	ncpa+xsv+etm	_	17	acl	_	Translit=.gan.pa.ha.ryeo.neun|LTranslit=.gan.pa+.ha+.ryeo.neun
 17	딜타이	딜타이	PROPN	nq	_	23	nmod	_	Translit=.dil.ta.i|LTranslit=.dil.ta.i
@@ -22935,7 +22935,7 @@
 5	이렇게	이렇+게	SCONJ	pad+ecs	_	6	xcomp	_	Translit=.i.reoh.ge|LTranslit=.i.reoh+.ge
 6	표명하고	표명+하+고	VERB	ncpa+xsv+ecx	_	9	acl	_	Translit=.pyo.myeong.ha.go|LTranslit=.pyo.myeong+.ha+.go
 7	있지	있	AUX	px+ecx	_	6	aux	_	OrigLemma=있+지|Translit=.iss.ji|LTranslit=.iss
-8	않는	않+는	AUX	px+etm	_	6	aux	_	Translit=.anh.neun|LTranslit=.anh+.neun
+8	않는	않	AUX	px+etm	_	6	aux	_	OrigLemma=않+는|Translit=.anh.neun|LTranslit=.anh
 9	것	것	NOUN	nbn	_	10	obl	_	OrigDeprel=mark|Translit=.geos|LTranslit=.geos
 10	같이	같+이	SCONJ	paa+ecs	_	11	xcomp	_	Translit=.gat.i|LTranslit=.gat+.i
 11	비판했던	비판+하+었+던	VERB	ncpa+xsv+ep+etm	_	0	root	_	Translit=.bi.pan.haess.deon|LTranslit=.bi.pan+.ha+.eoss+.deon
@@ -23033,7 +23033,7 @@
 21	접근하는	접근+하+는	VERB	ncpa+xsv+etm	_	22	acl	_	Translit=.jeob.geun.ha.neun|LTranslit=.jeob.geun+.ha+.neun
 22	것을	것+을	NOUN	nbn+jco	_	23	obj	_	Translit=.geos.eul|LTranslit=.geos+.eul
 23	싫어하지	싫어하+지	VERB	pvg+ecx	_	0	root	_	Translit=.sirh.eo.ha.ji|LTranslit=.sirh.eo.ha+.ji
-24	않는다	않+는다	AUX	px+ef	_	23	aux	_	SpaceAfter=No|Translit=.anh.neun.da|LTranslit=.anh+.neun.da
+24	않는다	않	AUX	px+ef	_	23	aux	_	OrigLemma=않+는다|SpaceAfter=No|Translit=.anh.neun.da|LTranslit=.anh
 25	.	.	PUNCT	sf	_	24	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0180-s53
@@ -23494,7 +23494,7 @@
 15	같은	같+ㄴ	ADJ	paa+etm	_	14	conj	_	Translit=.gat.eun|LTranslit=.gat+ㄴ
 16	사실로서	사실+로서	ADV	ncn+jca	_	17	advcl	_	Translit=.sa.sil.ro.seo|LTranslit=.sa.sil+.ro.seo
 17	인정되지	인정+되+지	VERB	ncpa+xsv+ecx	_	20	ccomp	_	Translit=.in.jeong.doe.ji|LTranslit=.in.jeong+.doe+.ji
-18	않으면	않+으면	SCONJ	px+ecs	_	17	aux	_	Translit=.anh.eu.myeon|LTranslit=.anh+.eu.myeon
+18	않으면	않	AUX	px+ecs	_	17	aux	_	OrigLemma=않+으면|Translit=.anh.eu.myeon|LTranslit=.anh
 19	안	안	ADV	mag	_	20	advmod	_	Translit=.an|LTranslit=.an
 20	된다	되+ㄴ다	VERB	pvg+ef	_	0	root	_	SpaceAfter=No|Translit=.doen.da|LTranslit=.doe+ㄴ.da
 21	.	.	PUNCT	sf	_	20	punct	_	Translit=.|LTranslit=.
@@ -23913,7 +23913,7 @@
 10	자신의	자신+의	NOUN	ncn+jcm	_	11	nmod	_	Translit=.ja.sin.yi|LTranslit=.ja.sin+.yi
 11	언명을	언명+을	NOUN	ncpa+jco	_	12	obj	_	Translit=.eon.myeong.eul|LTranslit=.eon.myeong+.eul
 12	상기하지	상기+하+지	VERB	ncpa+xsv+ecx	_	15	ccomp	_	Translit=.sang.gi.ha.ji|LTranslit=.sang.gi+.ha+.ji
-13	않으면	않+으면	SCONJ	px+ecs	_	12	aux	_	Translit=.anh.eu.myeon|LTranslit=.anh+.eu.myeon
+13	않으면	않	AUX	px+ecs	_	12	aux	_	OrigLemma=않+으면|Translit=.anh.eu.myeon|LTranslit=.anh
 14	안	안	ADV	mag	_	15	advmod	_	Translit=.an|LTranslit=.an
 15	된다	되+ㄴ다	VERB	pvg+ef	_	0	root	_	SpaceAfter=No|Translit=.doen.da|LTranslit=.doe+ㄴ.da
 16	.	.	PUNCT	sf	_	15	punct	_	Translit=.|LTranslit=.
@@ -24214,7 +24214,7 @@
 14	하는	하+는	VERB	pvg+etm	_	13	conj	_	Translit=.ha.neun|LTranslit=.ha+.neun
 15	것은	것+은	NOUN	nbn+jxt	_	16	dislocated	_	Translit=.geos.eun|LTranslit=.geos+.eun
 16	존재하지	존재+하+지	VERB	ncpa+xsv+ecx	_	0	root	_	Translit=.jon.jae.ha.ji|LTranslit=.jon.jae+.ha+.ji
-17	않는다	않+는다	AUX	px+ef	_	16	aux	_	SpaceAfter=No|Translit=.anh.neun.da|LTranslit=.anh+.neun.da
+17	않는다	않	AUX	px+ef	_	16	aux	_	OrigLemma=않+는다|SpaceAfter=No|Translit=.anh.neun.da|LTranslit=.anh
 18	.	.	PUNCT	sf	_	17	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0180-s117
@@ -24371,7 +24371,7 @@
 7	것도	것+도	ADV	nbn+jxc	_	8	advcl	_	Translit=.geos.do|LTranslit=.geos+.do
 8	설정되어	설정+되+어	VERB	ncpa+xsv+ecx	_	0	root	_	Translit=.seol.jeong.doe.eo|LTranslit=.seol.jeong+.doe+.eo
 9	있지	있	AUX	px+ecx	_	8	aux	_	OrigLemma=있+지|Translit=.iss.ji|LTranslit=.iss
-10	않다	않+다	AUX	px+ef	_	8	aux	_	SpaceAfter=No|Translit=.anh.da|LTranslit=.anh+.da
+10	않다	않	AUX	px+ef	_	8	aux	_	OrigLemma=않+다|SpaceAfter=No|Translit=.anh.da|LTranslit=.anh
 11	.	.	PUNCT	sf	_	10	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0180-s127
@@ -24614,7 +24614,7 @@
 9	이외의	이외+의	NOUN	ncn+jcm	_	10	nmod	_	Translit=.i.oe.yi|LTranslit=.i.oe+.yi
 10	아무것도	아무것+도	ADV	ncn+jxc	_	11	advcl	_	Translit=.a.mu.geos.do|LTranslit=.a.mu.geos+.do
 11	사고하지	사고+하+지	VERB	ncpa+xsv+ecx	_	13	acl	_	Translit=.sa.go.ha.ji|LTranslit=.sa.go+.ha+.ji
-12	않는	않+는	AUX	px+etm	_	11	aux	_	Translit=.anh.neun|LTranslit=.anh+.neun
+12	않는	않	AUX	px+etm	_	11	aux	_	OrigLemma=않+는|Translit=.anh.neun|LTranslit=.anh
 13	것을	것+을	NOUN	nbn+jco	_	14	obj	_	Translit=.geos.eul|LTranslit=.geos+.eul
 14	의미한다	의미+하+ㄴ다	VERB	ncpa+xsv+ef	_	0	root	_	SpaceAfter=No|Translit=.yi.mi.han.da|LTranslit=.yi.mi+.ha+ㄴ.da
 15	.	.	PUNCT	sf	_	14	punct	_	Translit=.|LTranslit=.
@@ -24657,7 +24657,7 @@
 14	다른	다른	ADJ	mma	_	15	amod	_	Translit=.da.reun|LTranslit=.da.reun
 15	것을	것+을	NOUN	nbn+jco	_	16	obj	_	Translit=.geos.eul|LTranslit=.geos+.eul
 16	사고하지	사고+하+지	VERB	ncpa+xsv+ecx	_	18	acl	_	Translit=.sa.go.ha.ji|LTranslit=.sa.go+.ha+.ji
-17	않는	않+는	AUX	px+etm	_	16	aux	_	Translit=.anh.neun|LTranslit=.anh+.neun
+17	않는	않	AUX	px+etm	_	16	aux	_	OrigLemma=않+는|Translit=.anh.neun|LTranslit=.anh
 18	것을	것+을	NOUN	nbn+jco	_	19	obj	_	Translit=.geos.eul|LTranslit=.geos+.eul
 19	의미한다	의미+하+ㄴ다	VERB	ncpa+xsv+ef	_	0	root	_	SpaceAfter=No|Translit=.yi.mi.han.da|LTranslit=.yi.mi+.ha+ㄴ.da
 20	.	.	PUNCT	sf	_	19	punct	_	Translit=.|LTranslit=.
@@ -24973,7 +24973,7 @@
 10	다는	다+는	NOUN	ncn+jxt	_	12	dislocated	_	Translit=.da.neun|LTranslit=.da+.neun
 11	끝없이	끝없이	ADV	mag	_	12	advmod	_	Translit=.ggeut.eobs.i|LTranslit=.ggeut.eobs.i
 12	작아지지	작아지+지	VERB	pvg+ecx	_	14	ccomp	_	Translit=.jag.a.ji.ji|LTranslit=.jag.a.ji+.ji
-13	않으면	않+으면	SCONJ	px+ecs	_	12	aux	_	Translit=.anh.eu.myeon|LTranslit=.anh+.eu.myeon
+13	않으면	않	AUX	px+ecs	_	12	aux	_	OrigLemma=않+으면|Translit=.anh.eu.myeon|LTranslit=.anh
 14	안된다	안되+ㄴ다	VERB	pvg+ef	_	0	root	_	SpaceAfter=No|Translit=.an.doen.da|LTranslit=.an.doe+ㄴ.da
 15	.	.	PUNCT	sf	_	14	punct	_	Translit=.|LTranslit=.
 
@@ -24984,7 +24984,7 @@
 2	다는	다+는	NOUN	ncn+jxt	_	7	dislocated	_	Translit=.da.neun|LTranslit=.da+.neun
 3	크기를	크기+를	NOUN	ncn+jco	_	4	obj	_	Translit=.keu.gi.reul|LTranslit=.keu.gi+.reul
 4	갖지	갖+지	VERB	pvg+ecx	_	6	acl	_	Translit=.gaj.ji|LTranslit=.gaj+.ji
-5	않는	않+는	AUX	px+etm	_	4	aux	_	Translit=.anh.neun|LTranslit=.anh+.neun
+5	않는	않	AUX	px+etm	_	4	aux	_	OrigLemma=않+는|Translit=.anh.neun|LTranslit=.anh
 6	미소부분으로부터	미소+부분+으로+부터	ADV	ncn+ncn+jca+jxc	_	7	advcl	_	Translit=.mi.so.bu.bun.eu.ro.bu.teo|LTranslit=.mi.so+.bu.bun+.eu.ro+.bu.teo
 7	이루어지기	이루어지+기	VERB	pvg+etn	_	8	nmod	_	Translit=.i.ru.eo.ji.gi|LTranslit=.i.ru.eo.ji+.gi
 8	때문이다	때문+이+다	VERB	nbn+jp+ef	_	0	root	_	SpaceAfter=No|Translit=.ddae.mun.i.da|LTranslit=.ddae.mun+.i+.da
@@ -24996,7 +24996,7 @@
 1	그는	그+는	PRON	npd+jxt	_	6	dislocated	_	Translit=.geu.neun|LTranslit=.geu+.neun
 2	크기를	크기+를	NOUN	ncn+jco	_	3	obj	_	Translit=.keu.gi.reul|LTranslit=.keu.gi+.reul
 3	갖지	갖+지	VERB	pvg+ecx	_	5	acl	_	Translit=.gaj.ji|LTranslit=.gaj+.ji
-4	않는	않+는	AUX	px+etm	_	3	aux	_	Translit=.anh.neun|LTranslit=.anh+.neun
+4	않는	않	AUX	px+etm	_	3	aux	_	OrigLemma=않+는|Translit=.anh.neun|LTranslit=.anh
 5	미소부분으로부터	미소+부분+으로+부터	ADV	ncn+ncn+jca+jxc	_	6	advcl	_	Translit=.mi.so.bu.bun.eu.ro.bu.teo|LTranslit=.mi.so+.bu.bun+.eu.ro+.bu.teo
 6	이루어지기	이루어지+기	VERB	pvg+etn	_	0	root	_	Translit=.i.ru.eo.ji.gi|LTranslit=.i.ru.eo.ji+.gi
 7	때문이다	때문+이+다	VERB	nbn+jp+ef	_	6	aux	_	SpaceAfter=No|Translit=.ddae.mun.i.da|LTranslit=.ddae.mun+.i+.da
@@ -25101,7 +25101,7 @@
 10	그	그	DET	mmd	_	11	det	_	Translit=.geu|LTranslit=.geu
 11	자체는	자체+는	NOUN	ncn+jxt	_	14	dislocated	_	Translit=.ja.che.neun|LTranslit=.ja.che+.neun
 12	존재하지	존재+하+지	VERB	ncpa+xsv+ecx	_	15	ccomp	_	Translit=.jon.jae.ha.ji|LTranslit=.jon.jae+.ha+.ji
-13	않고	않+고	CCONJ	px+ecc	_	12	aux	_	Translit=.anh.go|LTranslit=.anh+.go
+13	않고	않	AUX	px+ecc	_	12	aux	_	OrigLemma=않+고|Translit=.anh.go|LTranslit=.anh
 14	무효한	무효+하+ㄴ	VERB	ncpa+xsv+etm	_	12	conj	_	Translit=.mu.hyo.han|LTranslit=.mu.hyo+.ha+ㄴ
 15	것이다	것+이+다	VERB	nbn+jp+ef	_	0	root	_	SpaceAfter=No|Translit=.geos.i.da|LTranslit=.geos+.i+.da
 16	.	.	PUNCT	sf	_	15	punct	_	Translit=.|LTranslit=.
@@ -26050,7 +26050,7 @@
 8	비판에	비판+에	ADV	ncpa+jca	_	9	obl	_	Translit=.bi.pan.e|LTranslit=.bi.pan+.e
 9	굴복하고	굴복+하+고	VERB	ncpa+xsv+ecx	_	0	root	_	Translit=.gul.bog.ha.go|LTranslit=.gul.bog+.ha+.go
 10	있지	있	AUX	px+ecx	_	9	aux	_	OrigLemma=있+지|Translit=.iss.ji|LTranslit=.iss
-11	않다	않+다	AUX	px+ef	_	9	aux	_	SpaceAfter=No|Translit=.anh.da|LTranslit=.anh+.da
+11	않다	않	AUX	px+ef	_	9	aux	_	OrigLemma=않+다|SpaceAfter=No|Translit=.anh.da|LTranslit=.anh
 12	.	.	PUNCT	sf	_	11	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0180-s219
@@ -26213,7 +26213,7 @@
 7	아리스토텔레스는	아리스토텔레스+는	PROPN	nq+jxt	_	9	dislocated	_	Translit=.a.ri.seu.to.tel.re.seu.neun|LTranslit=.a.ri.seu.to.tel.re.seu+.neun
 8	그렇게는	그렇게+는	NOUN	mag+jxt	_	9	obl	_	Translit=.geu.reoh.ge.neun|LTranslit=.geu.reoh.ge+.neun
 9	이야기하지	이야기+하+지	VERB	ncpa+xsv+ecx	_	0	root	_	Translit=.i.ya.gi.ha.ji|LTranslit=.i.ya.gi+.ha+.ji
-10	않는다	않+는다	AUX	px+ef	_	9	aux	_	SpaceAfter=No|Translit=.anh.neun.da|LTranslit=.anh+.neun.da
+10	않는다	않	AUX	px+ef	_	9	aux	_	OrigLemma=않+는다|SpaceAfter=No|Translit=.anh.neun.da|LTranslit=.anh
 11	.	.	PUNCT	sf	_	10	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0180-s229
@@ -26243,7 +26243,7 @@
 5	독해법의	독해법+의	NOUN	ncn+jcm	_	6	nmod	_	Translit=.dog.hae.beob.yi|LTranslit=.dog.hae.beob+.yi
 6	문제에서도	문제+에서+도	ADV	ncn+jca+jxc	_	7	advcl	_	Translit=.mun.je.e.seo.do|LTranslit=.mun.je+.e.seo+.do
 7	완전하지	완전+하+지	VERB	ncps+xsm+ecx	_	0	root	_	Translit=.wan.jeon.ha.ji|LTranslit=.wan.jeon+.ha+.ji
-8	않다	않+다	AUX	px+ef	_	7	aux	_	SpaceAfter=No|Translit=.anh.da|LTranslit=.anh+.da
+8	않다	않	AUX	px+ef	_	7	aux	_	OrigLemma=않+다|SpaceAfter=No|Translit=.anh.da|LTranslit=.anh
 9	.	.	PUNCT	sf	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0180-s231
@@ -26396,7 +26396,7 @@
 11	최초에	최초+에	ADV	ncn+jca	_	13	obl	_	Translit=.choe.cho.e|LTranslit=.choe.cho+.e
 12	바로	바로	ADV	mag	_	13	advmod	_	Translit=.ba.ro|LTranslit=.ba.ro
 13	출발하지	출발+하+지	VERB	ncpa+xsv+ecx	_	15	ccomp	_	Translit=.chul.bal.ha.ji|LTranslit=.chul.bal+.ha+.ji
-14	않으면	않+으면	SCONJ	px+ecs	_	13	aux	_	Translit=.anh.eu.myeon|LTranslit=.anh+.eu.myeon
+14	않으면	않	AUX	px+ecs	_	13	aux	_	OrigLemma=않+으면|Translit=.anh.eu.myeon|LTranslit=.anh
 15	안된다	안되+ㄴ다	VERB	pvg+ef	_	0	root	_	SpaceAfter=No|Translit=.an.doen.da|LTranslit=.an.doe+ㄴ.da
 16	.	.	PUNCT	sf	_	15	punct	_	Translit=.|LTranslit=.
 
@@ -26502,7 +26502,7 @@
 15	'	'	PUNCT	sr	_	14	punct	_	Translit='|LTranslit='
 16	이라고는	이	AUX	jp+ef+jcr+jxt	_	14	cop	_	OrigLemma=이+라+고+는|Translit=.i.ra.go.neun|LTranslit=.i
 17	생각되지	생각+되+지	VERB	ncpa+xsv+ecx	_	19	ccomp	_	Translit=.saeng.gag.doe.ji|LTranslit=.saeng.gag+.doe+.ji
-18	않는다는	않+는다는	AUX	px+etm	_	17	aux	_	Translit=.anh.neun.da.neun|LTranslit=.anh+.neun.da.neun
+18	않는다는	않	AUX	px+etm	_	17	aux	_	OrigLemma=않+는다는|Translit=.anh.neun.da.neun|LTranslit=.anh
 19	점이다	점+이+다	VERB	ncn+jp+ef	_	0	root	_	SpaceAfter=No|Translit=.jeom.i.da|LTranslit=.jeom+.i+.da
 20	.	.	PUNCT	sf	_	19	punct	_	Translit=.|LTranslit=.
 
@@ -26535,7 +26535,7 @@
 4	진행의	진행+의	NOUN	ncpa+jcm	_	5	nmod	_	Translit=.jin.haeng.yi|LTranslit=.jin.haeng+.yi
 5	제한을	제한+을	NOUN	ncpa+jco	_	6	obj	_	Translit=.je.han.eul|LTranslit=.je.han+.eul
 6	받고있지	받+고+있+지	AUX	pvg+ecx+px+ecx	_	9	acl	_	Translit=.bad.go.iss.ji|LTranslit=.bad+.go+.iss+.ji
-7	않는	않+는	AUX	px+etm	_	6	aux	_	Translit=.anh.neun|LTranslit=.anh+.neun
+7	않는	않	AUX	px+etm	_	6	aux	_	OrigLemma=않+는|Translit=.anh.neun|LTranslit=.anh
 8	충분한	충분+하+ㄴ	VERB	ncps+xsm+etm	_	9	amod	_	Translit=.chung.bun.han|LTranslit=.chung.bun+.ha+ㄴ
 9	존재를	존재+를	NOUN	ncpa+jco	_	10	obj	_	Translit=.jon.jae.reul|LTranslit=.jon.jae+.reul
 10	정식화하는	정식화+하+는	VERB	ncpa+xsv+etm	_	0	root	_	Translit=.jeong.sig.hwa.ha.neun|LTranslit=.jeong.sig.hwa+.ha+.neun
@@ -27411,7 +27411,7 @@
 18	완전히	완전+히	ADV	ncps+xsa	_	19	advmod	_	Translit=.wan.jeon.hi|LTranslit=.wan.jeon+.hi
 19	자각하고	자각+하+고	VERB	ncpa+xsv+ecx	_	0	root	_	Translit=.ja.gag.ha.go|LTranslit=.ja.gag+.ha+.go
 20	있지	있	AUX	px+ecx	_	19	aux	_	OrigLemma=있+지|Translit=.iss.ji|LTranslit=.iss
-21	않다	않+다	AUX	px+ef	_	19	aux	_	SpaceAfter=No|Translit=.anh.da|LTranslit=.anh+.da
+21	않다	않	AUX	px+ef	_	19	aux	_	OrigLemma=않+다|SpaceAfter=No|Translit=.anh.da|LTranslit=.anh
 22	.	.	PUNCT	sf	_	21	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0180-s295
@@ -28784,7 +28784,7 @@
 9	아무런	아무렇+ㄴ	VERB	pad+etm	_	10	amod	_	Translit=.a.mu.reon|LTranslit=.a.mu.reoh+ㄴ
 10	의욕도	의욕+도	ADV	ncn+jxc	_	11	advcl	_	Translit=.yi.yog.do|LTranslit=.yi.yog+.do
 11	존재하지	존재+하+지	VERB	ncpa+xsv+ecx	_	13	csubj	_	Translit=.jon.jae.ha.ji|LTranslit=.jon.jae+.ha+.ji
-12	않음이	않+ㅁ+이	NOUN	px+etn+jcc	_	11	aux	_	Translit=.anh.eum.i|LTranslit=.anh+ㅁ+.i
+12	않음이	않	AUX	px+etn+jcc	_	11	aux	_	OrigLemma=않+ㅁ+이|Translit=.anh.eum.i|LTranslit=.anh
 13	입증되었다	입증+되+었+다	VERB	ncpa+xsv+ep+ef	_	0	root	_	SpaceAfter=No|Translit=.ib.jeung.doe.eoss.da|LTranslit=.ib.jeung+.doe+.eoss+.da
 14	.	.	PUNCT	sf	_	13	punct	_	Translit=.|LTranslit=.
 
@@ -29262,7 +29262,7 @@
 8	개혁의지를	개혁+의지+를	NOUN	ncpa+ncn+jco	_	10	obj	_	Translit=.gae.hyeog.yi.ji.reul|LTranslit=.gae.hyeog+.yi.ji+.reul
 9	아직껏	아직껏	ADV	mag	_	10	advmod	_	Translit=.a.jig.ggeos|LTranslit=.a.jig.ggeos
 10	보이지	보이+지	VERB	pvg+ecx	_	6	conj	_	Translit=.bo.i.ji|LTranslit=.bo.i+.ji
-11	않고	않+고	AUX	px+ecx	_	10	aux	_	Translit=.anh.go|LTranslit=.anh+.go
+11	않고	않	AUX	px+ecx	_	10	aux	_	OrigLemma=않+고|Translit=.anh.go|LTranslit=.anh
 12	있다	있	AUX	px+ef	_	10	aux	_	OrigLemma=있+다|SpaceAfter=No|Translit=.iss.da|LTranslit=.iss
 13	.	.	PUNCT	sf	_	12	punct	_	Translit=.|LTranslit=.
 
@@ -30081,7 +30081,7 @@
 3	통일	통일	NOUN	ncpa	_	4	compound	_	Translit=.tong.il|LTranslit=.tong.il
 4	비용은	비용+은	NOUN	ncn+jxt	_	5	dislocated	_	Translit=.bi.yong.eun|LTranslit=.bi.yong+.eun
 5	크지	크+지	ADJ	paa+ecx	_	14	ccomp	_	Translit=.keu.ji|LTranslit=.keu+.ji
-6	않으며	않+으며	CCONJ	px+ecc	_	5	aux	_	Translit=.anh.eu.myeo|LTranslit=.anh+.eu.myeo
+6	않으며	않	AUX	px+ecc	_	5	aux	_	OrigLemma=않+으며|Translit=.anh.eu.myeo|LTranslit=.anh
 7	증세는	증세+는	NOUN	ncn+jxt	_	8	dislocated	_	Translit=.jeung.se.neun|LTranslit=.jeung.se+.neun
 8	없을	없+ㄹ	ADJ	paa+etm	_	5	conj	_	Translit=.eobs.eul|LTranslit=.eobs+ㄹ
 9	것이라고	것+이+라+고	VERB	nbn+jp+ef+jcr	_	8	aux	_	Translit=.geos.i.ra.go|LTranslit=.geos+.i+.ra+.go
@@ -30317,7 +30317,7 @@
 2	고르바초프는	고르바초프+는	PROPN	nq+jxt	_	4	dislocated	_	Translit=.go.reu.ba.cho.peu.neun|LTranslit=.go.reu.ba.cho.peu+.neun
 3	이것도	이것+도	ADV	npd+jxc	_	4	advcl	_	Translit=.i.geos.do|LTranslit=.i.geos+.do
 4	받아들이지	받아들이+지	VERB	pvg+ecx	_	0	root	_	Translit=.bad.a.deul.i.ji|LTranslit=.bad.a.deul.i+.ji
-5	않았다	않+았+다	AUX	px+ep+ef	_	4	aux	_	SpaceAfter=No|Translit=.anh.ass.da|LTranslit=.anh+.ass+.da
+5	않았다	않	AUX	px+ep+ef	_	4	aux	_	OrigLemma=않+았+다|SpaceAfter=No|Translit=.anh.ass.da|LTranslit=.anh
 6	.	.	PUNCT	sf	_	5	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0190-s130
@@ -31918,7 +31918,7 @@
 # text = 멀지 않아 전자제품 등에서도 동일한 현상이 나타날 것으로 우려된다.
 # translit = .meol.ji .anh.a .jeon.ja.je.pum .deung.e.seo.do .dong.il.han .hyeon.sang.i .na.ta.nal .geos.eu.ro .u.ryeo.doen.da.
 1	멀지	멀+지	ADJ	paa+ecx	_	9	amod	_	Translit=.meol.ji|LTranslit=.meol+.ji
-2	않아	않+아	SCONJ	px+ecs	_	1	aux	_	Translit=.anh.a|LTranslit=.anh+.a
+2	않아	않	AUX	px+ecs	_	1	aux	_	OrigLemma=않+아|Translit=.anh.a|LTranslit=.anh
 3	전자제품	전자+제품	NOUN	ncn+ncn	_	4	compound	_	Translit=.jeon.ja.je.pum|LTranslit=.jeon.ja+.je.pum
 4	등에서도	등+에서+도	ADV	nbn+jca+jxc	_	7	advcl	_	Translit=.deung.e.seo.do|LTranslit=.deung+.e.seo+.do
 5	동일한	동일+하+ㄴ	VERB	ncpa+xsv+etm	_	6	acl	_	Translit=.dong.il.han|LTranslit=.dong.il+.ha+ㄴ
@@ -31948,7 +31948,7 @@
 # text = 그렇지 않고서는 중국의 엄청난 도전을 결코 감당할 수 없을 것이며 그에 압도당하고 말 것이다.
 # translit = .geu.reoh.ji .anh.go.seo.neun .jung.gug.yi .eom.cheong.nan .do.jeon.eul .gyeol.ko .gam.dang.hal .su .eobs.eul .geos.i.myeo .geu.e .ab.do.dang.ha.go .mal .geos.i.da.
 1	그렇지	그렇+지	VERB	pad+ecx	_	7	amod	_	Translit=.geu.reoh.ji|LTranslit=.geu.reoh+.ji
-2	않고서는	않+고서+는	NOUN	px+ecs+jxt	_	1	aux	_	Translit=.anh.go.seo.neun|LTranslit=.anh+.go.seo+.neun
+2	않고서는	않	AUX	px+ecs+jxt	_	1	aux	_	OrigLemma=않+고서+는|Translit=.anh.go.seo.neun|LTranslit=.anh
 3	중국의	중국+의	PROPN	nq+jcm	_	5	nmod	_	Translit=.jung.gug.yi|LTranslit=.jung.gug+.yi
 4	엄청난	엄청나+ㄴ	ADJ	paa+etm	_	5	amod	_	Translit=.eom.cheong.nan|LTranslit=.eom.cheong.na+ㄴ
 5	도전을	도전+을	NOUN	ncpa+jco	_	7	obj	_	Translit=.do.jeon.eul|LTranslit=.do.jeon+.eul
@@ -32545,7 +32545,7 @@
 10	점은	점+은	NOUN	ncn+jxt	_	11	dislocated	_	Translit=.jeom.eun|LTranslit=.jeom+.eun
 11	예상하기	예상+하+기	VERB	ncpa+xsv+etn	_	12	nmod	_	Translit=.ye.sang.ha.gi|LTranslit=.ye.sang+.ha+.gi
 12	어렵지	어렵+지	ADJ	paa+ecx	_	0	root	_	Translit=.eo.ryeob.ji|LTranslit=.eo.ryeob+.ji
-13	않다	않+다	AUX	px+ef	_	12	aux	_	SpaceAfter=No|Translit=.anh.da|LTranslit=.anh+.da
+13	않다	않	AUX	px+ef	_	12	aux	_	OrigLemma=않+다|SpaceAfter=No|Translit=.anh.da|LTranslit=.anh
 14	.	.	PUNCT	sf	_	13	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0190-s256
@@ -33282,7 +33282,7 @@
 5	경제활동을	경제+활동+을	NOUN	ncn+ncpa+jco	_	12	obj	_	Translit=.gyeong.je.hwal.dong.eul|LTranslit=.gyeong.je+.hwal.dong+.eul
 6	정부가	정부+가	NOUN	ncn+jcs	_	7	nsubj	_	Translit=.jeong.bu.ga|LTranslit=.jeong.bu+.ga
 7	개입하지	개입+하+지	VERB	ncpa+xsv+ecx	_	13	acl	_	Translit=.gae.ib.ha.ji|LTranslit=.gae.ib+.ha+.ji
-8	않고	않+고	CCONJ	px+ecc	_	7	aux	_	Translit=.anh.go|LTranslit=.anh+.go
+8	않고	않	AUX	px+ecc	_	7	aux	_	OrigLemma=않+고|Translit=.anh.go|LTranslit=.anh
 9	자유로운	자유롭+ㄴ	ADJ	paa+etm	_	10	amod	_	Translit=.ja.yu.ro.un|LTranslit=.ja.yu.rob+ㄴ
 10	시장기구의	시장+기구+의	NOUN	ncn+ncn+jcm	_	11	nmod	_	Translit=.si.jang.gi.gu.yi|LTranslit=.si.jang+.gi.gu+.yi
 11	작용에	작용+에	ADV	ncpa+jca	_	12	obl	_	Translit=.jag.yong.e|LTranslit=.jag.yong+.e
@@ -33309,7 +33309,7 @@
 13	경우에는	경우+에+는	NOUN	ncn+jca+jxt	_	15	dislocated	_	Translit=.gyeong.u.e.neun|LTranslit=.gyeong.u+.e+.neun
 14	오히려	오히려	ADV	mag	_	15	advmod	_	Translit=.o.hi.ryeo|LTranslit=.o.hi.ryeo
 15	하지	하+지	VERB	pvg+ecx	_	9	conj	_	Translit=.ha.ji|LTranslit=.ha+.ji
-16	않는	않+는	AUX	px+etm	_	15	aux	_	Translit=.anh.neun|LTranslit=.anh+.neun
+16	않는	않	AUX	px+etm	_	15	aux	_	OrigLemma=않+는|Translit=.anh.neun|LTranslit=.anh
 17	경우가	경우+가	NOUN	ncn+jcs	_	18	nsubj	_	Translit=.gyeong.u.ga|LTranslit=.gyeong.u+.ga
 18	흔하다	흔하+다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No|Translit=.heun.ha.da|LTranslit=.heun.ha+.da
 19	.	.	PUNCT	sf	_	18	punct	_	Translit=.|LTranslit=.
@@ -33684,7 +33684,7 @@
 2	효율을	효율+을	NOUN	ncn+jco	_	4	obj	_	Translit=.hyo.yul.eul|LTranslit=.hyo.yul+.eul
 3	크게	크+게	SCONJ	paa+ecs	_	4	xcomp	_	Translit=.keu.ge|LTranslit=.keu+.ge
 4	저해하지	저해+하+지	VERB	ncpa+xsv+ecx	_	8	ccomp	_	Translit=.jeo.hae.ha.ji|LTranslit=.jeo.hae+.ha+.ji
-5	않으면서	않+으면서	SCONJ	px+ecs	_	4	aux	_	Translit=.anh.eu.myeon.seo|LTranslit=.anh+.eu.myeon.seo
+5	않으면서	않	AUX	px+ecs	_	4	aux	_	OrigLemma=않+으면서|Translit=.anh.eu.myeon.seo|LTranslit=.anh
 6	이	이	DET	mmd	_	7	det	_	Translit=.i|LTranslit=.i
 7	목표를	목표+를	NOUN	ncpa+jco	_	8	obj	_	Translit=.mog.pyo.reul|LTranslit=.mog.pyo+.reul
 8	성취해야	성취+하+어야	VERB	ncpa+xsv+ecx	_	10	acl	_	Translit=.seong.chwi.hae.ya|LTranslit=.seong.chwi+.ha+.eo.ya
@@ -33727,7 +33727,7 @@
 1	온	온	ADJ	mma	_	2	amod	_	Translit=.on|LTranslit=.on
 2	국민이	국민+이	NOUN	ncn+jcs	_	3	nsubj	_	Translit=.gug.min.i|LTranslit=.gug.min+.i
 3	긴장하지	긴장+하+지	VERB	ncpa+xsv+ecx	_	12	ccomp	_	Translit=.gin.jang.ha.ji|LTranslit=.gin.jang+.ha+.ji
-4	않는다면	않+는다면	SCONJ	px+ecs	_	3	aux	_	Translit=.anh.neun.da.myeon|LTranslit=.anh+.neun.da.myeon
+4	않는다면	않	AUX	px+ecs	_	3	aux	_	OrigLemma=않+는다면|Translit=.anh.neun.da.myeon|LTranslit=.anh
 5	거대한	거대+하+ㄴ	VERB	ncps+xsm+etm	_	6	amod	_	Translit=.geo.dae.han|LTranslit=.geo.dae+.ha+ㄴ
 6	변화의	변화+의	NOUN	ncpa+jcm	_	7	nmod	_	Translit=.byeon.hwa.yi|LTranslit=.byeon.hwa+.yi
 7	물결이	물결+이	NOUN	ncn+jcs	_	10	nsubj	_	Translit=.mul.gyeol.i|LTranslit=.mul.gyeol+.i
@@ -33872,7 +33872,7 @@
 6	블록에도	블록+에+도	ADV	ncn+jca+jxc	_	7	advcl	_	Translit=.beul.rog.e.do|LTranslit=.beul.rog+.e+.do
 7	속해	속하+어	VERB	pvg+ecx	_	10	acl	_	Translit=.sog.hae|LTranslit=.sog.ha+.eo
 8	있지	있	AUX	px+ecx	_	7	aux	_	OrigLemma=있+지|Translit=.iss.ji|LTranslit=.iss
-9	않은	않+ㄴ	AUX	px+etm	_	7	aux	_	Translit=.anh.eun|LTranslit=.anh+ㄴ
+9	않은	않	AUX	px+etm	_	7	aux	_	OrigLemma=않+ㄴ|Translit=.anh.eun|LTranslit=.anh
 10	나라들에게는	나라+들+에게+는	NOUN	ncn+xsn+jca+jxt	_	13	dislocated	_	Translit=.na.ra.deul.e.ge.neun|LTranslit=.na.ra+.deul+.e.ge+.neun
 11	차별적인	차별+적+이+ㄴ	VERB	ncpa+xsn+jp+etm	_	12	acl	_	Translit=.cha.byeol.jeog.in|LTranslit=.cha.byeol+.jeog+.i+ㄴ
 12	대우를	대우+를	NOUN	ncn+jco	_	13	obj	_	Translit=.dae.u.reul|LTranslit=.dae.u+.reul
@@ -33977,7 +33977,7 @@
 7	,	,	PUNCT	sp	_	6	punct	_	Translit=,|LTranslit=,
 8	환경요소를	환경+요소+를	NOUN	ncn+ncn+jco	_	9	obj	_	Translit=.hwan.gyeong.yo.so.reul|LTranslit=.hwan.gyeong+.yo.so+.reul
 9	참작하지	참작+하+지	VERB	ncpa+xsv+ecx	_	13	dep	_	Translit=.cham.jag.ha.ji|LTranslit=.cham.jag+.ha+.ji
-10	않고서는	않+고서+는	NOUN	px+ecs+jxt	_	9	aux	_	Translit=.anh.go.seo.neun|LTranslit=.anh+.go.seo+.neun
+10	않고서는	않	AUX	px+ecs+jxt	_	9	aux	_	OrigLemma=않+고서+는|Translit=.anh.go.seo.neun|LTranslit=.anh
 11	국제경쟁력을	국제+경쟁력+을	NOUN	ncn+ncn+jco	_	12	obj	_	Translit=.gug.je.gyeong.jaeng.ryeog.eul|LTranslit=.gug.je+.gyeong.jaeng.ryeog+.eul
 12	유지하기	유지+하+기	VERB	ncpa+xsv+etn	_	13	nmod	_	Translit=.yu.ji.ha.gi|LTranslit=.yu.ji+.ha+.gi
 13	어려운	어렵+ㄴ	ADJ	paa+etm	_	14	amod	_	Translit=.eo.ryeo.un|LTranslit=.eo.ryeob+ㄴ
@@ -34277,7 +34277,7 @@
 13	게임의	게임+의	NOUN	ncn+jcm	_	14	nmod	_	Translit=.ge.im.yi|LTranslit=.ge.im+.yi
 14	법칙을	법칙+을	NOUN	ncn+jco	_	15	obj	_	Translit=.beob.chig.eul|LTranslit=.beob.chig+.eul
 15	따르지	따르+지	VERB	pvg+ecx	_	18	dep	_	Translit=.dda.reu.ji|LTranslit=.dda.reu+.ji
-16	않고	않+고	AUX	px+ecx	_	15	aux	_	Translit=.anh.go|LTranslit=.anh+.go
+16	않고	않	AUX	px+ecx	_	15	aux	_	OrigLemma=않+고|Translit=.anh.go|LTranslit=.anh
 17	있기	있	AUX	px+etn	_	15	aux	_	OrigLemma=있+기|Translit=.iss.gi|LTranslit=.iss
 18	때문으로	때문+으로	ADV	nbn+jca	_	19	advcl	_	Translit=.ddae.mun.eu.ro|LTranslit=.ddae.mun+.eu.ro
 19	인식하였다	인식+하+었+다	VERB	ncpa+xsv+ep+ef	_	0	root	_	SpaceAfter=No|Translit=.in.sig.ha.yeoss.da|LTranslit=.in.sig+.ha+.eoss+.da
@@ -34345,7 +34345,7 @@
 6	자체도	자체+도	ADV	ncn+jxc	_	7	advcl	_	Translit=.ja.che.do|LTranslit=.ja.che+.do
 7	인정하려고	인정+하+려고	VERB	ncpa+xsv+ecx	_	0	root	_	Translit=.in.jeong.ha.ryeo.go|LTranslit=.in.jeong+.ha+.ryeo.go
 8	하지	하	AUX	px+ecx	_	7	aux	_	OrigLemma=하+지|Translit=.ha.ji|LTranslit=.ha
-9	않고	않+고	AUX	px+ecx	_	7	aux	_	Translit=.anh.go|LTranslit=.anh+.go
+9	않고	않	AUX	px+ecx	_	7	aux	_	OrigLemma=않+고|Translit=.anh.go|LTranslit=.anh
 10	있다	있	AUX	px+ef	_	7	aux	_	OrigLemma=있+다|SpaceAfter=No|Translit=.iss.da|LTranslit=.iss
 11	.	.	PUNCT	sf	_	10	punct	_	Translit=.|LTranslit=.
 
@@ -34864,7 +34864,7 @@
 13	비관세장벽은	비관세+장벽+은	NOUN	ncn+ncn+jxt	_	15	dislocated	_	Translit=.bi.gwan.se.jang.byeog.eun|LTranslit=.bi.gwan.se+.jang.byeog+.eun
 14	일체	일체	NOUN	ncn	_	15	compound	_	Translit=.il.che|LTranslit=.il.che
 15	허용되지	허용+되+지	VERB	ncpa+xsv+ecx	_	0	root	_	Translit=.heo.yong.doe.ji|LTranslit=.heo.yong+.doe+.ji
-16	않는다	않+는다	AUX	px+ef	_	15	aux	_	SpaceAfter=No|Translit=.anh.neun.da|LTranslit=.anh+.neun.da
+16	않는다	않	AUX	px+ef	_	15	aux	_	OrigLemma=않+는다|SpaceAfter=No|Translit=.anh.neun.da|LTranslit=.anh
 17	.	.	PUNCT	sf	_	16	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0190-s383
@@ -35075,7 +35075,7 @@
 3	볼	보+ㄹ	VERB	pvg+etm	_	4	acl	_	Translit=.bol|LTranslit=.bo+ㄹ
 4	때	때	NOUN	ncn	_	5	compound	_	Translit=.ddae|LTranslit=.ddae
 5	가능하지도	가능+하+지+도	ADV	ncps+xsm+ecx+jxc	_	7	amod	_	Translit=.ga.neung.ha.ji.do|LTranslit=.ga.neung+.ha+.ji+.do
-6	않은	않+ㄴ	AUX	px+etm	_	5	aux	_	Translit=.anh.eun|LTranslit=.anh+ㄴ
+6	않은	않	AUX	px+etm	_	5	aux	_	OrigLemma=않+ㄴ|Translit=.anh.eun|LTranslit=.anh
 7	일에	일+에	ADV	ncn+jca	_	12	obl	_	Translit=.il.e|LTranslit=.il+.e
 8	귀중한	귀중+하+ㄴ	VERB	ncps+xsm+etm	_	9	amod	_	Translit=.gwi.jung.han|LTranslit=.gwi.jung+.ha+ㄴ
 9	노력을	노력+을	NOUN	ncpa+jco	_	10	obj	_	Translit=.no.ryeog.eul|LTranslit=.no.ryeog+.eul
@@ -35393,7 +35393,7 @@
 1	우리	우리	PRON	npp	_	2	compound	_	Translit=.u.ri|LTranslit=.u.ri
 2	시장을	시장+을	NOUN	ncn+jco	_	3	obj	_	Translit=.si.jang.eul|LTranslit=.si.jang+.eul
 3	개방하지	개방+하+지	VERB	ncpa+xsv+ecx	_	7	acl	_	Translit=.gae.bang.ha.ji|LTranslit=.gae.bang+.ha+.ji
-4	않고	않+고	CCONJ	px+ecc	_	3	aux	_	Translit=.anh.go|LTranslit=.anh+.go
+4	않고	않	AUX	px+ecc	_	3	aux	_	OrigLemma=않+고|Translit=.anh.go|LTranslit=.anh
 5	수출만	수출+만	ADV	ncpa+jxc	_	6	advcl	_	Translit=.su.chul.man|LTranslit=.su.chul+.man
 6	늘리는	늘리+는	VERB	pvg+etm	_	3	conj	_	Translit=.neul.ri.neun|LTranslit=.neul.ri+.neun
 7	것은	것+은	NOUN	nbn+jxt	_	9	dislocated	_	Translit=.geos.eun|LTranslit=.geos+.eun
@@ -35884,7 +35884,7 @@
 7	등	등	NOUN	nbn	_	9	obl	_	OrigDeprel=mark|Translit=.deung|LTranslit=.deung
 8	전도가	전도+가	NOUN	ncpa+jcs	_	9	nsubj	_	Translit=.jeon.do.ga|LTranslit=.jeon.do+.ga
 9	순탄하지만은	순탄+하+지+만+은	NOUN	ncps+xsm+ecx+jxc+jxt	_	11	amod	_	Translit=.sun.tan.ha.ji.man.eun|LTranslit=.sun.tan+.ha+.ji+.man+.eun
-10	않을	않+ㄹ	AUX	px+etm	_	9	aux	_	Translit=.anh.eul|LTranslit=.anh+ㄹ
+10	않을	않	AUX	px+etm	_	9	aux	_	OrigLemma=않+ㄹ|Translit=.anh.eul|LTranslit=.anh
 11	것으로	것+으로	ADV	nbn+jca	_	12	advcl	_	Translit=.geos.eu.ro|LTranslit=.geos+.eu.ro
 12	예상되지만	예상+되+지만	SCONJ	ncpa+xsv+ecs	_	19	ccomp	_	SpaceAfter=No|Translit=.ye.sang.doe.ji.man|LTranslit=.ye.sang+.doe+.ji.man
 13	,	,	PUNCT	sp	_	12	punct	_	Translit=,|LTranslit=,
@@ -37233,7 +37233,7 @@
 4	과학기술의	과학기술+의	NOUN	ncn+jcm	_	5	nmod	_	Translit=.gwa.hag.gi.sul.yi|LTranslit=.gwa.hag.gi.sul+.yi
 5	자립을	자립+을	NOUN	ncpa+jco	_	6	obj	_	Translit=.ja.rib.eul|LTranslit=.ja.rib+.eul
 6	이룩하지	이룩하+지	VERB	pvg+ecx	_	10	dislocated	_	Translit=.i.rug.ha.ji|LTranslit=.i.rug.ha+.ji
-7	않고서는	않+고서+는	NOUN	px+ecs+jxt	_	6	aux	_	Translit=.anh.go.seo.neun|LTranslit=.anh+.go.seo+.neun
+7	않고서는	않	AUX	px+ecs+jxt	_	6	aux	_	OrigLemma=않+고서+는|Translit=.anh.go.seo.neun|LTranslit=.anh
 8	도저히	도저히	ADV	mag	_	10	advmod	_	Translit=.do.jeo.hi|LTranslit=.do.jeo.hi
 9	국제경쟁에서	국제+경쟁+에서	ADV	ncn+ncpa+jca	_	10	advcl	_	Translit=.gug.je.gyeong.jaeng.e.seo|LTranslit=.gug.je+.gyeong.jaeng+.e.seo
 10	살아남을	살아남+을	VERB	pvg+etm	_	14	obj	_	Translit=.sal.a.nam.eul|LTranslit=.sal.a.nam+.eul
