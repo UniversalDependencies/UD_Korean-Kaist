@@ -11079,7 +11079,7 @@
 12	여러	여러	ADJ	mma	_	13	amod	_	Translit=.yeo.reo|LTranslit=.yeo.reo
 13	가지	가지	NOUN	nbu	_	14	compound	_	Translit=.ga.ji|LTranslit=.ga.ji
 14	이론이	이론+이	NOUN	ncn+jcs	_	15	nsubj	_	Translit=.i.ron.i|LTranslit=.i.ron+.i
-15	있어왔다	있+어+오+았+다	AUX	paa+ecx+px+ep+ef	_	0	root	_	SpaceAfter=No|Translit=.iss.eo.wass.da|LTranslit=.iss+.eo+.o+.ass+.da
+15	있어왔다	있	AUX	paa+ecx+px+ep+ef	_	0	root	_	OrigLemma=있+어+오+았+다|SpaceAfter=No|Translit=.iss.eo.wass.da|LTranslit=.iss
 16	.	.	PUNCT	sf	_	15	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0109-s17

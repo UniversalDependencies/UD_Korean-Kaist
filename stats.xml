@@ -10,7 +10,7 @@
     <dev><sentences>2066</sentences><tokens>25278</tokens><words>25278</words><fused>0</fused></dev>
     <test><sentences>2287</sentences><tokens>28366</tokens><words>28366</words><fused>0</fused></test>
   </size>
-  <lemmas unique="99019" /><!-- ., ,, 있, 수, 그, 이, 것+이+다, 않, 하, 있+다, 그러나, ', 것+은, (, ) -->
+  <lemmas unique="99016" /><!-- ., ,, 있, 수, 그, 이, 것+이+다, 않, 하, 있+다, 그러나, ', 것+은, (, ) -->
   <forms unique="97863" /><!-- ., ,, 있다, 수, 그, 것이다, 이, 있는, 그러나, ', (, ), 것은, 한, 것이 -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
