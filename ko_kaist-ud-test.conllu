@@ -6358,7 +6358,7 @@
 1	유빙군을	유빙군+을	NOUN	ncn+jco	_	3	obj	_	Translit=.yu.bing.gun.eul|LTranslit=.yu.bing.gun+.eul
 2	직접	직접	ADV	mag	_	3	advmod	_	Translit=.jig.jeob|LTranslit=.jig.jeob
 3	보고	보+고	VERB	pvg+ecx	_	11	ccomp	_	Translit=.bo.go|LTranslit=.bo+.go
-4	싶어	싶+어	SCONJ	px+ecs	_	3	aux	_	Translit=.sip.eo|LTranslit=.sip+.eo
+4	싶어	싶	AUX	px+ecs	_	3	aux	_	OrigLemma=싶+어|Translit=.sip.eo|LTranslit=.sip
 5	사진기와	사진기+와	CCONJ	ncn+jcj	_	7	obj	_	Translit=.sa.jin.gi.wa|LTranslit=.sa.jin.gi+.wa
 6	무전기를	무전기+를	NOUN	ncn+jco	_	5	conj	_	Translit=.mu.jeon.gi.reul|LTranslit=.mu.jeon.gi+.reul
 7	들고	들+고	CCONJ	pvg+ecc	_	0	root	_	Translit=.deul.go|LTranslit=.deul+.go
@@ -14010,7 +14010,7 @@
 9	옥스포드	옥스포드	PROPN	nq	_	10	compound	_	Translit=.og.seu.po.deu|LTranslit=.og.seu.po.deu
 10	악센트가	악센트+가	NOUN	ncn+jcs	_	11	nsubj	_	Translit=.ag.sen.teu.ga|LTranslit=.ag.sen.teu+.ga
 11	듣고	듣+고	VERB	pvg+ecx	_	0	root	_	Translit=.deud.go|LTranslit=.deud+.go
-12	싶었다	싶+었+다	AUX	px+ep+ef	_	11	aux	_	SpaceAfter=No|Translit=.sip.eoss.da|LTranslit=.sip+.eoss+.da
+12	싶었다	싶	AUX	px+ep+ef	_	11	aux	_	OrigLemma=싶+었+다|SpaceAfter=No|Translit=.sip.eoss.da|LTranslit=.sip
 13	.	.	PUNCT	sf	_	12	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0110-s25
@@ -14025,7 +14025,7 @@
 7	꼭	꼭	ADV	mag	_	8	advmod	_	Translit=.ggog|LTranslit=.ggog
 8	가	가+아	VERB	pvg+ecx	_	6	conj	_	Translit=.ga|LTranslit=.ga+.a
 9	보고	보+고	AUX	px+ecx	_	8	aux	_	Translit=.bo.go|LTranslit=.bo+.go
-10	싶은	싶+ㄴ	AUX	px+etm	_	8	aux	_	Translit=.sip.eun|LTranslit=.sip+ㄴ
+10	싶은	싶	AUX	px+etm	_	8	aux	_	OrigLemma=싶+ㄴ|Translit=.sip.eun|LTranslit=.sip
 11	향수와	향수+와	CCONJ	ncn+jcj	_	13	nmod	_	Translit=.hyang.su.wa|LTranslit=.hyang.su+.wa
 12	호기심의	호기심+의	NOUN	ncn+jcm	_	11	conj	_	Translit=.ho.gi.sim.yi|LTranslit=.ho.gi.sim+.yi
 13	나라가	나라+가	NOUN	ncn+jcs	_	14	nsubj	_	Translit=.na.ra.ga|LTranslit=.na.ra+.ga
@@ -14057,7 +14057,7 @@
 18	속을	속+을	NOUN	ncn+jco	_	19	obj	_	Translit=.sog.eul|LTranslit=.sog+.eul
 19	걸어	걷+어	VERB	pvg+ecx	_	12	conj	_	Translit=.geol.eo|LTranslit=.geod+.eo
 20	보고	보+고	AUX	px+ecx	_	19	aux	_	Translit=.bo.go|LTranslit=.bo+.go
-21	싶었을	싶+었+ㄹ	AUX	px+ep+etm	_	19	aux	_	Translit=.sip.eoss.eul|LTranslit=.sip+.eoss+ㄹ
+21	싶었을	싶	AUX	px+ep+etm	_	19	aux	_	OrigLemma=싶+었+ㄹ|Translit=.sip.eoss.eul|LTranslit=.sip
 22	것이다	것+이+다	VERB	nbn+jp+ef	_	19	advcl	_	SpaceAfter=No|Translit=.geos.i.da|LTranslit=.geos+.i+.da
 23	.	.	PUNCT	sf	_	22	punct	_	Translit=.|LTranslit=.
 
@@ -27753,7 +27753,7 @@
 3	장을	장+을	NOUN	nbu+jco	_	5	obj	_	Translit=.jang.eul|LTranslit=.jang+.eul
 4	간단히	간단+히	ADV	ncps+xsa	_	5	advmod	_	Translit=.gan.dan.hi|LTranslit=.gan.dan+.hi
 5	소개하고	소개+하+고	VERB	ncpa+xsv+ecx	_	0	root	_	Translit=.so.gae.ha.go|LTranslit=.so.gae+.ha+.go
-6	싶다	싶+다	AUX	px+ef	_	5	aux	_	SpaceAfter=No|Translit=.sip.da|LTranslit=.sip+.da
+6	싶다	싶	AUX	px+ef	_	5	aux	_	OrigLemma=싶+다|SpaceAfter=No|Translit=.sip.da|LTranslit=.sip
 7	.	.	PUNCT	sf	_	6	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0180-s315

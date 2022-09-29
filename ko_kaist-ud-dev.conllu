@@ -13941,7 +13941,7 @@
 8	만화책을	만화책+을	NOUN	ncn+jco	_	10	obj	_	Translit=.man.hwa.chaeg.eul|LTranslit=.man.hwa.chaeg+.eul
 9	또다시	또다시	ADV	mag	_	10	advmod	_	Translit=.ddo.da.si|LTranslit=.ddo.da.si
 10	읽고	읽+고	VERB	pvg+ecx	_	0	root	_	Translit=.irg.go|LTranslit=.irg+.go
-11	싶었던	싶+었+던	AUX	px+ep+etm	_	10	aux	_	Translit=.sip.eoss.deon|LTranslit=.sip+.eoss+.deon
+11	싶었던	싶	AUX	px+ep+etm	_	10	aux	_	OrigLemma=싶+었+던|Translit=.sip.eoss.deon|LTranslit=.sip
 12	것이다	것+이+다	VERB	nbn+jp+ef	_	10	advcl	_	SpaceAfter=No|Translit=.geos.i.da|LTranslit=.geos+.i+.da
 13	.	.	PUNCT	sf	_	12	punct	_	Translit=.|LTranslit=.
 
@@ -15007,7 +15007,7 @@
 4	위해	위하+어	SCONJ	pvg+ecs	_	5	ccomp	_	Translit=.wi.hae|LTranslit=.wi.ha+.eo
 5	던져	던지+어	VERB	pvg+ecx	_	8	ccomp	_	Translit=.deon.jyeo|LTranslit=.deon.ji+.eo
 6	보고	보+고	AUX	px+ecx	_	5	aux	_	Translit=.bo.go|LTranslit=.bo+.go
-7	싶은	싶+ㄴ	AUX	px+etm	_	5	aux	_	Translit=.sip.eun|LTranslit=.sip+ㄴ
+7	싶은	싶	AUX	px+etm	_	5	aux	_	OrigLemma=싶+ㄴ|Translit=.sip.eun|LTranslit=.sip
 8	질문이다	질문+이+다	VERB	ncpa+jp+ef	_	0	root	_	SpaceAfter=No|Translit=.jil.mun.i.da|LTranslit=.jil.mun+.i+.da
 9	.	.	PUNCT	sf	_	8	punct	_	Translit=.|LTranslit=.
 
@@ -15917,7 +15917,7 @@
 12	지속적인	지속+적+이+ㄴ	VERB	ncpa+xsn+jp+etm	_	13	acl	_	Translit=.ji.sog.jeog.in|LTranslit=.ji.sog+.jeog+.i+ㄴ
 13	도전이라고	도전+이+라+고	VERB	ncn+jp+ef+jcr	_	0	root	_	Translit=.do.jeon.i.ra.go|LTranslit=.do.jeon+.i+.ra+.go
 14	규정하고	규정+하+고	VERB	ncpa+xsv+ecx	_	13	conj	_	Translit=.gyu.jeong.ha.go|LTranslit=.gyu.jeong+.ha+.go
-15	싶습니다	싶+습니다	AUX	px+ef	_	14	aux	_	SpaceAfter=No|Translit=.sip.seub.ni.da|LTranslit=.sip+.seub.ni.da
+15	싶습니다	싶	AUX	px+ef	_	14	aux	_	OrigLemma=싶+습니다|SpaceAfter=No|Translit=.sip.seub.ni.da|LTranslit=.sip
 16	.	.	PUNCT	sf	_	15	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0159-s130
@@ -18891,7 +18891,7 @@
 4	독자의	독자+의	NOUN	ncn+jcm	_	5	nmod	_	Translit=.dog.ja.yi|LTranslit=.dog.ja+.yi
 5	자손에까지	자손+에+까지	ADV	ncn+jca+jxc	_	6	advcl	_	Translit=.ja.son.e.gga.ji|LTranslit=.ja.son+.e+.gga.ji
 6	읽히고	읽히+고	VERB	pvg+ecx	_	8	acl	_	Translit=.irg.hi.go|LTranslit=.irg.hi+.go
-7	싶은	싶+ㄴ	AUX	px+etm	_	6	aux	_	Translit=.sip.eun|LTranslit=.sip+ㄴ
+7	싶은	싶	AUX	px+etm	_	6	aux	_	OrigLemma=싶+ㄴ|Translit=.sip.eun|LTranslit=.sip
 8	마음은	마음+은	NOUN	ncn+jxt	_	9	dislocated	_	Translit=.ma.eum.eun|LTranslit=.ma.eum+.eun
 9	없습니다	없+습니다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No|Translit=.eobs.seub.ni.da|LTranslit=.eobs+.seub.ni.da
 10	.	.	PUNCT	sf	_	9	punct	_	Translit=.|LTranslit=.
@@ -19000,7 +19000,7 @@
 13	때문에	때문+에	ADV	nbn+jca	_	15	obl	_	Translit=.ddae.mun.e|LTranslit=.ddae.mun+.e
 14	자손에게까지	자손+에게+까지	ADV	ncn+jca+jxc	_	15	advcl	_	Translit=.ja.son.e.ge.gga.ji|LTranslit=.ja.son+.e.ge+.gga.ji
 15	읽히고	읽히+고	VERB	pvg+ecx	_	0	root	_	Translit=.irg.hi.go|LTranslit=.irg.hi+.go
-16	싶지	싶+지	AUX	px+ecx	_	15	aux	_	Translit=.sip.ji|LTranslit=.sip+.ji
+16	싶지	싶	AUX	px+ecx	_	15	aux	_	OrigLemma=싶+지|Translit=.sip.ji|LTranslit=.sip
 17	않다고	않	AUX	px+ef+jcr	_	15	aux	_	OrigLemma=않+다+고|Translit=.anh.da.go|LTranslit=.anh
 18	잘라	자르+아	SCONJ	pvg+ecs	_	19	ccomp	_	Translit=.jal.ra|LTranslit=.ja.reu+.a
 19	말한다	말하+ㄴ다	VERB	pvg+ef	_	15	conj	_	SpaceAfter=No|Translit=.mal.han.da|LTranslit=.mal.ha+ㄴ.da
@@ -20259,7 +20259,7 @@
 17	때문이라는	때문+이+라는	VERB	nbn+jp+etm	_	16	advcl	_	Translit=.ddae.mun.i.ra.neun|LTranslit=.ddae.mun+.i+.ra.neun
 18	점만은	점+만+은	NOUN	ncn+jxc+jxt	_	19	dislocated	_	Translit=.jeom.man.eun|LTranslit=.jeom+.man+.eun
 19	인정받고	인정받+고	VERB	pvg+ecx	_	0	root	_	Translit=.in.jeong.bad.go|LTranslit=.in.jeong.bad+.go
-20	싶다	싶+다	AUX	px+ef	_	19	aux	_	SpaceAfter=No|Translit=.sip.da|LTranslit=.sip+.da
+20	싶다	싶	AUX	px+ef	_	19	aux	_	OrigLemma=싶+다|SpaceAfter=No|Translit=.sip.da|LTranslit=.sip
 21	.	.	PUNCT	sf	_	20	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0169-s13
@@ -30643,7 +30643,7 @@
 9	진짜	진짜	NOUN	ncn	_	10	dep	_	Translit=.jin.jja|LTranslit=.jin.jja
 10	해보라고	하+어+보+라+고	VERB	pvg+ecx+px+ef+jcr	_	7	conj	_	Translit=.hae.bo.ra.go|LTranslit=.ha+.eo+.bo+.ra+.go
 11	주장하고	주장+하+고	VERB	ncpa+xsv+ecx	_	7	conj	_	Translit=.ju.jang.ha.go|LTranslit=.ju.jang+.ha+.go
-12	싶다	싶+다	AUX	px+ef	_	11	aux	_	SpaceAfter=No|Translit=.sip.da|LTranslit=.sip+.da
+12	싶다	싶	AUX	px+ef	_	11	aux	_	OrigLemma=싶+다|SpaceAfter=No|Translit=.sip.da|LTranslit=.sip
 13	.	.	PUNCT	sf	_	12	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MH2_0169-s716
