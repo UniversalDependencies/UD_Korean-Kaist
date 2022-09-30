@@ -1930,7 +1930,7 @@
 2	직업은	직업+은	NOUN	ncn+jxt	_	13	dislocated	_	Translit=.jig.eob.eun|LTranslit=.jig.eob+.eun
 3	특히	특히	ADV	mag	_	13	advmod	_	Translit=.teug.hi|LTranslit=.teug.hi
 4	밖에서	밖+에서	ADV	ncn+jca	_	5	advcl	_	Translit=.bagg.e.seo|LTranslit=.bagg+.e.seo
-5	보는	보+는	VERB	pvg+etm	_	6	acl	_	Translit=.bo.neun|LTranslit=.bo+.neun
+5	보는	보+는	VERB	pvg+etm	_	10	acl	_	Translit=.bo.neun|LTranslit=.bo+.neun
 6	것과	것+과	CCONJ	nbn+jcj	_	10	mark	_	Translit=.geos.gwa|LTranslit=.geos+.gwa
 7	안에서	안+에서	ADV	ncn+jca	_	8	advcl	_	Translit=.an.e.seo|LTranslit=.an+.e.seo
 8	일하는	일하+는	VERB	pvg+etm	_	9	acl	_	Translit=.il.ha.neun|LTranslit=.il.ha+.neun
@@ -9504,7 +9504,7 @@
 # sent_id = MH2_0010-s445
 # text = 뿐만 아니라 호흡기관, 체열보존 등 생리조직과 깃털과 피하지방 등이 추운 곳에 살 수 있도록 발달되어 환경에 적응되어 있다.
 # translit = .bbun.man .a.ni.ra .ho.heub.gi.gwan, .che.yeol.bo.jon .deung .saeng.ri.jo.jig.gwa .gis.teol.gwa .pi.ha.ji.bang .deung.i .chu.un .gos.e .sal .su .iss.do.rog .bal.dal.doe.eo .hwan.gyeong.e .jeog.eung.doe.eo .iss.da.
-1	뿐만	뿐+만	ADV	nbn+jxc	_	2	dep	_	Translit=.bbun.man|LTranslit=.bbun+.man
+1	뿐만	뿐+만	ADV	nbn+jxc	_	18	dep	_	Translit=.bbun.man|LTranslit=.bbun+.man
 2	아니라	아니+라	SCONJ	paa+ecs	_	18	cc	_	Translit=.a.ni.ra|LTranslit=.a.ni+.ra
 3	호흡기관	호흡+기관	NOUN	ncpa+ncn	_	6	compound	_	SpaceAfter=No|Translit=.ho.heub.gi.gwan|LTranslit=.ho.heub+.gi.gwan
 4	,	,	PUNCT	sp	_	5	punct	_	Translit=,|LTranslit=,
@@ -13356,7 +13356,7 @@
 # sent_id = MH2_0070-s166
 # text = 뿐만 아니라 개별가계의 입장에서 보면 가계소득의 일부를 축적해둠으로써 안정된 경제생활을 영위하는데 기여한다.
 # translit = .bbun.man .a.ni.ra .gae.byeol.ga.gye.yi .ib.jang.e.seo .bo.myeon .ga.gye.so.deug.yi .il.bu.reul .chug.jeog.hae.dum.eu.ro.sseo .an.jeong.doen .gyeong.je.saeng.hwal.eul .yeong.wi.ha.neun.de .gi.yeo.han.da.
-1	뿐만	뿐+만	ADV	nbn+jxc	_	2	dep	_	Translit=.bbun.man|LTranslit=.bbun+.man
+1	뿐만	뿐+만	ADV	nbn+jxc	_	12	dep	_	Translit=.bbun.man|LTranslit=.bbun+.man
 2	아니라	아니+라	SCONJ	paa+ecs	_	12	cc	_	Translit=.a.ni.ra|LTranslit=.a.ni+.ra
 3	개별가계의	개별+가계+의	NOUN	ncpa+ncn+jcm	_	4	nmod	_	Translit=.gae.byeol.ga.gye.yi|LTranslit=.gae.byeol+.ga.gye+.yi
 4	입장에서	입장+에서	ADV	ncn+jca	_	5	advcl	_	Translit=.ib.jang.e.seo|LTranslit=.ib.jang+.e.seo
@@ -26994,7 +26994,7 @@
 5	형태에서의	형태+에서+의	NOUN	ncn+jca+jcm	_	7	nmod	_	Translit=.hyeong.tae.e.seo.yi|LTranslit=.hyeong.tae+.e.seo+.yi
 6	명백한	명백+하+ㄴ	VERB	ncps+xsm+etm	_	7	amod	_	Translit=.myeong.baeg.han|LTranslit=.myeong.baeg+.ha+ㄴ
 7	서술의	서술+의	NOUN	ncpa+jcm	_	8	nmod	_	Translit=.seo.sul.yi|LTranslit=.seo.sul+.yi
-8	형식에서든	형식+에서+든	ADV	ncn+jca+jxc	_	9	advcl	_	Translit=.hyeong.sig.e.seo.deun|LTranslit=.hyeong.sig+.e.seo+.deun
+8	형식에서든	형식+에서+든	ADV	ncn+jca+jxc	_	17	advcl	_	Translit=.hyeong.sig.e.seo.deun|LTranslit=.hyeong.sig+.e.seo+.deun
 9	혹은	혹은	CCONJ	maj	_	17	cc	_	Translit=.hog.eun|LTranslit=.hog.eun
 10	지배적인	지배+적+이+ㄴ	VERB	ncpa+xsn+jp+etm	_	12	acl	_	Translit=.ji.bae.jeog.in|LTranslit=.ji.bae+.jeog+.i+ㄴ
 11	언어	언어	NOUN	ncn	_	12	compound	_	Translit=.eon.eo|LTranslit=.eon.eo
@@ -27002,7 +27002,7 @@
 13	긴장	긴장	NOUN	ncps	_	14	compound	_	Translit=.gin.jang|LTranslit=.gin.jang
 14	상태가	상태+가	NOUN	ncn+jcs	_	15	nsubj	_	Translit=.sang.tae.ga|LTranslit=.sang.tae+.ga
 15	숨겨진	숨겨지+ㄴ	VERB	pvg+etm	_	16	acl	_	Translit=.sum.gyeo.jin|LTranslit=.sum.gyeo.ji+ㄴ
-16	상태에서이든	상태+에서+이든	ADV	ncn+jca+jxc	_	9	advcl	_	Translit=.sang.tae.e.seo.i.deun|LTranslit=.sang.tae+.e.seo+.i.deun
+16	상태에서이든	상태+에서+이든	ADV	ncn+jca+jxc	_	17	advcl	_	Translit=.sang.tae.e.seo.i.deun|LTranslit=.sang.tae+.e.seo+.i.deun
 17	그러한	그러하+ㄴ	VERB	pad+etm	_	0	root	_	Translit=.geu.reo.han|LTranslit=.geu.reo.ha+ㄴ
 18	것이다	것+이+다	VERB	nbn+jp+ef	_	17	advcl	_	SpaceAfter=No|Translit=.geos.i.da|LTranslit=.geos+.i+.da
 19	.	.	PUNCT	sf	_	18	punct	_	Translit=.|LTranslit=.

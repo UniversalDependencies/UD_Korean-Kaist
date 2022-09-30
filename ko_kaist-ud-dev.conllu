@@ -6961,10 +6961,10 @@
 4	최초에	최초+에	ADV	ncn+jca	_	5	obl	_	Translit=.choe.cho.e|LTranslit=.choe.cho+.e
 5	투입되었던	투입+되+었+던	VERB	ncpa+xsv+ep+etm	_	6	acl	_	Translit=.tu.ib.doe.eoss.deon|LTranslit=.tu.ib+.doe+.eoss+.deon
 6	화폐자본이	화폐+자본+이	NOUN	ncn+ncn+jcs	_	12	nsubj	_	Translit=.hwa.pye.ja.bon.i|LTranslit=.hwa.pye+.ja.bon+.i
-7	상품자본으로	상품+자본+으로	ADV	ncn+ncn+jca	_	8	advcl	_	Translit=.sang.pum.ja.bon.eu.ro|LTranslit=.sang.pum+.ja.bon+.eu.ro
+7	상품자본으로	상품+자본+으로	ADV	ncn+ncn+jca	_	12	advcl	_	Translit=.sang.pum.ja.bon.eu.ro|LTranslit=.sang.pum+.ja.bon+.eu.ro
 8	그리고	그리고	CCONJ	maj	_	12	cc	_	Translit=.geu.ri.go|LTranslit=.geu.ri.go
 9	증대된	증대+되+ㄴ	VERB	ncpa+xsv+etm	_	10	acl	_	Translit=.jeung.dae.doen|LTranslit=.jeung.dae+.doe+ㄴ
-10	화폐자본으로	화폐+자본+으로	ADV	ncn+ncn+jca	_	8	advcl	_	Translit=.hwa.pye.ja.bon.eu.ro|LTranslit=.hwa.pye+.ja.bon+.eu.ro
+10	화폐자본으로	화폐+자본+으로	ADV	ncn+ncn+jca	_	12	advcl	_	Translit=.hwa.pye.ja.bon.eu.ro|LTranslit=.hwa.pye+.ja.bon+.eu.ro
 11	다시	다시	ADV	mag	_	12	advmod	_	Translit=.da.si|LTranslit=.da.si
 12	돌아오는	돌+아+오+는	VERB	pvg+ecx+px+etm	_	14	acl	_	Translit=.dol.a.o.neun|LTranslit=.dol+.a+.o+.neun
 13	자본의	자본+의	NOUN	ncn+jcm	_	14	nmod	_	Translit=.ja.bon.yi|LTranslit=.ja.bon+.yi
@@ -32999,8 +32999,8 @@
 10	고통을	고통+을	NOUN	ncps+jco	_	11	obj	_	Translit=.go.tong.eul|LTranslit=.go.tong+.eul
 11	안겨주고	안기+어+주+고	VERB	pvg+ecx+px+ecx	_	7	conj	_	Translit=.an.gyeo.ju.go|LTranslit=.an.gi+.eo+.ju+.go
 12	있다	있	AUX	px+ef	_	11	aux	_	OrigLemma=있+다|SpaceAfter=No|Translit=.iss.da|LTranslit=.iss
-13	"	"	PUNCT	sr	_	12	punct	_	Translit="|LTranslit="
-14	고	고	ADP	jcr	_	12	case	_	Translit=.go|LTranslit=.go
+13	"	"	PUNCT	sr	_	11	punct	_	Translit="|LTranslit="
+14	고	고	ADP	jcr	_	11	case	_	Translit=.go|LTranslit=.go
 15	반박하고	반박+하+고	VERB	ncpa+xsv+ecx	_	7	conj	_	Translit=.ban.bag.ha.go|LTranslit=.ban.bag+.ha+.go
 16	있다	있	AUX	px+ef	_	15	aux	_	OrigLemma=있+다|SpaceAfter=No|Translit=.iss.da|LTranslit=.iss
 17	.	.	PUNCT	sf	_	16	punct	_	Translit=.|LTranslit=.
