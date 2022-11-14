@@ -22,6 +22,15 @@ The project repository: https://github.com/emorynlp/ud-korean
 
 # Changelog
 
+* 2022-11-15 v2.11
+  * Fixed right-headed apposition and non-projective punctuation.
+  * Symbols after numbers are units, not punctuation.
+  * Nouns cannot be attached as mark.
+  * Fixed: adverbially used nominals are obl, not advmod.
+  * Fixed: adverbially used verbs are advcl, not advmod.
+  * Positive copula is always lemmatized 이 so that the validator recognizes it.
+  * Fixed auxiliaries.
+  * Fixed: function words should be leaves.
 * 2018-04-15 v2.2
   * First release by Chun et al., 2018.
 
