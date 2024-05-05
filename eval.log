@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Korean-Kaist:
-commit 2bc19450639d65ea25472d6545858c4bb7c96421
+commit 6797439bc2a9558422eca801dc75da11856da879
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 11:21:12 2023 +0200
+Date:   Mon Nov 6 12:33:52 2023 +0100
 Size: counted 350090 of 350090 words (nodes).
 Size: min(0, log((N/1000)**2)) = 11.7163805285701.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -34,6 +34,7 @@ Genres: found 3 out of 17 known.
 [Line 4445 Sent MH2_0069-s141 Node 20]: [L3 Syntax too-many-subjects] Multiple subjects [13, 19] not subtyped as ':outer'.
 [Line 5032 Sent MH2_0069-s174 Node 13]: [L3 Syntax too-many-subjects] Multiple subjects [10, 12] not subtyped as ':outer'.
 [Line 8876 Sent MH2_0069-s384 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [3, 9] not subtyped as ':outer'.
+[Line 9608 Sent MH2_0069-s426 Node 19]: [L3 Syntax too-many-subjects] Multiple subjects [10, 18] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Syntax errors: 34
 *** FAILED *** with 34 errors
@@ -48,6 +49,7 @@ Exit code: 1
 [Line 4641 Sent MH2_0010-s154 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [10, 15] not subtyped as ':outer'.
 [Line 4904 Sent MH2_0010-s169 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [9, 11] not subtyped as ':outer'.
 [Line 6246 Sent MH2_0010-s246 Node 13]: [L3 Syntax too-many-subjects] Multiple subjects [9, 12] not subtyped as ':outer'.
+[Line 6829 Sent MH2_0010-s280 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [1, 4] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Syntax errors: 32
 *** FAILED *** with 32 errors
@@ -62,6 +64,7 @@ Exit code: 1
 [Line 8696 Sent M2TA_074-s3 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [3, 6] not subtyped as ':outer'.
 [Line 10894 Sent M2TA_082-s44 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [4, 5] not subtyped as ':outer'.
 [Line 11152 Sent M2TA_082-s63 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6] not subtyped as ':outer'.
+[Line 12181 Sent M2TA_083-s58 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [1, 4] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Syntax errors: 323
 *** FAILED *** with 323 errors
