@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Korean-Kaist:
-commit 56d958bfb1e17ffbe1b498522d3e0ded1cd7ee04
+commit 3eeac0bdd3d6d0cb6f6fa9b54dd73193e7384b17
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 12:58:58 2024 +0200
+Date:   Mon Nov 11 16:07:19 2024 +0100
 Size: counted 350090 of 350090 words (nodes).
 Size: min(0, log((N/1000)**2)) = 11.7163805285701.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,16 +20,27 @@ Features: source of annotation (from README) factor is 0.4.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL      88228
-Udapi: found 88228 bugs.
+               TOTAL      83483
+Udapi: found 83483 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 350090 words.
-Genres: found 3 out of 17 known.
+Genres: found 3 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ko --max-err=10 UD_Korean-Kaist/ko_kaist-ud-dev.conllu
+[Line 431 Sent M2TA_069-s29 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression '수밖에 없었습니다' does not have the 'ExtPos' feature
 [Line 495 Sent M2TA_069-s33 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [1, 5] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 750 Sent M2TA_069-s49 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [3, 6] not subtyped as ':outer'.
+[Line 821 Sent M2TA_079-s2 Node 14]: [L3 Warning fixed-without-extpos] Fixed expression '수 있게' does not have the 'ExtPos' feature
 [Line 1002 Sent M2TA_089-s1 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [4, 5] not subtyped as ':outer'.
+[Line 1131 Sent M2TA_089-s13 Node 12]: [L3 Warning fixed-without-extpos] Fixed expression '수가 있었다' does not have the 'ExtPos' feature
 [Line 1282 Sent M2TA_089-s23 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [3, 4] not subtyped as ':outer'.
+[Line 1504 Sent M2TA_089-s39 Node 13]: [L3 Warning fixed-without-extpos] Fixed expression '수 없다' does not have the 'ExtPos' feature
+[Line 1515 Sent M2TA_089-s40 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression '수 없었다' does not have the 'ExtPos' feature
+[Line 1660 Sent M2TA_089-s49 Node 12]: [L3 Warning fixed-without-extpos] Fixed expression '수 있다' does not have the 'ExtPos' feature
+[Line 1859 Sent M2TA_089-s65 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression '수 있는' does not have the 'ExtPos' feature
+[Line 1897 Sent M2TA_089-s68 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression '수 없이' does not have the 'ExtPos' feature
+[Line 2014 Sent MH2_0069-s6 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression '수 없다' does not have the 'ExtPos' feature
 [Line 2033 Sent MH2_0069-s7 Node 13]: [L3 Syntax too-many-subjects] Multiple subjects [10, 12] not subtyped as ':outer'.
+[Line 2034 Sent MH2_0069-s7 Node 14]: [L3 Warning fixed-without-extpos] Fixed expression '수 있다' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
 [Line 4392 Sent MH2_0069-s139 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [2, 3] not subtyped as ':outer'.
 [Line 4445 Sent MH2_0069-s141 Node 20]: [L3 Syntax too-many-subjects] Multiple subjects [13, 19] not subtyped as ':outer'.
 [Line 5032 Sent MH2_0069-s174 Node 13]: [L3 Syntax too-many-subjects] Multiple subjects [10, 12] not subtyped as ':outer'.
@@ -37,9 +48,21 @@ Genres: found 3 out of 17 known.
 [Line 9608 Sent MH2_0069-s426 Node 19]: [L3 Syntax too-many-subjects] Multiple subjects [10, 18] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Syntax errors: 34
+Warnings: 239
 *** FAILED *** with 34 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang ko --max-err=10 UD_Korean-Kaist/ko_kaist-ud-test.conllu
+[Line 17 Sent M2TA_070-s1 Node 14]: [L3 Warning fixed-without-extpos] Fixed expression '수 있게' does not have the 'ExtPos' feature
+[Line 105 Sent M2TA_070-s6 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression '뿐만 아니라' does not have the 'ExtPos' feature
+[Line 189 Sent M2TA_070-s11 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression '수 있도록' does not have the 'ExtPos' feature
+[Line 373 Sent M2TA_070-s24 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression '수 있게' does not have the 'ExtPos' feature
+[Line 883 Sent M2TA_070-s57 Node 9]: [L3 Warning fixed-without-extpos] Fixed expression '수 있는' does not have the 'ExtPos' feature
+[Line 1014 Sent M2TA_070-s64 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression '수 없었다' does not have the 'ExtPos' feature
+[Line 1317 Sent M2TA_090-s4 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression '수 있다' does not have the 'ExtPos' feature
+[Line 1398 Sent M2TA_090-s10 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression '수 있다' does not have the 'ExtPos' feature
+[Line 1641 Sent M2TA_090-s30 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression '수 있을까' does not have the 'ExtPos' feature
+[Line 1732 Sent M2TA_090-s37 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression '수 없을' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
 [Line 1835 Sent M2TA_090-s45 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [4, 5] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 2510 Sent MH2_0010-s30 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [2, 3] not subtyped as ':outer'.
 [Line 2932 Sent MH2_0010-s54 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [2, 3] not subtyped as ':outer'.
@@ -52,11 +75,23 @@ Exit code: 1
 [Line 6829 Sent MH2_0010-s280 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [1, 4] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Syntax errors: 32
+Warnings: 171
 *** FAILED *** with 32 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang ko --max-err=10 UD_Korean-Kaist/ko_kaist-ud-train.conllu
+[Line 12 Sent M2TA_064-s1 Node 9]: [L3 Warning fixed-without-extpos] Fixed expression '수 있다' does not have the 'ExtPos' feature
 [Line 170 Sent M2TA_064-s11 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [4, 6] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 344 Sent M2TA_064-s22 Node 13]: [L3 Warning fixed-without-extpos] Fixed expression '수 있겠기' does not have the 'ExtPos' feature
+[Line 491 Sent M2TA_064-s33 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression '수도 없는' does not have the 'ExtPos' feature
+[Line 507 Sent M2TA_064-s34 Node 9]: [L3 Warning fixed-without-extpos] Fixed expression '수 없다' does not have the 'ExtPos' feature
+[Line 800 Sent M2TA_064-s53 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression '수 없음을' does not have the 'ExtPos' feature
+[Line 968 Sent M2TA_065-s2 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression '수 있는' does not have the 'ExtPos' feature
+[Line 1005 Sent M2TA_065-s5 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression '수 없는' does not have the 'ExtPos' feature
+[Line 1040 Sent M2TA_065-s7 Node 9]: [L3 Warning fixed-without-extpos] Fixed expression '수 있다' does not have the 'ExtPos' feature
+[Line 1148 Sent M2TA_065-s15 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression '수는 없다' does not have the 'ExtPos' feature
+[Line 1160 Sent M2TA_065-s16 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression '수 있는' does not have the 'ExtPos' feature
 [Line 1604 Sent M2TA_065-s48 Node 15]: [L3 Syntax too-many-subjects] Multiple subjects [11, 13] not subtyped as ':outer'.
+...suppressing further errors regarding Warning
 [Line 2068 Sent M2TA_065-s83 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [2, 3] not subtyped as ':outer'.
 [Line 7456 Sent M2TA_072-s23 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [7, 9] not subtyped as ':outer'.
 [Line 8193 Sent M2TA_073-s26 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [3, 7] not subtyped as ':outer'.
@@ -67,17 +102,18 @@ Exit code: 1
 [Line 12181 Sent M2TA_083-s58 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [1, 4] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Syntax errors: 323
+Warnings: 2776
 *** FAILED *** with 323 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.01) = 0.000769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.176470588235294) = 0.0135746606334842
+(weight=0.0769230769230769) * (score{genres}=0.166666666666667) = 0.0128205128205128
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
 (weight=0.256410256410256) * (score{size}=0.848059901906116) = 0.217451256899004
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.8) = 0.0615384615384615
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.691891891891892) = 0.0532224532224532
-(TOTAL score=0.46245349896007) * (availability=1) * (validity=0.01) = 0.0046245349896007
+(TOTAL score=0.461699351147098) * (availability=1) * (validity=0.01) = 0.00461699351147098
 STARS = 0
-UD_Korean-Kaist	0.0046245349896007	0
+UD_Korean-Kaist	0.00461699351147098	0
