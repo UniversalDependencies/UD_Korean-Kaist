@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Korean-Kaist:
-commit 74cd5a9a7f9604648579ff1a4670233d0969a8a6
-Merge: ef24424 4797c05
+commit 42e00019365b690d6bf47d5d09af6527671e159a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 20:10:46 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'ko_kaist'
 Language code (from CoNLL-U file name) = 'ko'
@@ -25,94 +25,94 @@ Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 3 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ko --max-err=10 UD_Korean-Kaist/ko_kaist-ud-dev.conllu
-[Line 431 Sent M2TA_069-s29]: [L3 Warning fixed-without-extpos] Fixed expression '수밖에 없었습니다' does not have the 'ExtPos' feature
-[Line 495 Sent M2TA_069-s33]: [L3 Syntax too-many-subjects] Multiple subjects [1, 5] ('정동이 .jeong.dong.i', '발상지가 .bal.sang.ji.ga') under the predicate '된 .doen' not subtyped as ':outer'.
+[Line 431 Sent M2TA_069-s29]: [L3 WARNING fixed-without-extpos] Fixed expression '수밖에 없었습니다' does not have the 'ExtPos' feature
+[Line 495 Sent M2TA_069-s33]: [L3 SYNTAX too-many-subjects] Multiple subjects [1, 5] ('정동이 .jeong.dong.i', '발상지가 .bal.sang.ji.ga') under the predicate '된 .doen' not subtyped as ':outer'.
 
 Outer subjects are allowed if a clause acts as the predicate of another clause.
 
-[Line 729 Sent M2TA_069-s48]: [L3 Warning obl-should-be-nmod] The parent (node [4] '이승만은 .i.seung.man.eun') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 750 Sent M2TA_069-s49]: [L3 Syntax too-many-subjects] Multiple subjects [3, 6] ('밀의두가 .mil.yi.du.ga', '교장이 .gyo.jang.i') under the predicate '되리라고 .doe.ri.ra.go' not subtyped as ':outer'.
-[Line 821 Sent M2TA_079-s2]: [L3 Warning fixed-without-extpos] Fixed expression '수 있게' does not have the 'ExtPos' feature
-[Line 1002 Sent M2TA_089-s1]: [L3 Syntax too-many-subjects] Multiple subjects [4, 5] ('내가 .nae.ga', '왕이 .wang.i') under the predicate '된 .doen' not subtyped as ':outer'.
-[Line 1131 Sent M2TA_089-s13]: [L3 Warning fixed-without-extpos] Fixed expression '수가 있었다' does not have the 'ExtPos' feature
-[Line 1282 Sent M2TA_089-s23]: [L3 Syntax too-many-subjects] Multiple subjects [3, 4] ('남편들이 .nam.pyeon.deul.i', '사고가 .sa.go.ga') under the predicate '나니까요 .na.ni.gga.yo' not subtyped as ':outer'.
-[Line 1504 Sent M2TA_089-s39]: [L3 Warning fixed-without-extpos] Fixed expression '수 없다' does not have the 'ExtPos' feature
-[Line 1515 Sent M2TA_089-s40]: [L3 Warning fixed-without-extpos] Fixed expression '수 없었다' does not have the 'ExtPos' feature
-[Line 1660 Sent M2TA_089-s49]: [L3 Warning fixed-without-extpos] Fixed expression '수 있다' does not have the 'ExtPos' feature
-[Line 1859 Sent M2TA_089-s65]: [L3 Warning fixed-without-extpos] Fixed expression '수 있는' does not have the 'ExtPos' feature
-[Line 1897 Sent M2TA_089-s68]: [L3 Warning fixed-without-extpos] Fixed expression '수 없이' does not have the 'ExtPos' feature
-[Line 2014 Sent MH2_0069-s6]: [L3 Warning fixed-without-extpos] Fixed expression '수 없다' does not have the 'ExtPos' feature
-[Line 2033 Sent MH2_0069-s7]: [L3 Syntax too-many-subjects] Multiple subjects [10, 12] ('때만이 .ddae.man.i', '학문이 .hag.mun.i') under the predicate '될 .doel' not subtyped as ':outer'.
-...suppressing further errors regarding Warning
-[Line 3630 Sent MH2_0069-s97]: [L3 Syntax too-many-objects] Multiple direct objects [6, 9] ('소재를 .so.jae.reul', '노동을 .no.dong.eul') under the predicate '가미함으로써 .ga.mi.ham.eu.ro.sseo'.
-[Line 4392 Sent MH2_0069-s139]: [L3 Syntax too-many-subjects] Multiple subjects [2, 3] ('정보상품이 .jeong.bo.sang.pum.i', '인기가 .in.gi.ga') under the predicate '있게 .iss.ge' not subtyped as ':outer'.
-[Line 4445 Sent MH2_0069-s141]: [L3 Syntax too-many-subjects] Multiple subjects [13, 19] ('해저 .hae.jeo', '부가 .bu.ga') under the predicate '팔려나갔다 .pal.ryeo.na.gass.da' not subtyped as ':outer'.
-[Line 5032 Sent MH2_0069-s174]: [L3 Syntax too-many-subjects] Multiple subjects [10, 12] ('그것이 .geu.geos.i', '현실적이 .hyeon.sil.jeog.i') under the predicate '되며 .doe.myeo' not subtyped as ':outer'.
-[Line 6312 Sent MH2_0069-s241]: [L3 Syntax too-many-objects] Multiple direct objects [8, 16] ('문제점을 .mun.je.jeom.eul', '화살을 .hwa.sal.eul') under the predicate '돌리고 .dol.ri.go'.
-...suppressing further errors regarding Syntax
-Syntax errors: 40
-Warnings: 264
-*** FAILED *** with 40 errors
+[Line 729 Sent M2TA_069-s48]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] '이승만은 .i.seung.man.eun') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 750 Sent M2TA_069-s49]: [L3 SYNTAX too-many-subjects] Multiple subjects [3, 6] ('밀의두가 .mil.yi.du.ga', '교장이 .gyo.jang.i') under the predicate '되리라고 .doe.ri.ra.go' not subtyped as ':outer'.
+[Line 821 Sent M2TA_079-s2]: [L3 WARNING fixed-without-extpos] Fixed expression '수 있게' does not have the 'ExtPos' feature
+[Line 1002 Sent M2TA_089-s1]: [L3 SYNTAX too-many-subjects] Multiple subjects [4, 5] ('내가 .nae.ga', '왕이 .wang.i') under the predicate '된 .doen' not subtyped as ':outer'.
+[Line 1131 Sent M2TA_089-s13]: [L3 WARNING fixed-without-extpos] Fixed expression '수가 있었다' does not have the 'ExtPos' feature
+[Line 1282 Sent M2TA_089-s23]: [L3 SYNTAX too-many-subjects] Multiple subjects [3, 4] ('남편들이 .nam.pyeon.deul.i', '사고가 .sa.go.ga') under the predicate '나니까요 .na.ni.gga.yo' not subtyped as ':outer'.
+[Line 1504 Sent M2TA_089-s39]: [L3 WARNING fixed-without-extpos] Fixed expression '수 없다' does not have the 'ExtPos' feature
+[Line 1515 Sent M2TA_089-s40]: [L3 WARNING fixed-without-extpos] Fixed expression '수 없었다' does not have the 'ExtPos' feature
+[Line 1660 Sent M2TA_089-s49]: [L3 WARNING fixed-without-extpos] Fixed expression '수 있다' does not have the 'ExtPos' feature
+[Line 1859 Sent M2TA_089-s65]: [L3 WARNING fixed-without-extpos] Fixed expression '수 있는' does not have the 'ExtPos' feature
+[Line 1897 Sent M2TA_089-s68]: [L3 WARNING fixed-without-extpos] Fixed expression '수 없이' does not have the 'ExtPos' feature
+[Line 2014 Sent MH2_0069-s6]: [L3 WARNING fixed-without-extpos] Fixed expression '수 없다' does not have the 'ExtPos' feature
+[Line 2033 Sent MH2_0069-s7]: [L3 SYNTAX too-many-subjects] Multiple subjects [10, 12] ('때만이 .ddae.man.i', '학문이 .hag.mun.i') under the predicate '될 .doel' not subtyped as ':outer'.
+[Line 2034 Sent MH2_0069-s7]: [L3 WARNING fixed-without-extpos] Fixed expression '수 있다' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 3630 Sent MH2_0069-s97]: [L3 SYNTAX too-many-objects] Multiple direct objects [6, 9] ('소재를 .so.jae.reul', '노동을 .no.dong.eul') under the predicate '가미함으로써 .ga.mi.ham.eu.ro.sseo'.
+[Line 4392 Sent MH2_0069-s139]: [L3 SYNTAX too-many-subjects] Multiple subjects [2, 3] ('정보상품이 .jeong.bo.sang.pum.i', '인기가 .in.gi.ga') under the predicate '있게 .iss.ge' not subtyped as ':outer'.
+[Line 4445 Sent MH2_0069-s141]: [L3 SYNTAX too-many-subjects] Multiple subjects [13, 19] ('해저 .hae.jeo', '부가 .bu.ga') under the predicate '팔려나갔다 .pal.ryeo.na.gass.da' not subtyped as ':outer'.
+[Line 5032 Sent MH2_0069-s174]: [L3 SYNTAX too-many-subjects] Multiple subjects [10, 12] ('그것이 .geu.geos.i', '현실적이 .hyeon.sil.jeog.i') under the predicate '되며 .doe.myeo' not subtyped as ':outer'.
+...suppressing further messages regarding ERROR/SYNTAX
+Warnings: 239
+SYNTAX errors: 61
+*** FAILED *** with 61 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang ko --max-err=10 UD_Korean-Kaist/ko_kaist-ud-test.conllu
-[Line 17 Sent M2TA_070-s1]: [L3 Warning fixed-without-extpos] Fixed expression '수 있게' does not have the 'ExtPos' feature
-[Line 105 Sent M2TA_070-s6]: [L3 Warning fixed-without-extpos] Fixed expression '뿐만 아니라' does not have the 'ExtPos' feature
-[Line 189 Sent M2TA_070-s11]: [L3 Warning fixed-without-extpos] Fixed expression '수 있도록' does not have the 'ExtPos' feature
-[Line 373 Sent M2TA_070-s24]: [L3 Warning fixed-without-extpos] Fixed expression '수 있게' does not have the 'ExtPos' feature
-[Line 383 Sent M2TA_070-s25]: [L3 Warning obl-should-be-nmod] The parent (node [2] '정권의 .jeong.gweon.yi') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 404 Sent M2TA_070-s26]: [L3 Warning obl-should-be-nmod] The parent (node [2] '정권은 .jeong.gweon.eun') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 517 Sent M2TA_070-s33]: [L3 Warning obl-should-be-nmod] The parent (node [8] '일당의 .il.dang.yi') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 635 Sent M2TA_070-s42]: [L3 Warning obl-should-be-nmod] The parent (node [5] '정권이 .jeong.gweon.i') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 720 Sent M2TA_070-s47]: [L3 Warning obl-should-be-nmod] The parent (node [10] '계층이 .gye.cheung.i') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 736 Sent M2TA_070-s48]: [L3 Warning obl-should-be-nmod] The parent (node [2] '세력은 .se.ryeog.eun') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-...suppressing further errors regarding Warning
-[Line 1835 Sent M2TA_090-s45]: [L3 Syntax too-many-subjects] Multiple subjects [4, 5] ('회사가 .hoe.sa.ga', '무엇이 .mu.eos.i') under the predicate '잘못되고 .jal.mos.doe.go' not subtyped as ':outer'.
+[Line 17 Sent M2TA_070-s1]: [L3 WARNING fixed-without-extpos] Fixed expression '수 있게' does not have the 'ExtPos' feature
+[Line 105 Sent M2TA_070-s6]: [L3 WARNING fixed-without-extpos] Fixed expression '뿐만 아니라' does not have the 'ExtPos' feature
+[Line 189 Sent M2TA_070-s11]: [L3 WARNING fixed-without-extpos] Fixed expression '수 있도록' does not have the 'ExtPos' feature
+[Line 373 Sent M2TA_070-s24]: [L3 WARNING fixed-without-extpos] Fixed expression '수 있게' does not have the 'ExtPos' feature
+[Line 383 Sent M2TA_070-s25]: [L3 SYNTAX obl-should-be-nmod] The parent (node [2] '정권의 .jeong.gweon.yi') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 404 Sent M2TA_070-s26]: [L3 SYNTAX obl-should-be-nmod] The parent (node [2] '정권은 .jeong.gweon.eun') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 517 Sent M2TA_070-s33]: [L3 SYNTAX obl-should-be-nmod] The parent (node [8] '일당의 .il.dang.yi') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 635 Sent M2TA_070-s42]: [L3 SYNTAX obl-should-be-nmod] The parent (node [5] '정권이 .jeong.gweon.i') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 720 Sent M2TA_070-s47]: [L3 SYNTAX obl-should-be-nmod] The parent (node [10] '계층이 .gye.cheung.i') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 736 Sent M2TA_070-s48]: [L3 SYNTAX obl-should-be-nmod] The parent (node [2] '세력은 .se.ryeog.eun') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 826 Sent M2TA_070-s54]: [L3 SYNTAX obl-should-be-nmod] The parent (node [2] '정권의 .jeong.gweon.yi') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 864 Sent M2TA_070-s56]: [L3 SYNTAX obl-should-be-nmod] The parent (node [2] '세력은 .se.ryeog.eun') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 883 Sent M2TA_070-s57]: [L3 WARNING fixed-without-extpos] Fixed expression '수 있는' does not have the 'ExtPos' feature
+[Line 1014 Sent M2TA_070-s64]: [L3 WARNING fixed-without-extpos] Fixed expression '수 없었다' does not have the 'ExtPos' feature
+[Line 1036 Sent M2TA_070-s66]: [L3 SYNTAX obl-should-be-nmod] The parent (node [2] '정권은 .jeong.gweon.eun') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1317 Sent M2TA_090-s4]: [L3 WARNING fixed-without-extpos] Fixed expression '수 있다' does not have the 'ExtPos' feature
+[Line 1398 Sent M2TA_090-s10]: [L3 WARNING fixed-without-extpos] Fixed expression '수 있다' does not have the 'ExtPos' feature
+[Line 1641 Sent M2TA_090-s30]: [L3 WARNING fixed-without-extpos] Fixed expression '수 있을까' does not have the 'ExtPos' feature
+[Line 1732 Sent M2TA_090-s37]: [L3 WARNING fixed-without-extpos] Fixed expression '수 없을' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 1835 Sent M2TA_090-s45]: [L3 SYNTAX too-many-subjects] Multiple subjects [4, 5] ('회사가 .hoe.sa.ga', '무엇이 .mu.eos.i') under the predicate '잘못되고 .jal.mos.doe.go' not subtyped as ':outer'.
 
 Outer subjects are allowed if a clause acts as the predicate of another clause.
 
-[Line 2510 Sent MH2_0010-s30]: [L3 Syntax too-many-subjects] Multiple subjects [2, 3] ('저유탱크가 .jeo.yu.taeng.keu.ga', '6기가 6.gi.ga') under the predicate '있고 .iss.go' not subtyped as ':outer'.
-[Line 2932 Sent MH2_0010-s54]: [L3 Syntax too-many-subjects] Multiple subjects [2, 3] ('열풍난방방식이 .yeol.pung.nan.bang.bang.sig.i', '문제가 .mun.je.ga') under the predicate '생겨 .saeng.gyeo' not subtyped as ':outer'.
-[Line 3572 Sent MH2_0010-s90]: [L3 Syntax too-many-subjects] Multiple subjects [3, 5] ('최대풍속이 .choe.dae.pung.sog.i', '20미터가 20.mi.teo.ga') under the predicate '넘더니 .neom.deo.ni' not subtyped as ':outer'.
-[Line 3806 Sent MH2_0010-s103]: [L3 Syntax too-many-subjects] Multiple subjects [6, 9] ('것이 .geos.i', '일이 .il.i') under the predicate '아니기 .a.ni.gi' not subtyped as ':outer'.
-[Line 3865 Sent MH2_0010-s107]: [L3 Syntax too-many-subjects] Multiple subjects [3, 5] ('문제가 .mun.je.ga', '체류비용이 .che.ryu.bi.yong.i') under the predicate '아닌 .a.nin' not subtyped as ':outer'.
-[Line 4641 Sent MH2_0010-s154]: [L3 Syntax too-many-subjects] Multiple subjects [10, 15] ('빙벽이 .bing.byeog.i', '수십미터가 .su.sib.mi.teo.ga') under the predicate '무너져 .mu.neo.jyeo' not subtyped as ':outer'.
-[Line 4904 Sent MH2_0010-s169]: [L3 Syntax too-many-subjects] Multiple subjects [9, 11] ('공기가 .gong.gi.ga', '공기가 .gong.gi.ga') under the predicate '아니라는 .a.ni.ra.neun' not subtyped as ':outer'.
-[Line 6246 Sent MH2_0010-s246]: [L3 Syntax too-many-subjects] Multiple subjects [9, 12] ('눈이 .nun.i', '정도가 .jeong.do.ga') under the predicate '되었다 .doe.eoss.da' not subtyped as ':outer'.
-[Line 6829 Sent MH2_0010-s280]: [L3 Syntax too-many-subjects] Multiple subjects [1, 4] ('펭귄이 .peng.gwin.i', '마리가 .ma.ri.ga') under the predicate '있었고 .iss.eoss.go' not subtyped as ':outer'.
-...suppressing further errors regarding Syntax
-Syntax errors: 35
-Warnings: 249
-*** FAILED *** with 35 errors
+...suppressing further messages regarding ERROR/SYNTAX
+Warnings: 171
+SYNTAX errors: 107
+*** FAILED *** with 107 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang ko --max-err=10 UD_Korean-Kaist/ko_kaist-ud-train.conllu
-[Line 12 Sent M2TA_064-s1]: [L3 Warning fixed-without-extpos] Fixed expression '수 있다' does not have the 'ExtPos' feature
-[Line 170 Sent M2TA_064-s11]: [L3 Syntax too-many-subjects] Multiple subjects [4, 6] ('도덕성이 .do.deog.seong.i', '기준이 .gi.jun.i') under the predicate '되기 .doe.gi' not subtyped as ':outer'.
+[Line 12 Sent M2TA_064-s1]: [L3 WARNING fixed-without-extpos] Fixed expression '수 있다' does not have the 'ExtPos' feature
+[Line 170 Sent M2TA_064-s11]: [L3 SYNTAX too-many-subjects] Multiple subjects [4, 6] ('도덕성이 .do.deog.seong.i', '기준이 .gi.jun.i') under the predicate '되기 .doe.gi' not subtyped as ':outer'.
 
 Outer subjects are allowed if a clause acts as the predicate of another clause.
 
-[Line 344 Sent M2TA_064-s22]: [L3 Warning fixed-without-extpos] Fixed expression '수 있겠기' does not have the 'ExtPos' feature
-[Line 491 Sent M2TA_064-s33]: [L3 Warning fixed-without-extpos] Fixed expression '수도 없는' does not have the 'ExtPos' feature
-[Line 507 Sent M2TA_064-s34]: [L3 Warning fixed-without-extpos] Fixed expression '수 없다' does not have the 'ExtPos' feature
-[Line 800 Sent M2TA_064-s53]: [L3 Warning fixed-without-extpos] Fixed expression '수 없음을' does not have the 'ExtPos' feature
-[Line 968 Sent M2TA_065-s2]: [L3 Warning fixed-without-extpos] Fixed expression '수 있는' does not have the 'ExtPos' feature
-[Line 1005 Sent M2TA_065-s5]: [L3 Warning fixed-without-extpos] Fixed expression '수 없는' does not have the 'ExtPos' feature
-[Line 1040 Sent M2TA_065-s7]: [L3 Warning fixed-without-extpos] Fixed expression '수 있다' does not have the 'ExtPos' feature
-[Line 1148 Sent M2TA_065-s15]: [L3 Warning fixed-without-extpos] Fixed expression '수는 없다' does not have the 'ExtPos' feature
-[Line 1160 Sent M2TA_065-s16]: [L3 Warning fixed-without-extpos] Fixed expression '수 있는' does not have the 'ExtPos' feature
-[Line 1604 Sent M2TA_065-s48]: [L3 Syntax too-many-subjects] Multiple subjects [11, 13] ('그것이 .geu.geos.i', '피와 .pi.wa') under the predicate '되기 .doe.gi' not subtyped as ':outer'.
-...suppressing further errors regarding Warning
-[Line 2068 Sent M2TA_065-s83]: [L3 Syntax too-many-subjects] Multiple subjects [2, 3] ('그것들이 .geu.geos.deul.i', '맛이 .mas.i') under the predicate '없었다면 .eobs.eoss.da.myeon' not subtyped as ':outer'.
-[Line 7456 Sent M2TA_072-s23]: [L3 Syntax too-many-subjects] Multiple subjects [7, 9] ('약이 .yag.i', '효과가 .hyo.gwa.ga') under the predicate '없는 .eobs.neun' not subtyped as ':outer'.
-[Line 8193 Sent M2TA_073-s26]: [L3 Syntax too-many-subjects] Multiple subjects [3, 7] ('차량이 .cha.ryang.i', '안정성이 .an.jeong.seong.i') under the predicate '높다 .nop.da' not subtyped as ':outer'.
-[Line 8237 Sent M2TA_073-s28]: [L3 Syntax too-many-subjects] Multiple subjects [14, 16] ('때가 .ddae.ga', '안정성이 .an.jeong.seong.i') under the predicate '있다 .iss.da' not subtyped as ':outer'.
-[Line 8696 Sent M2TA_074-s3]: [L3 Syntax too-many-subjects] Multiple subjects [3, 6] ('자체가 .ja.che.ga', '근원이 .geun.weon.i') under the predicate '되는 .doe.neun' not subtyped as ':outer'.
-[Line 10894 Sent M2TA_082-s44]: [L3 Syntax too-many-subjects] Multiple subjects [4, 5] ('나무가 .na.mu.ga', '숲이 .sup.i') under the predicate '되고 .doe.go' not subtyped as ':outer'.
-[Line 11152 Sent M2TA_082-s63]: [L3 Syntax too-many-subjects] Multiple subjects [5, 6] ('학생이 .hag.saeng.i', '스무명이 .seu.mu.myeong.i') under the predicate '넘어요 .neom.eo.yo' not subtyped as ':outer'.
-[Line 12181 Sent M2TA_083-s58]: [L3 Syntax too-many-subjects] Multiple subjects [1, 4] ('머리카락이 .meo.ri.ka.rag.i', '것이 .geos.i') under the predicate '남아 .nam.a' not subtyped as ':outer'.
-...suppressing further errors regarding Syntax
-Syntax errors: 371
-Warnings: 3211
-*** FAILED *** with 371 errors
+[Line 344 Sent M2TA_064-s22]: [L3 WARNING fixed-without-extpos] Fixed expression '수 있겠기' does not have the 'ExtPos' feature
+[Line 491 Sent M2TA_064-s33]: [L3 WARNING fixed-without-extpos] Fixed expression '수도 없는' does not have the 'ExtPos' feature
+[Line 507 Sent M2TA_064-s34]: [L3 WARNING fixed-without-extpos] Fixed expression '수 없다' does not have the 'ExtPos' feature
+[Line 800 Sent M2TA_064-s53]: [L3 WARNING fixed-without-extpos] Fixed expression '수 없음을' does not have the 'ExtPos' feature
+[Line 968 Sent M2TA_065-s2]: [L3 WARNING fixed-without-extpos] Fixed expression '수 있는' does not have the 'ExtPos' feature
+[Line 1005 Sent M2TA_065-s5]: [L3 WARNING fixed-without-extpos] Fixed expression '수 없는' does not have the 'ExtPos' feature
+[Line 1040 Sent M2TA_065-s7]: [L3 WARNING fixed-without-extpos] Fixed expression '수 있다' does not have the 'ExtPos' feature
+[Line 1148 Sent M2TA_065-s15]: [L3 WARNING fixed-without-extpos] Fixed expression '수는 없다' does not have the 'ExtPos' feature
+[Line 1160 Sent M2TA_065-s16]: [L3 WARNING fixed-without-extpos] Fixed expression '수 있는' does not have the 'ExtPos' feature
+[Line 1604 Sent M2TA_065-s48]: [L3 SYNTAX too-many-subjects] Multiple subjects [11, 13] ('그것이 .geu.geos.i', '피와 .pi.wa') under the predicate '되기 .doe.gi' not subtyped as ':outer'.
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 1898 Sent M2TA_065-s70]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] '야채가 .ya.chae.ga') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 2068 Sent M2TA_065-s83]: [L3 SYNTAX too-many-subjects] Multiple subjects [2, 3] ('그것들이 .geu.geos.deul.i', '맛이 .mas.i') under the predicate '없었다면 .eobs.eoss.da.myeon' not subtyped as ':outer'.
+[Line 5053 Sent M2TA_066-s156]: [L3 SYNTAX obl-should-be-nmod] The parent (node [8] '부위에는 .bu.wi.e.neun') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 5114 Sent M2TA_066-s161]: [L3 SYNTAX obl-should-be-nmod] The parent (node [8] '부분에는 .bu.bun.e.neun') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 5366 Sent M2TA_066-s178]: [L3 SYNTAX obl-should-be-nmod] The parent (node [10] '트러블의 .teu.reo.beul.yi') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 5603 Sent M2TA_066-s193]: [L3 SYNTAX obl-should-be-nmod] The parent (node [12] '재료를 .jae.ryo.reul') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 7456 Sent M2TA_072-s23]: [L3 SYNTAX too-many-subjects] Multiple subjects [7, 9] ('약이 .yag.i', '효과가 .hyo.gwa.ga') under the predicate '없는 .eobs.neun' not subtyped as ':outer'.
+[Line 8193 Sent M2TA_073-s26]: [L3 SYNTAX too-many-subjects] Multiple subjects [3, 7] ('차량이 .cha.ryang.i', '안정성이 .an.jeong.seong.i') under the predicate '높다 .nop.da' not subtyped as ':outer'.
+...suppressing further messages regarding ERROR/SYNTAX
+Warnings: 2776
+SYNTAX errors: 755
+*** FAILED *** with 755 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.01) = 0.00111111111111111
