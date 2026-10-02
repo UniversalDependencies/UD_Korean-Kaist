@@ -37,7 +37,7 @@
   <feats unique="0">
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="32">
+  <deps unique="33">
     <dep name="acl">21531</dep>
     <dep name="advcl">24031</dep>
     <dep name="advmod">15447</dep>
@@ -61,7 +61,8 @@
     <dep name="iobj">967</dep>
     <dep name="mark">667</dep>
     <dep name="nmod">22041</dep>
-    <dep name="nsubj">17444</dep>
+    <dep name="nsubj">17052</dep>
+    <dep name="nsubj:outer">392</dep>
     <dep name="nummod">3542</dep>
     <dep name="obj">23605</dep>
     <dep name="obl">19340</dep>
